@@ -1,0 +1,2524 @@
+,movieId,weightedRating,similarityIndex,score,title,year
+0,32387,5.0,1.0,5.0,"Sword of Doom, The (Dai-bosatsu tôge)",1966
+1,28,5.0,1.0,5.0,Persuasion,1995
+2,32291,5.0,1.0,5.0,Melinda and Melinda,2004
+3,32213,5.000000000000001,1.0000000000000002,5.0,Cube Zero,2004
+4,32840,5.0,1.0,5.0,Vincent,1982
+5,1086,5.000000000000001,1.0000000000000002,5.0,Dial M for Murder,1954
+6,1131,5.0,1.0,5.0,Jean de Florette,1986
+7,1099,5.0,1.0,5.0,"Christmas Carol, A",1938
+8,1189,5.0,1.0,5.0,"Thin Blue Line, The",1988
+9,1202,5.000000000000001,1.0000000000000002,5.0,Withnail & I,1987
+10,1233,10.0,2.0,5.0,"Boot, Das (Boat, The)",1981
+11,1232,5.0,1.0,5.0,Stalker,1979
+12,8195,5.0,1.0,5.0,"Avventura, L' (Adventure, The)",1960
+13,581,5.0,1.0,5.0,"Celluloid Closet, The",1995
+14,556,5.0,1.0,5.0,"War Room, The",1993
+15,1241,5.0,1.0,5.0,Dead Alive (Braindead),1992
+16,1238,5.0,1.0,5.0,Local Hero,1983
+17,1297,5.0,1.0,5.0,Real Genius,1985
+18,1296,10.0,2.0,5.0,"Room with a View, A",1986
+19,1290,5.0,1.0,5.0,Some Kind of Wonderful,1987
+20,1321,5.0,1.0,5.0,"American Werewolf in London, An",1981
+21,1414,5.0,1.0,5.0,Mother,1996
+22,6947,5.0,1.0,5.0,Master and Commander: The Far Side of the World,2003
+23,7132,5.000000000000001,1.0000000000000002,5.0,"Night at the Opera, A",1935
+24,7302,5.0,1.0,5.0,"Thief of Bagdad, The",1924
+25,7293,5.0,1.0,5.0,50 First Dates,2004
+26,7161,5.0,1.0,5.0,Cheaper by the Dozen,2003
+27,7766,5.0,1.0,5.0,Throne of Blood (Kumonosu jô),1957
+28,112,10.0,2.0,5.0,Rumble in the Bronx (Hont faan kui),1995
+29,94,5.0,1.0,5.0,Beautiful Girls,1996
+30,501,5.0,1.0,5.0,Naked,1993
+31,1484,5.0,1.0,5.0,"Daytrippers, The",1996
+32,1457,5.0,1.0,5.0,Fools Rush In,1997
+33,1446,5.0,1.0,5.0,Kolya (Kolja),1996
+34,78499,5.0,1.0,5.0,Toy Story 3,2010
+35,1649,5.0,1.0,5.0,"Fast, Cheap & Out of Control",1997
+36,1753,5.000000000000001,1.0000000000000002,5.0,Half Baked,1998
+37,1900,5.0,1.0,5.0,"Children of Heaven, The (Bacheha-Ye Aseman)",1997
+38,73713,5.0,1.0,5.0,"Butterfly, The (Papillon, Le)",2002
+39,2132,5.0,1.0,5.0,Who's Afraid of Virginia Woolf?,1966
+40,2130,5.0,1.0,5.0,Atlantic City,1980
+41,83349,5.0,1.0,5.0,"Green Hornet, The",2011
+42,43869,5.000000000000001,1.0000000000000002,5.0,Curious George,2006
+43,6791,5.0,1.0,5.0,Babette's Feast (Babettes gæstebud),1987
+44,6770,5.0,1.0,5.0,My Life Without Me,2003
+45,6944,5.0,1.0,5.0,Father of the Bride,1991
+46,6890,5.0,1.0,5.0,Elephant,2003
+47,6881,5.0,1.0,5.0,Pieces of April,2003
+48,149,5.0,1.0,5.0,Amateur,1994
+49,121,5.0,1.0,5.0,"Boys of St. Vincent, The",1992
+50,2184,5.0,1.0,5.0,"Trouble with Harry, The",1955
+51,2146,5.0,1.0,5.0,St. Elmo's Fire,1985
+52,2266,5.0,1.0,5.0,"Butcher's Wife, The",1991
+53,2262,5.0,1.0,5.0,About Last Night...,1986
+54,2318,5.0,1.0,5.0,Happiness,1998
+55,71106,5.0,1.0,5.0,Frequently Asked Questions About Time Travel,2009
+56,408,5.0,1.0,5.0,8 Seconds,1994
+57,448,5.0,1.0,5.0,Fearless,1993
+58,176,5.0,1.0,5.0,Living in Oblivion,1995
+59,6271,5.0,1.0,5.0,Day for Night (La Nuit Américaine),1973
+60,6270,5.0,1.0,5.0,Akira Kurosawa's Dreams (Dreams),1990
+61,6526,5.0,1.0,5.0,Rhapsody in August (Hachi-gatsu no kyôshikyoku),1991
+62,6558,5.0,1.0,5.0,Curly Sue,1991
+63,6547,5.0,1.0,5.0,Northfork,2003
+64,68073,5.0,1.0,5.0,"Boat That Rocked, The (a.k.a. Pirate Radio)",2009
+65,2730,5.0,1.0,5.0,Barry Lyndon,1975
+66,2795,5.0,1.0,5.0,National Lampoon's Vacation,1983
+67,2912,5.0,1.0,5.0,"Limey, The",1999
+68,2961,5.0,1.0,5.0,"Story of Us, The",1999
+69,3018,5.0,1.0,5.0,Re-Animator,1985
+70,5820,5.0,1.0,5.0,Standing in the Shadows of Motown,2002
+71,5992,5.0,1.0,5.0,"Hours, The",2002
+72,5927,5.0,1.0,5.0,"Best Little Whorehouse in Texas, The",1982
+73,6197,5.000000000000001,1.0000000000000002,5.0,Spider,2002
+74,373,15.0,3.0,5.0,Red Rock West,1992
+75,2970,5.0,1.0,5.0,Fitzcarraldo,1982
+76,2966,10.0,2.0,5.0,"Straight Story, The",1999
+77,3035,5.0,1.0,5.0,Mister Roberts,1955
+78,3310,5.0,1.0,5.0,"Kid, The",1921
+79,354,5.0,1.0,5.0,Cobb,1994
+80,3307,5.0,1.0,5.0,City Lights,1931
+81,3265,5.0,1.0,5.0,Hard-Boiled (Lat sau san taam),1992
+82,3415,5.0,1.0,5.0,"Mirror, The (Zerkalo)",1975
+83,3494,5.0,1.0,5.0,True Grit,1969
+84,3470,5.0,1.0,5.0,Dersu Uzala,1975
+85,3566,5.0,1.0,5.0,"Big Kahuna, The",2000
+86,3556,5.0,1.0,5.0,"Virgin Suicides, The",1999
+87,3529,5.0,1.0,5.0,"Postman Always Rings Twice, The",1981
+88,3677,5.0,1.0,5.0,Baraka,1992
+89,3629,10.0,2.0,5.0,"Gold Rush, The",1925
+90,238,5.0,1.0,5.0,Far From Home: The Adventures of Yellow Dog,1995
+91,4958,5.0,1.0,5.0,Behind Enemy Lines,2001
+92,5051,5.0,1.0,5.0,Italian for Beginners (Italiensk for begyndere),2000
+93,89745,5.0,1.0,5.0,"Avengers, The",2012
+94,89039,5.000000000000001,1.0000000000000002,5.0,Another Earth,2011
+95,3614,5.0,1.0,5.0,Honeymoon in Vegas,1992
+96,3688,5.0,1.0,5.0,Porky's,1982
+97,3787,5.0,1.0,5.0,Shower (Xizao),1999
+98,3910,5.0,1.0,5.0,Dancer in the Dark,2000
+99,56607,5.0,1.0,5.0,"Kite Runner, The",2007
+100,4010,5.0,1.0,5.0,Brewster's Millions,1985
+101,334,10.0,2.0,5.0,Vanya on 42nd Street,1994
+102,308,5.0,1.0,5.0,Three Colors: White (Trzy kolory: Bialy),1994
+103,4396,5.0,1.0,5.0,"Cannonball Run, The",1981
+104,4381,5.0,1.0,5.0,"Closet, The (Placard, Le)",2001
+105,4508,5.0,1.0,5.0,Gorillas in the Mist,1988
+106,4448,5.0,1.0,5.0,"Score, The",2001
+107,4589,5.0,1.0,5.0,Eddie and the Cruisers,1983
+108,4054,5.0,1.0,5.0,Save the Last Dance,2001
+109,4052,5.0,1.0,5.0,Antitrust,2001
+110,4214,10.0,2.0,5.0,Revenge of the Nerds,1984
+111,259,5.0,1.0,5.0,Kiss of Death,1995
+112,671,10.0,2.0,5.0,Mystery Science Theater 3000: The Movie,1996
+113,841,5.0,1.0,5.0,"Eyes Without a Face (Yeux sans visage, Les)",1959
+114,945,5.0,1.0,5.0,Top Hat,1935
+115,996,5.0,1.0,5.0,Last Man Standing,1996
+116,1061,5.0,1.0,5.0,Sleepers,1996
+117,1091,5.0,1.0,5.0,Weekend at Bernie's,1989
+118,82459,5.0,1.0,5.0,True Grit,2010
+119,117,5.0,1.0,5.0,"Young Poisoner's Handbook, The",1995
+120,26082,5.0,1.0,5.0,Harakiri (Seppuku),1962
+121,27317,5.000000000000001,1.0000000000000002,5.0,Audition (Ôdishon),1999
+122,26554,5.0,1.0,5.0,"Quiet Earth, The",1985
+123,27706,5.0,1.0,5.0,Lemony Snicket's A Series of Unfortunate Events,2004
+124,27846,5.000000000000001,1.0000000000000002,5.0,"Corporation, The",2003
+125,81932,9.5,2.0,4.75,"Fighter, The",2010
+126,52973,9.5,2.0,4.75,Knocked Up,2007
+127,48385,9.5,2.0,4.75,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006
+128,1178,9.5,2.0,4.75,Paths of Glory,1957
+129,1799,9.5,2.0,4.75,Suicide Kings,1997
+130,1513,9.5,2.0,4.75,Romy and Michele's High School Reunion,1997
+131,494,9.5,2.0,4.75,Executive Decision,1996
+132,1257,9.5,2.0,4.75,Better Off Dead...,1985
+133,6385,9.5,2.0,4.75,Whale Rider,2002
+134,5902,9.5,2.0,4.75,Adaptation,2002
+135,5971,28.5,6.0,4.75,My Neighbor Totoro (Tonari no Totoro),1988
+136,3159,9.5,2.0,4.75,Fantasia 2000,1999
+137,38061,9.5,2.0,4.75,Kiss Kiss Bang Bang,2005
+138,1077,9.5,2.0,4.75,Sleeper,1973
+139,1968,23.5,5.0,4.7,"Breakfast Club, The",1985
+140,1500,14.000000000000002,3.0000000000000004,4.666666666666667,Grosse Pointe Blank,1997
+141,5690,14.0,3.0,4.666666666666667,Grave of the Fireflies (Hotaru no haka),1988
+142,51255,14.0,3.0,4.666666666666667,Hot Fuzz,2007
+143,77658,14.000000000000002,3.0000000000000004,4.666666666666667,Cosmos,1980
+144,3275,18.5,4.0,4.625,"Boondock Saints, The",2000
+145,41,18.5,4.0,4.625,Richard III,1995
+146,5618,50.5,11.0,4.590909090909091,Spirited Away (Sen to Chihiro no kamikakushi),2001
+147,2329,36.5,8.0,4.5625,American History X,1998
+148,745,41.0,9.0,4.555555555555555,Wallace & Gromit: A Close Shave,1995
+149,296,191.0,42.0,4.5476190476190474,Pulp Fiction,1994
+150,2019,54.5,12.0,4.541666666666667,Seven Samurai (Shichinin no samurai),1954
+151,27555,4.5,1.0,4.5,Fubar,2002
+152,27808,9.0,2.0,4.5,Spanglish,2004
+153,53996,4.5,1.0,4.5,Transformers,2007
+154,53123,4.5,1.0,4.5,Once,2006
+155,53000,9.0,2.0,4.5,28 Weeks Later,2007
+156,4016,4.5,1.0,4.5,"Emperor's New Groove, The",2000
+157,4700,4.5,1.0,4.5,"Princess Diaries, The",2001
+158,4708,4.500000000000001,1.0000000000000002,4.5,Marat/Sade,1966
+159,4045,4.5,1.0,4.5,Breakheart Pass,1975
+160,4041,4.5,1.0,4.5,"Officer and a Gentleman, An",1982
+161,4545,4.5,1.0,4.5,Short Circuit,1986
+162,4754,4.5,1.0,4.5,"Wicker Man, The",1973
+163,4265,4.5,1.0,4.5,Driven,2001
+164,47610,13.5,3.0,4.5,"Illusionist, The",2006
+165,4291,4.5,1.0,4.5,Nine to Five (a.k.a. 9 to 5),1980
+166,314,18.0,4.0,4.5,"Secret of Roan Inish, The",1994
+167,34405,13.500000000000002,3.0000000000000004,4.5,Serenity,2005
+168,34072,13.5,3.0,4.5,"March of the Penguins (Marche de l'empereur, La)",2005
+169,82744,4.5,1.0,4.5,Faster,2010
+170,26294,4.5,1.0,4.5,My Name Is Nobody (Il Mio nome è Nessuno),1973
+171,27660,4.5,1.0,4.5,"Animatrix, The",2003
+172,1042,9.0,2.0,4.5,That Thing You Do!,1996
+173,851,4.500000000000001,1.0000000000000002,4.5,Basquiat,1996
+174,866,9.0,2.0,4.5,Bound,1996
+175,909,9.0,2.0,4.5,"Apartment, The",1960
+176,971,4.5,1.0,4.5,Cat on a Hot Tin Roof,1958
+177,48997,4.5,1.0,4.5,Perfume: The Story of a Murderer,2006
+178,714,13.500000000000004,3.000000000000001,4.5,Dead Man,1995
+179,4204,4.5,1.0,4.5,Losin' It,1983
+180,50685,4.5,1.0,4.5,Waitress,2007
+181,52885,4.5,1.0,4.5,Paprika (Papurika),2006
+182,33903,4.5,1.0,4.5,"Edukators, The (Die Fetten Jahre sind vorbei)",2004
+183,97168,4.500000000000001,1.0000000000000002,4.5,Marley,2012
+184,50,121.5,27.0,4.5,"Usual Suspects, The",1995
+185,4954,4.5,1.0,4.5,Ocean's Eleven (a.k.a. Ocean's 11),1960
+186,4920,4.5,1.0,4.5,"Now, Voyager",1942
+187,5068,4.5,1.0,4.5,Beijing Bicycle (Shiqi sui de dan che),2001
+188,5247,4.5,1.0,4.5,Smokey and the Bandit,1977
+189,5225,4.500000000000001,1.0000000000000002,4.5,And Your Mother Too (Y tu mamá también),2001
+190,5386,4.5,1.0,4.5,"Pride and the Passion, The",1957
+191,5377,9.0,2.0,4.5,About a Boy,2002
+192,45732,4.5,1.0,4.5,My Super Ex-Girlfriend,2006
+193,45501,4.5,1.0,4.5,"Break-Up, The",2006
+194,5489,4.5,1.0,4.5,Nosferatu the Vampyre (Nosferatu: Phantom der Nacht),1979
+195,5477,4.5,1.0,4.5,Sex and Lucia (Lucía y el sexo),2001
+196,3686,4.500000000000001,1.0000000000000002,4.5,Flatliners,1990
+197,3916,4.5,1.0,4.5,Remember the Titans,2000
+198,56003,4.5,1.0,4.5,Southland Tales,2006
+199,4008,9.0,2.0,4.5,Born on the Fourth of July,1989
+200,55247,4.500000000000001,1.0000000000000002,4.5,Into the Wild,2007
+201,4881,4.5,1.0,4.5,"Man Who Wasn't There, The",2001
+202,321,4.5,1.0,4.5,Strawberry and Chocolate (Fresa y chocolate),1993
+203,3148,9.0,2.0,4.5,"Cider House Rules, The",1999
+204,2989,4.5,1.0,4.5,For Your Eyes Only,1981
+205,6093,4.500000000000001,1.0000000000000002,4.5,"Last Unicorn, The",1982
+206,3097,4.5,1.0,4.5,"Shop Around the Corner, The",1940
+207,62849,9.0,2.0,4.5,RocknRolla,2008
+208,58998,4.5,1.0,4.5,Forgetting Sarah Marshall,2008
+209,3267,4.500000000000001,1.0000000000000002,4.5,"Mariachi, El",1992
+210,3450,9.0,2.0,4.5,Grumpy Old Men,1993
+211,3258,4.5,1.0,4.5,Death Becomes Her,1992
+212,61024,4.500000000000001,1.0000000000000002,4.5,Pineapple Express,2008
+213,61401,4.5,1.0,4.5,"Spirit, The",2008
+214,3534,4.5,1.0,4.5,28 Days,2000
+215,4980,4.5,1.0,4.5,Bill & Ted's Bogus Journey,1991
+216,319,18.0,4.0,4.5,Shallow Grave,1994
+217,2905,4.5,1.0,4.5,Sanjuro (Tsubaki Sanjûrô),1962
+218,2948,4.5,1.0,4.5,From Russia with Love,1963
+219,2729,9.0,2.0,4.5,Lolita,1962
+220,64497,4.5,1.0,4.5,"Day the Earth Stood Still, The",2008
+221,68554,4.5,1.0,4.5,Angels & Demons,2009
+222,68848,4.500000000000001,1.0000000000000002,4.5,"Brothers Bloom, The",2008
+223,68959,4.5,1.0,4.5,Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono),2005
+224,65261,9.0,2.0,4.5,Ponyo (Gake no ue no Ponyo),2008
+225,154,9.0,2.0,4.5,Beauty of the Day (Belle de jour),1967
+226,6552,4.500000000000001,1.0000000000000002,4.5,Dirty Pretty Things,2002
+227,6618,4.5,1.0,4.5,Shaolin Soccer (Siu lam juk kau),2001
+228,6628,4.5,1.0,4.5,Hot Dog... The Movie,1984
+229,6460,4.5,1.0,4.5,"Trial, The (Procès, Le)",1962
+230,6214,4.5,1.0,4.5,Irreversible (Irréversible),2002
+231,6299,4.5,1.0,4.5,"Winged Migration (Peuple migrateur, Le)",2001
+232,2726,4.5,1.0,4.5,"Killing, The",1956
+233,6303,4.5,1.0,4.5,"Andromeda Strain, The",1971
+234,6319,4.5,1.0,4.5,"My Father the Hero (Mon père, ce héros.)",1991
+235,70864,4.5,1.0,4.5,Botched,2007
+236,70687,4.5,1.0,4.5,Paper Heart,2009
+237,2406,4.5,1.0,4.5,Romancing the Stone,1984
+238,6124,4.5,1.0,4.5,Savannah Smiles,1982
+239,6006,4.5,1.0,4.5,Just Married,2003
+240,6001,4.5,1.0,4.5,"King of Comedy, The",1983
+241,5782,18.0,4.0,4.5,"Professional, The (Le professionnel)",1981
+242,5692,4.5,1.0,4.5,"Mechanic, The",1972
+243,44709,4.5,1.0,4.5,Akeelah and the Bee,2006
+244,5885,4.5,1.0,4.5,"What to Do in Case of Fire (Was tun, wenn's brennt?)",2002
+245,5608,4.5,1.0,4.5,"Das Experiment (Experiment, The)",2001
+246,2918,31.5,7.0,4.5,Ferris Bueller's Day Off,1986
+247,3639,4.5,1.0,4.5,"Man with the Golden Gun, The",1974
+248,3679,4.500000000000001,1.0000000000000002,4.5,"Decline of Western Civilization, The",1981
+249,41724,4.500000000000001,1.0000000000000002,4.5,Wal-Mart: The High Cost of Low Price,2005
+250,6639,4.5,1.0,4.5,Wait Until Dark,1967
+251,6777,4.5,1.0,4.5,Judgment at Nuremberg,1961
+252,6893,4.5,1.0,4.5,"Italian Job, The",1969
+253,6867,4.5,1.0,4.5,"Station Agent, The",2003
+254,7023,4.5,1.0,4.5,"Wedding Banquet, The (Xi yan)",1993
+255,6957,4.5,1.0,4.5,Bad Santa,2003
+256,2203,4.5,1.0,4.5,Shadow of a Doubt,1943
+257,2160,27.0,6.0,4.5,Rosemary's Baby,1968
+258,71899,4.500000000000001,1.0000000000000002,4.5,Mary and Max,2009
+259,2435,4.500000000000001,1.0000000000000002,4.5,Hurlyburly,1998
+260,1934,4.5,1.0,4.5,You Can't Take It with You,1938
+261,1952,13.5,3.0,4.5,Midnight Cowboy,1969
+262,73266,4.5,1.0,4.5,Youth in Revolt,2009
+263,2100,4.5,1.0,4.5,Splash,1984
+264,88094,4.500000000000001,1.0000000000000002,4.5,Upside Down: The Creation Records Story,2010
+265,1591,4.5,1.0,4.5,Spawn,1997
+266,76077,4.5,1.0,4.5,Hot Tub Time Machine,2010
+267,74946,4.5,1.0,4.5,She's Out of My League,2010
+268,1611,4.500000000000001,1.0000000000000002,4.5,My Own Private Idaho,1991
+269,77833,4.500000000000001,1.0000000000000002,4.5,Armadillo,2010
+270,97,4.500000000000001,1.0000000000000002,4.5,"Hate (Haine, La)",1995
+271,7419,4.5,1.0,4.5,After Hours,1985
+272,7445,4.5,1.0,4.5,Man on Fire,2004
+273,7151,4.5,1.0,4.5,Girl with a Pearl Earring,2003
+274,7154,4.5,1.0,4.5,Mona Lisa Smile,2003
+275,7099,36.0,8.0,4.5,Nausicaä of the Valley of the Wind (Kaze no tani no Naushika),1984
+276,40278,4.5,1.0,4.5,Jarhead,2005
+277,1845,4.500000000000001,1.0000000000000002,4.5,Zero Effect,1998
+278,43560,4.5,1.0,4.5,Nanny McPhee,2005
+279,86892,4.500000000000001,1.0000000000000002,4.5,"Man from Nowhere, The (Ajeossi)",2010
+280,2248,13.5,3.0,4.5,Say Anything...,1989
+281,79357,4.500000000000001,1.0000000000000002,4.5,Mr. Nobody,2009
+282,1303,4.5,1.0,4.5,"Man Who Would Be King, The",1975
+283,1373,4.5,1.0,4.5,Star Trek V: The Final Frontier,1989
+284,6945,4.5,1.0,4.5,My Architect: A Son's Journey,2003
+285,8914,4.5,1.0,4.5,Primer,2004
+286,8950,9.0,2.0,4.5,"Machinist, The (Maquinista, El)",2004
+287,1278,9.0,2.0,4.5,Young Frankenstein,1974
+288,1300,4.500000000000001,1.0000000000000002,4.5,My Life as a Dog (Mitt liv som hund),1985
+289,8530,4.5,1.0,4.5,Dear Frankie,2004
+290,8533,4.5,1.0,4.5,"Notebook, The",2004
+291,8376,4.5,1.0,4.5,Napoleon Dynamite,2004
+292,8340,4.5,1.0,4.5,Escape from Alcatraz,1979
+293,7884,4.500000000000001,1.0000000000000002,4.5,Highway 61,1991
+294,7915,4.5,1.0,4.5,Samurai Fiction (SF: Episode One),1998
+295,8807,13.500000000000002,3.0000000000000004,4.5,Harold and Kumar Go to White Castle,2004
+296,1284,4.5,1.0,4.5,"Big Sleep, The",1946
+297,37240,4.5,1.0,4.5,Why We Fight,2005
+298,7926,4.5,1.0,4.5,High and Low (Tengoku to jigoku),1963
+299,7700,4.5,1.0,4.5,"Wages of Fear, The (Salaire de la peur, Le)",1953
+300,7743,4.500000000000001,1.0000000000000002,4.5,Explorers,1985
+301,1209,9.0,2.0,4.5,Once Upon a Time in the West (C'era una volta il West),1968
+302,1211,4.500000000000001,1.0000000000000002,4.5,"Wings of Desire (Himmel über Berlin, Der)",1987
+303,7745,4.5,1.0,4.5,"Scent of Green Papaya, The (Mùi du du xhan - L'odeur de la papaye verte)",1993
+304,529,27.0,6.0,4.5,Searching for Bobby Fischer,1993
+305,1172,9.0,2.0,4.5,Cinema Paradiso (Nuovo cinema Paradiso),1989
+306,1212,9.0,2.0,4.5,"Third Man, The",1949
+307,1088,13.5,3.0,4.5,Dirty Dancing,1987
+308,81804,4.5,1.0,4.5,Wild Target,2010
+309,33154,4.500000000000001,1.0000000000000002,4.5,Enron: The Smartest Guys in the Room,2005
+310,32657,4.500000000000001,1.0000000000000002,4.5,"Man Who Planted Trees, The (Homme qui plantait des arbres, L')",1987
+311,100383,4.500000000000001,1.0000000000000002,4.5,Side Effects,2013
+312,97938,4.500000000000001,1.0000000000000002,4.5,Life of Pi,2012
+313,1148,40.00000000000001,9.000000000000002,4.444444444444445,Wallace & Gromit: The Wrong Trousers,1993
+314,1201,35.5,8.0,4.4375,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",1966
+315,720,26.5,6.0,4.416666666666667,Wallace & Gromit: The Best of Aardman Animation,1996
+316,903,26.5,6.0,4.416666666666667,Vertigo,1958
+317,1204,26.500000000000004,6.000000000000001,4.416666666666667,Lawrence of Arabia,1962
+318,1090,26.5,6.0,4.416666666666667,Platoon,1986
+319,48780,22.0,5.0,4.4,"Prestige, The",2006
+320,68237,22.000000000000004,5.000000000000001,4.4,Moon,2009
+321,55820,22.0,5.0,4.4,No Country for Old Men,2007
+322,26776,22.000000000000004,5.000000000000001,4.4,Porco Rosso (Crimson Pig) (Kurenai no buta),1992
+323,1245,22.000000000000004,5.000000000000001,4.4,Miller's Crossing,1990
+324,1203,22.0,5.0,4.4,12 Angry Men,1957
+325,858,109.5,25.0,4.38,"Godfather, The",1972
+326,1266,35.0,8.0,4.375,Unforgiven,1992
+327,3210,17.5,4.0,4.375,Fast Times at Ridgemont High,1982
+328,2467,17.5,4.0,4.375,"Name of the Rose, The (Name der Rose, Der)",1986
+329,1199,35.0,8.0,4.375,Brazil,1985
+330,5903,17.5,4.0,4.375,Equilibrium,2002
+331,1663,17.5,4.0,4.375,Stripes,1981
+332,647,13.0,3.0,4.333333333333333,Courage Under Fire,1996
+333,31658,39.0,9.0,4.333333333333333,Howl's Moving Castle (Hauru no ugoku shiro),2004
+334,35836,13.0,3.0,4.333333333333333,"40-Year-Old Virgin, The",2005
+335,3462,13.0,3.0,4.333333333333333,Modern Times,1936
+336,5954,13.0,3.0,4.333333333333333,25th Hour,2002
+337,3429,13.0,3.0,4.333333333333333,Creature Comforts,1989
+338,2951,13.0,3.0,4.333333333333333,"Fistful of Dollars, A (Per un pugno di dollari)",1964
+339,2915,13.0,3.0,4.333333333333333,Risky Business,1983
+340,3030,26.0,6.0,4.333333333333333,Yojimbo,1961
+341,2423,13.0,3.0,4.333333333333333,Christmas Vacation (National Lampoon's Christmas Vacation),1989
+342,805,13.0,3.0,4.333333333333333,"Time to Kill, A",1996
+343,3552,13.000000000000002,3.0000000000000004,4.333333333333333,Caddyshack,1980
+344,3499,13.0,3.0,4.333333333333333,Misery,1990
+345,30749,34.5,8.0,4.3125,Hotel Rwanda,2004
+346,318,146.5,34.0,4.3088235294117645,"Shawshank Redemption, The",1994
+347,3471,21.5,5.0,4.3,Close Encounters of the Third Kind,1977
+348,33794,43.0,10.0,4.3,Batman Begins,2005
+349,25,51.5,12.0,4.291666666666667,Leaving Las Vegas,1995
+350,1208,51.50000000000001,12.000000000000002,4.291666666666667,Apocalypse Now,1979
+351,1527,60.00000000000001,14.000000000000002,4.285714285714286,"Fifth Element, The",1997
+352,1213,60.0,14.0,4.285714285714286,Goodfellas,1990
+353,1193,60.0,14.0,4.285714285714286,One Flew Over the Cuckoo's Nest,1975
+354,4011,38.5,9.0,4.277777777777778,Snatch,2000
+355,96606,8.500000000000002,2.0000000000000004,4.25,Samsara,2011
+356,5881,8.5,2.0,4.25,Solaris,2002
+357,6721,8.5,2.0,4.25,Once Upon a Time in China (Wong Fei Hung),1991
+358,5500,8.5,2.0,4.25,Top Secret!,1984
+359,913,8.5,2.0,4.25,"Maltese Falcon, The",1941
+360,3019,8.500000000000002,2.0000000000000004,4.25,Drugstore Cowboy,1989
+361,2542,25.500000000000004,6.000000000000001,4.25,"Lock, Stock & Two Smoking Barrels",1998
+362,70286,17.0,4.0,4.25,District 9,2009
+363,45728,8.5,2.0,4.25,Clerks II,2006
+364,5064,8.5,2.0,4.25,The Count of Monte Cristo,2002
+365,47099,8.5,2.0,4.25,"Pursuit of Happyness, The",2006
+366,5291,17.0,4.0,4.25,Rashomon (Rashômon),1950
+367,6796,8.5,2.0,4.25,Boyz N the Hood,1991
+368,6773,8.5,2.0,4.25,"Triplets of Belleville, The (Les triplettes de Belleville)",2003
+369,1104,8.5,2.0,4.25,"Streetcar Named Desire, A",1951
+370,1210,76.5,18.0,4.25,Star Wars: Episode VI - Return of the Jedi,1983
+371,2176,8.5,2.0,4.25,Rope,1948
+372,2300,8.5,2.0,4.25,"Producers, The",1968
+373,30822,8.5,2.0,4.25,In Good Company,2004
+374,3000,42.50000000000001,10.000000000000002,4.25,Princess Mononoke (Mononoke-hime),1997
+375,3176,17.000000000000004,4.000000000000001,4.25,"Talented Mr. Ripley, The",1999
+376,81229,8.5,2.0,4.25,Red,2010
+377,3735,8.5,2.0,4.25,Serpico,1973
+378,3503,8.5,2.0,4.25,Solaris (Solyaris),1972
+379,2360,8.500000000000002,2.0000000000000004,4.25,"Celebration, The (Festen)",1998
+380,527,110.5,26.0,4.25,Schindler's List,1993
+381,64839,17.000000000000004,4.000000000000001,4.25,"Wrestler, The",2008
+382,65514,8.5,2.0,4.25,Ip Man,2008
+383,2067,8.5,2.0,4.25,Doctor Zhivago,1965
+384,1734,8.5,2.0,4.25,My Life in Pink (Ma vie en rose),1997
+385,3104,8.5,2.0,4.25,Midnight Run,1988
+386,904,25.5,6.0,4.25,Rear Window,1954
+387,88129,8.500000000000002,2.0000000000000004,4.25,Drive,2011
+388,3301,8.5,2.0,4.25,"Whole Nine Yards, The",2000
+389,3037,8.5,2.0,4.25,Little Big Man,1970
+390,51540,8.5,2.0,4.25,Zodiac,2007
+391,48394,25.5,6.0,4.25,"Pan's Labyrinth (Laberinto del fauno, El)",2006
+392,2572,8.5,2.0,4.25,10 Things I Hate About You,1999
+393,4128,8.5,2.0,4.25,"Lost Boys, The",1987
+394,49530,17.0,4.0,4.25,Blood Diamond,2006
+395,4228,8.5,2.0,4.25,Heartbreakers,2001
+396,32,106.0,25.0,4.24,Twelve Monkeys (a.k.a. 12 Monkeys),1995
+397,1221,63.5,15.0,4.233333333333333,"Godfather: Part II, The",1974
+398,6016,38.00000000000001,9.000000000000002,4.222222222222222,City of God (Cidade de Deus),2002
+399,1997,29.5,7.0,4.214285714285714,"Exorcist, The",1973
+400,2858,101.0,24.0,4.208333333333333,American Beauty,1999
+401,785,21.0,5.0,4.2,Kingpin,1996
+402,3448,21.0,5.0,4.2,"Good Morning, Vietnam",1987
+403,2571,126.00000000000001,30.000000000000004,4.2,"Matrix, The",1999
+404,1921,21.000000000000004,5.000000000000001,4.2,Pi,1998
+405,953,21.0,5.0,4.2,It's a Wonderful Life,1946
+406,1217,21.0,5.0,4.2,Ran,1985
+407,56367,21.0,5.0,4.2,Juno,2007
+408,2908,21.0,5.0,4.2,Boys Don't Cry,1999
+409,2324,33.5,8.0,4.1875,Life Is Beautiful (La Vita è bella),1997
+410,1258,46.0,11.0,4.181818181818182,"Shining, The",1980
+411,4226,58.50000000000001,14.000000000000002,4.178571428571429,Memento,2000
+412,6281,12.5,3.0,4.166666666666667,Phone Booth,2002
+413,290,12.500000000000002,3.0000000000000004,4.166666666666667,Once Were Warriors,1994
+414,5956,12.5,3.0,4.166666666666667,Gangs of New York,2002
+415,5952,75.0,18.0,4.166666666666667,"Lord of the Rings: The Two Towers, The",2002
+416,94466,12.500000000000002,3.0000000000000004,4.166666666666667,Black Mirror,2011
+417,1147,12.5,3.0,4.166666666666667,When We Were Kings,1996
+418,535,12.5,3.0,4.166666666666667,Short Cuts,1993
+419,1265,62.5,15.0,4.166666666666667,Groundhog Day,1993
+420,1223,25.0,6.0,4.166666666666667,"Grand Day Out with Wallace and Gromit, A",1989
+421,27773,25.0,6.0,4.166666666666667,Old Boy,2003
+422,246,12.5,3.0,4.166666666666667,Hoop Dreams,1994
+423,916,12.5,3.0,4.166666666666667,Roman Holiday,1953
+424,3435,12.5,3.0,4.166666666666667,Double Indemnity,1944
+425,1227,12.5,3.0,4.166666666666667,Once Upon a Time in America,1984
+426,58,12.5,3.0,4.166666666666667,"Postman, The (Postino, Il)",1994
+427,1263,25.000000000000004,6.000000000000001,4.166666666666667,"Deer Hunter, The",1978
+428,71535,12.5,3.0,4.166666666666667,Zombieland,2009
+429,7361,50.0,12.0,4.166666666666667,Eternal Sunshine of the Spotless Mind,2004
+430,3033,12.500000000000002,3.0000000000000004,4.166666666666667,Spaceballs,1987
+431,7925,12.5,3.0,4.166666666666667,"Hidden Fortress, The (Kakushi-toride no san-akunin)",1958
+432,6350,29.000000000000004,7.000000000000001,4.142857142857143,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta),1986
+433,4979,29.0,7.0,4.142857142857143,"Royal Tenenbaums, The",2001
+434,2302,29.0,7.0,4.142857142857143,My Cousin Vinny,1992
+435,2000,29.0,7.0,4.142857142857143,Lethal Weapon,1987
+436,593,149.0,36.0,4.138888888888889,"Silence of the Lambs, The",1991
+437,111,62.00000000000001,15.000000000000002,4.133333333333334,Taxi Driver,1976
+438,4002,16.5,4.0,4.125,"Planes, Trains & Automobiles",1987
+439,3911,16.5,4.0,4.125,Best in Show,2000
+440,5418,33.0,8.0,4.125,"Bourne Identity, The",2002
+441,59315,16.5,4.0,4.125,Iron Man,2008
+442,3160,16.5,4.0,4.125,Magnolia,1999
+443,235,49.5,12.0,4.125,Ed Wood,1994
+444,2959,86.5,21.000000000000004,4.119047619047619,Fight Club,1999
+445,1270,70.0,17.0,4.117647058823529,Back to the Future,1985
+446,1089,53.50000000000001,13.000000000000002,4.115384615384615,Reservoir Dogs,1992
+447,924,37.0,9.0,4.111111111111111,2001: A Space Odyssey,1968
+448,44195,20.5,5.0,4.1,Thank You for Smoking,2006
+449,4973,61.50000000000001,15.000000000000002,4.1,"Amelie (Fabuleux destin d'Amélie Poulain, Le)",2001
+450,44555,20.5,5.0,4.1,"Lives of Others, The (Das leben der Anderen)",2006
+451,1262,20.5,5.0,4.1,"Great Escape, The",1963
+452,7153,82.0,20.0,4.1,"Lord of the Rings: The Return of the King, The",2003
+453,1196,102.5,25.0,4.1,Star Wars: Episode V - The Empire Strikes Back,1980
+454,1206,41.0,10.0,4.1,"Clockwork Orange, A",1971
+455,72998,20.5,5.0,4.1,Avatar,2009
+456,8970,20.5,5.0,4.1,Finding Neverland,2004
+457,475,24.5,6.0,4.083333333333333,In the Name of the Father,1993
+458,1136,61.00000000000001,15.000000000000002,4.066666666666666,Monty Python and the Holy Grail,1975
+459,260,122.0,30.0,4.066666666666666,Star Wars: Episode IV - A New Hope,1977
+460,750,61.00000000000001,15.000000000000002,4.066666666666666,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964
+461,1222,32.5,8.0,4.0625,Full Metal Jacket,1987
+462,541,73.0,18.0,4.055555555555555,Blade Runner,1982
+463,1682,40.5,10.0,4.05,"Truman Show, The",1998
+464,4027,44.50000000000001,11.000000000000002,4.045454545454546,"O Brother, Where Art Thou?",2000
+465,4993,93.0,23.0,4.043478260869565,"Lord of the Rings: The Fellowship of the Ring, The",2001
+466,36,48.5,12.0,4.041666666666667,Dead Man Walking,1995
+467,1080,48.5,12.0,4.041666666666667,Monty Python's Life of Brian,1979
+468,608,105.0,26.0,4.038461538461538,Fargo,1996
+469,1732,56.50000000000001,14.000000000000002,4.035714285714286,"Big Lebowski, The",1998
+470,3255,12.0,3.0,4.0,"League of Their Own, A",1992
+471,105,12.0,3.0,4.0,"Bridges of Madison County, The",1995
+472,7773,4.0,1.0,4.0,"Bang, Bang, You're Dead",2002
+473,7371,4.0,1.0,4.0,Dogville,2003
+474,74458,12.000000000000002,3.0000000000000004,4.0,Shutter Island,2010
+475,3254,4.0,1.0,4.0,Wayne's World 2,1993
+476,1945,4.0,1.0,4.0,On the Waterfront,1954
+477,1957,4.000000000000001,1.0000000000000002,4.0,Chariots of Fire,1981
+478,3271,4.0,1.0,4.0,Of Mice and Men,1992
+479,3300,12.0,3.0,4.0,Pitch Black,2000
+480,343,4.0,1.0,4.0,"Baby-Sitters Club, The",1995
+481,1895,4.0,1.0,4.0,Can't Hardly Wait,1998
+482,347,4.0,1.0,4.0,Bitter Moon,1992
+483,3203,8.0,2.0,4.0,Dead Calm,1989
+484,3186,4.000000000000001,1.0000000000000002,4.0,"Girl, Interrupted",1999
+485,3475,4.0,1.0,4.0,"Place in the Sun, A",1951
+486,3551,4.000000000000001,1.0000000000000002,4.0,Marathon Man,1976
+487,3546,4.0,1.0,4.0,What Ever Happened to Baby Jane?,1962
+488,3461,4.000000000000001,1.0000000000000002,4.0,Lord of the Flies,1963
+489,3438,4.0,1.0,4.0,Teenage Mutant Ninja Turtles,1990
+490,60950,4.0,1.0,4.0,Vicky Cristina Barcelona,2008
+491,74450,4.0,1.0,4.0,Valentine's Day,2010
+492,74156,4.0,1.0,4.0,Edge of Darkness,2010
+493,461,4.0,1.0,4.0,Go Fish,1994
+494,459,4.0,1.0,4.0,"Getaway, The",1994
+495,1837,4.0,1.0,4.0,"Odd Couple II, The",1998
+496,3316,4.0,1.0,4.0,Reindeer Games,2000
+497,27904,8.000000000000002,2.0000000000000004,4.0,"Scanner Darkly, A",2006
+498,3051,4.0,1.0,4.0,Anywhere But Here,1999
+499,3032,4.000000000000001,1.0000000000000002,4.0,"Omega Man, The",1971
+500,73023,4.000000000000001,1.0000000000000002,4.0,Crazy Heart,2009
+501,8983,12.0,3.0,4.0,House of Flying Daggers (Shi mian mai fu),2004
+502,8974,4.0,1.0,4.0,"SpongeBob SquarePants Movie, The",2004
+503,8958,4.0,1.0,4.0,Ray,2004
+504,2010,4.000000000000001,1.0000000000000002,4.0,Metropolis,1927
+505,3146,4.0,1.0,4.0,Deuce Bigalow: Male Gigolo,1999
+506,96,4.0,1.0,4.0,In the Bleak Midwinter,1995
+507,7762,4.000000000000001,1.0000000000000002,4.0,"Tinker, Tailor, Soldier, Spy",1979
+508,7728,4.0,1.0,4.0,"Postman Always Rings Twice, The",1946
+509,3178,4.0,1.0,4.0,"Hurricane, The",1999
+510,73321,4.0,1.0,4.0,"Book of Eli, The",2010
+511,3088,4.0,1.0,4.0,Harvey,1950
+512,62434,4.0,1.0,4.0,Zack and Miri Make a Porno,2008
+513,62374,8.0,2.0,4.0,Body of Lies,2008
+514,62336,4.0,1.0,4.0,FLCL,2000
+515,62250,4.000000000000001,1.0000000000000002,4.0,Gomorrah (Gomorra),2008
+516,839,4.000000000000001,1.0000000000000002,4.0,"Crow: City of Angels, The",1996
+517,837,4.0,1.0,4.0,Matilda,1996
+518,81564,4.0,1.0,4.0,Megamind,2010
+519,2003,20.0,5.0,4.0,Gremlins,1984
+520,1991,4.0,1.0,4.0,Child's Play,1988
+521,2042,4.0,1.0,4.0,D2: The Mighty Ducks,1994
+522,2025,4.0,1.0,4.0,Lolita,1997
+523,73860,4.0,1.0,4.0,Nowhere Boy,2009
+524,1816,4.0,1.0,4.0,Two Girls and a Guy,1997
+525,3262,4.000000000000001,1.0000000000000002,4.0,Twin Peaks: Fire Walk with Me,1992
+526,7384,4.000000000000001,1.0000000000000002,4.0,Since Otar Left (Depuis qu'Otar est parti...),2003
+527,3545,4.0,1.0,4.0,Cabaret,1972
+528,57669,16.000000000000004,4.000000000000001,4.0,In Bruges,2008
+529,57368,4.000000000000001,1.0000000000000002,4.0,Cloverfield,2008
+530,56715,4.000000000000001,1.0000000000000002,4.0,Wristcutters: A Love Story,2006
+531,3506,4.0,1.0,4.0,North Dallas Forty,1979
+532,3802,4.000000000000001,1.0000000000000002,4.0,Freejack,1992
+533,3969,8.0,2.0,4.0,Pay It Forward,2000
+534,3741,4.0,1.0,4.0,Badlands,1973
+535,1810,4.0,1.0,4.0,Primary Colors,1998
+536,1648,4.0,1.0,4.0,"House of Yes, The",1997
+537,1645,12.0,3.0,4.0,"Devil's Advocate, The",1997
+538,3868,12.0,3.0,4.0,"Naked Gun: From the Files of Police Squad!, The",1988
+539,60072,4.0,1.0,4.0,Wanted,2008
+540,89260,4.000000000000001,1.0000000000000002,4.0,Project Nim,2011
+541,3730,4.000000000000001,1.0000000000000002,4.0,"Conversation, The",1974
+542,3635,4.0,1.0,4.0,"Spy Who Loved Me, The",1977
+543,3632,4.0,1.0,4.0,Monsieur Verdoux,1947
+544,3624,4.0,1.0,4.0,Shanghai Noon,2000
+545,92643,4.000000000000001,1.0000000000000002,4.0,Monsieur Lazhar,2011
+546,91529,8.0,2.0,4.0,"Dark Knight Rises, The",2012
+547,7036,4.0,1.0,4.0,Teen Wolf,1985
+548,4005,4.0,1.0,4.0,"Living Daylights, The",1987
+549,3984,4.0,1.0,4.0,Diamonds Are Forever,1971
+550,39183,4.0,1.0,4.0,Brokeback Mountain,2005
+551,7139,4.0,1.0,4.0,In America,2002
+552,7124,4.000000000000001,1.0000000000000002,4.0,Grass,1999
+553,7114,4.000000000000001,1.0000000000000002,4.0,"Collector, The",1965
+554,90057,4.000000000000001,1.0000000000000002,4.0,Take Shelter,2011
+555,80693,4.0,1.0,4.0,It's Kind of a Funny Story,2010
+556,59501,4.0,1.0,4.0,"Chronicles of Narnia: Prince Caspian, The",2008
+557,59369,12.000000000000002,3.0000000000000004,4.0,Taken,2008
+558,3467,4.0,1.0,4.0,Hud,1963
+559,3479,4.000000000000001,1.0000000000000002,4.0,Ladyhawke,1985
+560,3476,8.0,2.0,4.0,Jacob's Ladder,1990
+561,27790,4.0,1.0,4.0,Millions,2004
+562,31878,16.0,4.0,4.0,Kung Fu Hustle (Gong fu),2004
+563,97306,4.000000000000001,1.0000000000000002,4.0,Seven Psychopaths,2012
+564,97132,4.000000000000001,1.0000000000000002,4.0,Urbanized,2011
+565,8949,16.0,4.0,4.0,Sideways,2004
+566,8917,8.0,2.0,4.0,Team America: World Police,2004
+567,26485,4.0,1.0,4.0,Rumble Fish,1983
+568,7156,4.000000000000001,1.0000000000000002,4.0,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The",2003
+569,88,8.0,2.0,4.0,Black Sheep,1996
+570,85,8.0,2.0,4.0,Angels and Insects,1995
+571,83,4.0,1.0,4.0,Once Upon a Time... When We Were Colored,1995
+572,83293,4.000000000000001,1.0000000000000002,4.0,Waste Land,2010
+573,781,4.0,1.0,4.0,Stealing Beauty,1996
+574,7319,4.0,1.0,4.0,Club Dread,2004
+575,7317,4.0,1.0,4.0,EuroTrip,2004
+576,7265,4.0,1.0,4.0,"Dreamers, The",2003
+577,83132,4.000000000000001,1.0000000000000002,4.0,"Secret World of Arrietty, The (Kari-gurashi no Arietti)",2010
+578,77455,8.000000000000002,2.0000000000000004,4.0,Exit Through the Gift Shop,2010
+579,76210,4.0,1.0,4.0,Defendor,2009
+580,75813,4.0,1.0,4.0,Leaves of Grass,2009
+581,74851,4.0,1.0,4.0,From Paris with Love,2010
+582,7163,4.000000000000001,1.0000000000000002,4.0,Paycheck,2003
+583,26326,4.0,1.0,4.0,"Holy Mountain, The (Montaña sagrada, La)",1973
+584,159,4.0,1.0,4.0,Clockers,1995
+585,155,4.0,1.0,4.0,Beyond Rangoon,1995
+586,8167,4.0,1.0,4.0,Captain Blood,1935
+587,2580,8.0,2.0,4.0,Go,1999
+588,2558,4.0,1.0,4.0,Forces of Nature,1999
+589,2528,4.000000000000001,1.0000000000000002,4.0,Logan's Run,1976
+590,452,4.0,1.0,4.0,Widows' Peak,1994
+591,446,4.000000000000001,1.0000000000000002,4.0,Farewell My Concubine (Ba wang bie ji),1993
+592,2273,12.0,3.0,4.0,Rush Hour,1998
+593,2351,8.0,2.0,4.0,"Nights of Cabiria (Notti di Cabiria, Le)",1957
+594,87930,4.000000000000001,1.0000000000000002,4.0,Page One: Inside the New York Times,2011
+595,1057,4.0,1.0,4.0,Everyone Says I Love You,1996
+596,1049,4.0,1.0,4.0,"Ghost and the Darkness, The",1996
+597,80906,8.000000000000002,2.0000000000000004,4.0,Inside Job,2010
+598,2469,4.0,1.0,4.0,Peggy Sue Got Married,1986
+599,2437,4.000000000000001,1.0000000000000002,4.0,Wilde,1997
+600,69951,8.0,2.0,4.0,"Imaginarium of Doctor Parnassus, The",2009
+601,69746,4.0,1.0,4.0,Watchmen: Tales of the Black Freighter,2009
+602,66934,4.0,1.0,4.0,Dr. Horrible's Sing-Along Blog,2008
+603,2506,4.0,1.0,4.0,"Other Sister, The",1999
+604,2615,4.0,1.0,4.0,My Science Project,1985
+605,2594,4.000000000000001,1.0000000000000002,4.0,Open Your Eyes (Abre los ojos),1997
+606,2589,4.0,1.0,4.0,Friends & Lovers,1999
+607,950,4.0,1.0,4.0,"Thin Man, The",1934
+608,934,4.0,1.0,4.0,Father of the Bride,1950
+609,933,4.0,1.0,4.0,To Catch a Thief,1955
+610,86332,4.0,1.0,4.0,Thor,2011
+611,954,4.0,1.0,4.0,Mr. Smith Goes to Washington,1939
+612,2504,4.0,1.0,4.0,200 Cigarettes,1999
+613,2502,32.0,8.0,4.0,Office Space,1999
+614,2499,4.0,1.0,4.0,God Said 'Ha!',1998
+615,2495,4.0,1.0,4.0,"Fantastic Planet, The (Planète sauvage, La)",1973
+616,2485,4.0,1.0,4.0,She's All That,1999
+617,2348,4.000000000000001,1.0000000000000002,4.0,Sid and Nancy,1986
+618,2347,4.0,1.0,4.0,"Pope of Greenwich Village, The",1984
+619,2342,4.0,1.0,4.0,Hard Core Logo,1996
+620,2337,4.000000000000001,1.0000000000000002,4.0,Velvet Goldmine,1998
+621,2333,4.000000000000001,1.0000000000000002,4.0,Gods and Monsters,1998
+622,2401,4.0,1.0,4.0,Pale Rider,1985
+623,2393,4.0,1.0,4.0,Star Trek: Insurrection,1998
+624,2296,4.000000000000001,1.0000000000000002,4.0,"Night at the Roxbury, A",1998
+625,33004,4.000000000000001,1.0000000000000002,4.0,"Hitchhiker's Guide to the Galaxy, The",2005
+626,390,4.000000000000001,1.0000000000000002,4.0,Faster Pussycat! Kill! Kill!,1965
+627,98126,4.000000000000001,1.0000000000000002,4.0,Capital (Le capital),2012
+628,6249,4.0,1.0,4.0,Boat Trip,2003
+629,100843,4.000000000000001,1.0000000000000002,4.0,Oh Boy (A Coffee in Berlin),2012
+630,674,4.000000000000001,1.0000000000000002,4.0,Barbarella,1968
+631,670,4.0,1.0,4.0,"World of Apu, The (Apur Sansar)",1959
+632,6373,12.0,3.0,4.0,Bruce Almighty,2003
+633,6370,8.0,2.0,4.0,"Spanish Apartment, The (L'auberge espagnole)",2002
+634,82461,4.0,1.0,4.0,Tron: Legacy,2010
+635,82167,4.0,1.0,4.0,Love and Other Drugs,2010
+636,32019,4.0,1.0,4.0,Be Cool,2005
+637,32017,4.0,1.0,4.0,"Pacifier, The",2005
+638,33166,4.000000000000001,1.0000000000000002,4.0,Crash,2004
+639,33162,8.0,2.0,4.0,Kingdom of Heaven,2005
+640,2282,4.0,1.0,4.0,Pecker,1998
+641,2124,4.0,1.0,4.0,"Addams Family, The",1991
+642,2117,4.0,1.0,4.0,1984 (Nineteen Eighty-Four),1984
+643,428,4.0,1.0,4.0,"Bronx Tale, A",1993
+644,72405,4.0,1.0,4.0,Bad Lieutenant: Port of Call New Orleans,2009
+645,2759,4.0,1.0,4.0,Dick,1999
+646,2745,4.0,1.0,4.0,"Mission, The",1986
+647,2732,4.0,1.0,4.0,Jules and Jim (Jules et Jim),1961
+648,2731,4.0,1.0,4.0,"400 Blows, The (Les quatre cents coups)",1959
+649,2846,4.000000000000001,1.0000000000000002,4.0,"Adventures of Milo and Otis, The (Koneko monogatari)",1986
+650,38095,4.000000000000001,1.0000000000000002,4.0,"Bittersweet Life, A (Dalkomhan insaeng)",2005
+651,38038,24.000000000000004,6.000000000000001,4.0,Wallace & Gromit in The Curse of the Were-Rabbit,2005
+652,37736,4.0,1.0,4.0,Oliver Twist,2005
+653,37733,4.0,1.0,4.0,"History of Violence, A",2005
+654,85394,4.000000000000001,1.0000000000000002,4.0,Cave of Forgotten Dreams,2010
+655,2105,16.0,4.0,4.0,Tron,1982
+656,2020,8.0,2.0,4.0,Dangerous Liaisons,1988
+657,362,20.0,5.0,4.0,"Jungle Book, The",1994
+658,422,8.0,2.0,4.0,Blink,1994
+659,421,4.0,1.0,4.0,Black Beauty,1994
+660,2975,4.0,1.0,4.0,"Best Man, The",1999
+661,3072,4.000000000000001,1.0000000000000002,4.0,Moonstruck,1987
+662,2919,4.000000000000001,1.0000000000000002,4.0,"Year of Living Dangerously, The",1982
+663,8014,12.000000000000002,3.0000000000000004,4.0,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom)",2003
+664,7990,4.000000000000001,1.0000000000000002,4.0,Rock 'N' Roll High School,1979
+665,7982,4.0,1.0,4.0,"Tale of Two Sisters, A (Janghwa, Hongryeon)",2003
+666,81158,8.000000000000002,2.0000000000000004,4.0,Restrepo,2010
+667,7044,4.0,1.0,4.0,Wild at Heart,1990
+668,80831,4.000000000000001,1.0000000000000002,4.0,Let Me In,2010
+669,2108,8.000000000000002,2.0000000000000004,4.0,L.A. Story,1991
+670,7847,4.000000000000001,1.0000000000000002,4.0,"Peanut Butter Solution, The",1985
+671,7842,4.000000000000001,1.0000000000000002,4.0,Dune,2000
+672,8338,4.000000000000001,1.0000000000000002,4.0,Black Narcissus,1947
+673,8254,4.000000000000001,1.0000000000000002,4.0,Arizona Dream,1993
+674,8228,8.0,2.0,4.0,"Maltese Falcon, The (a.k.a. Dangerous Female)",1931
+675,8169,8.0,2.0,4.0,*batteries not included,1987
+676,2843,4.0,1.0,4.0,"Black Cat, White Cat (Crna macka, beli macor)",1998
+677,2810,4.000000000000001,1.0000000000000002,4.0,Perfect Blue,1997
+678,2806,8.0,2.0,4.0,Teaching Mrs. Tingle,1999
+679,2174,20.000000000000004,5.000000000000001,4.0,Beetlejuice,1988
+680,8623,4.0,1.0,4.0,Roxanne,1987
+681,8607,4.0,1.0,4.0,Tokyo Godfathers,2003
+682,8507,4.0,1.0,4.0,Freaks,1932
+683,2125,4.000000000000001,1.0000000000000002,4.0,Ever After: A Cinderella Story,1998
+684,8905,4.0,1.0,4.0,1492: Conquest of Paradise,1992
+685,8873,4.0,1.0,4.0,"Motorcycle Diaries, The (Diarios de motocicleta)",2004
+686,80241,4.0,1.0,4.0,Going the Distance,2010
+687,907,4.0,1.0,4.0,"Gay Divorcee, The",1934
+688,2686,4.000000000000001,1.0000000000000002,4.0,"Red Violin, The (Violon rouge, Le)",1998
+689,2681,4.0,1.0,4.0,Free Enterprise,1998
+690,2678,4.0,1.0,4.0,Desert Blue,1999
+691,2672,4.000000000000001,1.0000000000000002,4.0,"Thirteenth Floor, The",1999
+692,7979,4.0,1.0,4.0,Monterey Pop,1968
+693,7944,4.000000000000001,1.0000000000000002,4.0,"Night of the Iguana, The",1964
+694,2940,4.0,1.0,4.0,Gilda,1946
+695,2935,4.0,1.0,4.0,"Lady Eve, The",1941
+696,2799,4.0,1.0,4.0,Problem Child 2,1991
+697,64614,4.000000000000001,1.0000000000000002,4.0,Gran Torino,2008
+698,8485,4.000000000000001,1.0000000000000002,4.0,Samsara,2001
+699,1256,4.0,1.0,4.0,Duck Soup,1933
+700,1253,4.0,1.0,4.0,"Day the Earth Stood Still, The",1951
+701,1280,4.000000000000001,1.0000000000000002,4.0,Raise the Red Lantern (Da hong deng long gao gao gua),1991
+702,46976,8.0,2.0,4.0,Stranger than Fiction,2006
+703,6863,8.0,2.0,4.0,School of Rock,2003
+704,6811,8.0,2.0,4.0,PCU,1994
+705,6789,4.000000000000001,1.0000000000000002,4.0,"Apartment, The (Appartement, L')",1996
+706,6669,4.000000000000001,1.0000000000000002,4.0,Ikiru,1952
+707,6645,4.0,1.0,4.0,THX 1138,1971
+708,5230,4.0,1.0,4.0,"Paleface, The",1948
+709,5223,4.0,1.0,4.0,Pauline & Paulette (Pauline en Paulette),2001
+710,5139,4.0,1.0,4.0,"Bad News Bears, The",1976
+711,1235,4.000000000000001,1.0000000000000002,4.0,Harold and Maude,1971
+712,1635,4.000000000000001,1.0000000000000002,4.0,"Ice Storm, The",1997
+713,1218,4.0,1.0,4.0,"Killer, The (Die xue shuang xiong)",1989
+714,1248,4.0,1.0,4.0,Touch of Evil,1958
+715,1226,4.0,1.0,4.0,"Quiet Man, The",1952
+716,5367,4.000000000000001,1.0000000000000002,4.0,My Beautiful Laundrette,1985
+717,5102,4.0,1.0,4.0,Rookie of the Year,1993
+718,5101,4.0,1.0,4.0,Richard Pryor Here and Now,1983
+719,5072,8.000000000000002,2.0000000000000004,4.0,Metropolis,2001
+720,5065,4.0,1.0,4.0,"Mothman Prophecies, The",2002
+721,718,4.0,1.0,4.0,"Visitors, The (Visiteurs, Les)",1993
+722,249,4.000000000000001,1.0000000000000002,4.0,Immortal Beloved,1994
+723,5620,8.0,2.0,4.0,Sweet Home Alabama,2002
+724,5596,4.000000000000001,1.0000000000000002,4.0,Spaced Invaders,1990
+725,222,16.0,4.0,4.0,Circle of Friends,1995
+726,1219,36.0,9.0,4.0,Psycho,1960
+727,1277,4.0,1.0,4.0,Cyrano de Bergerac,1990
+728,1273,8.000000000000002,2.0000000000000004,4.0,Down by Law,1986
+729,4834,4.000000000000001,1.0000000000000002,4.0,Cheech & Chong's Next Movie,1980
+730,4823,4.0,1.0,4.0,Serendipity,2001
+731,4815,4.0,1.0,4.0,Hearts in Atlantis,2001
+732,4734,4.0,1.0,4.0,Jay and Silent Bob Strike Back,2001
+733,6774,4.0,1.0,4.0,Videodrome,1983
+734,6942,4.0,1.0,4.0,Love Actually,2003
+735,6918,4.0,1.0,4.0,"Unvanquished, The (Aparajito)",1957
+736,27109,4.0,1.0,4.0,Lady Snowblood (Shurayukihime),1973
+737,26934,4.0,1.0,4.0,God of Cookery (Sik san),1996
+738,26903,4.000000000000001,1.0000000000000002,4.0,Whisper of the Heart (Mimi wo sumaseba),1995
+739,26865,4.0,1.0,4.0,Fist of Legend (Jing wu ying xiong),1994
+740,1259,16.0,4.0,4.0,Stand by Me,1986
+741,26606,8.0,2.0,4.0,"Chinese Ghost Story, A (Sinnui yauwan)",1987
+742,27741,4.0,1.0,4.0,"Twilight Samurai, The (Tasogare Seibei)",2002
+743,1264,4.000000000000001,1.0000000000000002,4.0,Diva,1981
+744,245,4.0,1.0,4.0,"Glass Shield, The",1994
+745,4878,44.00000000000001,11.000000000000002,4.0,Donnie Darko,2001
+746,4863,4.000000000000001,1.0000000000000002,4.0,Female Trouble,1975
+747,4846,4.0,1.0,4.0,Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau),1993
+748,700,4.0,1.0,4.0,Angus,1995
+749,800,8.0,2.0,4.0,Lone Star,1996
+750,613,4.0,1.0,4.0,Jane Eyre,1996
+751,605,4.0,1.0,4.0,One Fine Day,1996
+752,5060,12.0,3.0,4.0,M*A*S*H (a.k.a. MASH),1970
+753,5015,4.0,1.0,4.0,Monster's Ball,2001
+754,5014,4.0,1.0,4.0,I Am Sam,2001
+755,26662,12.000000000000002,3.0000000000000004,4.0,Kiki's Delivery Service (Majo no takkyûbin),1989
+756,5945,16.0,4.0,4.0,About Schmidt,2002
+757,5943,4.0,1.0,4.0,Maid in Manhattan,2002
+758,5940,4.000000000000001,1.0000000000000002,4.0,Eating Raoul,1982
+759,27716,4.0,1.0,4.0,"Green Butchers, The (Grønne slagtere, De)",2003
+760,27674,4.0,1.0,4.0,11:14,2003
+761,27608,4.0,1.0,4.0,Immortel (ad vitam) (Immortal),2004
+762,27592,4.000000000000001,1.0000000000000002,4.0,Sympathy for Mr. Vengeance (Boksuneun naui geot),2002
+763,34319,8.0,2.0,4.0,"Island, The",2005
+764,34162,4.0,1.0,4.0,Wedding Crashers,2005
+765,33660,4.0,1.0,4.0,Cinderella Man,2005
+766,30793,12.0,3.0,4.0,Charlie and the Chocolate Factory,2005
+767,6163,4.0,1.0,4.0,He Loves Me... He Loves Me Not (À la folie... pas du tout),2002
+768,6104,4.000000000000001,1.0000000000000002,4.0,Monty Python Live at the Hollywood Bowl,1982
+769,81817,4.000000000000001,1.0000000000000002,4.0,Carlos,2010
+770,71579,4.0,1.0,4.0,"Education, An",2009
+771,71530,4.000000000000001,1.0000000000000002,4.0,Surrogates,2009
+772,71468,8.0,2.0,4.0,Ink,2009
+773,71460,4.0,1.0,4.0,Wanted,2009
+774,71450,4.000000000000001,1.0000000000000002,4.0,Capitalism: A Love Story,2009
+775,71057,4.0,1.0,4.0,9,2009
+776,2427,12.0,3.0,4.0,"Thin Red Line, The",1998
+777,109374,4.000000000000001,1.0000000000000002,4.0,"Grand Budapest Hotel, The",2014
+778,6218,8.0,2.0,4.0,Bend It Like Beckham,2002
+779,6380,4.0,1.0,4.0,Capturing the Friedmans,2003
+780,106100,4.000000000000001,1.0000000000000002,4.0,Dallas Buyers Club,2013
+781,104841,4.000000000000001,1.0000000000000002,4.0,Gravity,2013
+782,35,4.0,1.0,4.0,Carrington,1995
+783,31685,4.0,1.0,4.0,Hitch,2005
+784,72378,4.0,1.0,4.0,2012,2009
+785,1083,4.0,1.0,4.0,"Great Race, The",1965
+786,1082,8.0,2.0,4.0,"Candidate, The",1972
+787,1035,12.0,3.0,4.0,"Sound of Music, The",1965
+788,45525,4.0,1.0,4.0,"Lost City, The",2005
+789,45074,4.0,1.0,4.0,"Wild, The",2006
+790,5528,4.0,1.0,4.0,One Hour Photo,2002
+791,41716,4.000000000000001,1.0000000000000002,4.0,"Matador, The",2005
+792,6753,4.0,1.0,4.0,Secondhand Lions,2003
+793,6734,4.0,1.0,4.0,Memoirs of an Invisible Man,1992
+794,6722,4.000000000000001,1.0000000000000002,4.0,Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung),1992
+795,44191,32.0,8.0,4.0,V for Vendetta,2006
+796,5899,4.000000000000001,1.0000000000000002,4.0,Zulu,1964
+797,5693,4.0,1.0,4.0,Saturday Night Fever,1977
+798,5955,4.0,1.0,4.0,Antwone Fisher,2002
+799,1192,4.000000000000001,1.0000000000000002,4.0,Paris Is Burning,1990
+800,1188,12.0,3.0,4.0,Strictly Ballroom,1992
+801,1179,4.000000000000001,1.0000000000000002,4.0,"Grifters, The",1990
+802,1175,16.0,4.0,4.0,Delicatessen,1991
+803,1173,4.000000000000001,1.0000000000000002,4.0,"Cook the Thief His Wife & Her Lover, The",1989
+804,1171,4.0,1.0,4.0,Bob Roberts,1992
+805,1161,4.000000000000001,1.0000000000000002,4.0,"Tin Drum, The (Blechtrommel, Die)",1979
+806,43921,4.0,1.0,4.0,Running Scared,2006
+807,43836,8.0,2.0,4.0,"Pink Panther, The",2006
+808,213,4.0,1.0,4.0,Burnt by the Sun (Utomlyonnye solntsem),1994
+809,206,4.0,1.0,4.0,Unzipped,1995
+810,205,4.0,1.0,4.0,Unstrung Heroes,1995
+811,93040,4.0,1.0,4.0,"Civil War, The",1990
+812,194,12.0,3.0,4.0,Smoke,1995
+813,96829,4.000000000000001,1.0000000000000002,4.0,"Hunt, The (Jagten)",2012
+814,4083,4.0,1.0,4.0,Best Seller,1987
+815,4066,4.0,1.0,4.0,I'm Gonna Git You Sucka,1988
+816,54004,4.0,1.0,4.0,I Now Pronounce You Chuck and Larry,2007
+817,53322,4.0,1.0,4.0,Ocean's Thirteen,2007
+818,26242,4.0,1.0,4.0,Duel,1971
+819,26203,4.000000000000001,1.0000000000000002,4.0,Colossus: The Forbin Project,1970
+820,26131,4.0,1.0,4.0,"Battle of Algiers, The (La battaglia di Algeri)",1966
+821,25999,4.000000000000001,1.0000000000000002,4.0,"Wild One, The",1953
+822,25771,4.0,1.0,4.0,"Andalusian Dog, An (Chien andalou, Un)",1929
+823,1027,4.000000000000001,1.0000000000000002,4.0,Robin Hood: Prince of Thieves,1991
+824,1020,12.0,3.0,4.0,Cool Runnings,1993
+825,54190,4.0,1.0,4.0,Across the Universe,2007
+826,861,4.0,1.0,4.0,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha),1992
+827,79185,4.0,1.0,4.0,Knight and Day,2010
+828,728,8.0,2.0,4.0,Cold Comfort Farm,1995
+829,4144,12.000000000000002,3.0000000000000004,4.0,In the Mood For Love (Fa yeung nin wa),2000
+830,4139,4.0,1.0,4.0,No Man's Land,1987
+831,135,4.000000000000001,1.0000000000000002,4.0,Down Periscope,1996
+832,1019,4.0,1.0,4.0,"20,000 Leagues Under the Sea",1954
+833,1018,4.0,1.0,4.0,That Darn Cat!,1965
+834,1013,8.0,2.0,4.0,"Parent Trap, The",1961
+835,1012,4.0,1.0,4.0,Old Yeller,1957
+836,1009,4.0,1.0,4.0,Escape to Witch Mountain,1975
+837,994,4.0,1.0,4.0,Big Night,1996
+838,1464,16.0,4.0,4.0,Lost Highway,1997
+839,1449,8.0,2.0,4.0,Waiting for Guffman,1996
+840,1429,4.0,1.0,4.0,First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo),1996
+841,735,4.000000000000001,1.0000000000000002,4.0,Cemetery Man (Dellamorte Dellamore),1994
+842,1693,4.0,1.0,4.0,Amistad,1997
+843,2414,4.0,1.0,4.0,Young Sherlock Holmes,1985
+844,1619,4.0,1.0,4.0,Seven Years in Tibet,1997
+845,1597,12.0,3.0,4.0,Conspiracy Theory,1997
+846,1589,8.0,2.0,4.0,Cop Land,1997
+847,1674,4.0,1.0,4.0,Witness,1985
+848,1672,4.0,1.0,4.0,"Rainmaker, The",1997
+849,78041,4.0,1.0,4.0,Killers,2010
+850,3809,4.0,1.0,4.0,What About Bob?,1991
+851,4106,4.0,1.0,4.0,Extreme Prejudice,1987
+852,55052,4.0,1.0,4.0,Atonement,2007
+853,54997,4.0,1.0,4.0,3:10 to Yuma,2007
+854,54503,12.0,3.0,4.0,Superbad,2007
+855,4085,28.0,7.0,4.0,Beverly Hills Cop,1984
+856,1569,8.0,2.0,4.0,My Best Friend's Wedding,1997
+857,1550,4.0,1.0,4.0,Trial and Error,1997
+858,1544,8.0,2.0,4.0,"Lost World: Jurassic Park, The",1997
+859,64,4.0,1.0,4.0,Two if by Sea,1996
+860,26270,4.0,1.0,4.0,Lone Wolf and Cub: Baby Cart at the River Styx (Kozure Ôkami: Sanzu no kawa no ubaguruma),1972
+861,299,8.0,2.0,4.0,Priest,1994
+862,293,52.0,13.0,4.0,Léon: The Professional (a.k.a. The Professional) (Léon),1994
+863,3950,8.0,2.0,4.0,Tigerland,2000
+864,3917,4.0,1.0,4.0,Hellraiser,1987
+865,3915,4.0,1.0,4.0,Girlfight,2000
+866,4006,4.000000000000001,1.0000000000000002,4.0,Transformers: The Movie,1986
+867,78836,4.000000000000001,1.0000000000000002,4.0,Enter the Void,2009
+868,4103,4.000000000000001,1.0000000000000002,4.0,Empire of the Sun,1987
+869,4093,4.0,1.0,4.0,Cop,1988
+870,77800,4.0,1.0,4.0,Four Lions,2010
+871,497,16.0,4.0,4.0,Much Ado About Nothing,1993
+872,7027,4.0,1.0,4.0,Silverado,1985
+873,7013,8.0,2.0,4.0,"Night of the Hunter, The",1955
+874,4467,4.000000000000001,1.0000000000000002,4.0,"Adventures of Baron Munchausen, The",1988
+875,48774,20.0,5.0,4.0,Children of Men,2006
+876,48696,4.0,1.0,4.0,Little Children,2006
+877,48412,4.0,1.0,4.0,"Guardian, The",2006
+878,48304,4.0,1.0,4.0,Apocalypto,2006
+879,1286,4.0,1.0,4.0,Somewhere in Time,1980
+880,79879,4.0,1.0,4.0,Piranha (Piranha 3D),2010
+881,79702,12.000000000000002,3.0000000000000004,4.0,Scott Pilgrim vs. the World,2010
+882,48082,8.0,2.0,4.0,"Science of Sleep, The (La science des rêves)",2006
+883,48043,4.000000000000001,1.0000000000000002,4.0,"Fountain, The",2006
+884,78893,4.0,1.0,4.0,"Last Airbender, The",2010
+885,4383,4.0,1.0,4.0,"Crimson Rivers, The (Rivières pourpres, Les)",2000
+886,4321,4.0,1.0,4.0,City Slickers,1991
+887,4317,4.0,1.0,4.0,Love Potion #9,1992
+888,4529,4.0,1.0,4.0,Bagdad Cafe (Out of Rosenheim),1987
+889,4515,4.000000000000001,1.0000000000000002,4.0,Imagine: John Lennon,1988
+890,5008,4.0,1.0,4.0,Witness for the Prosecution,1957
+891,4681,4.0,1.0,4.0,"War of the Roses, The",1989
+892,4642,4.000000000000001,1.0000000000000002,4.0,Hedwig and the Angry Inch,2000
+893,4621,4.0,1.0,4.0,Look Who's Talking,1989
+894,4587,4.000000000000001,1.0000000000000002,4.0,Earth Girls Are Easy,1988
+895,4572,4.0,1.0,4.0,Black Rain,1989
+896,4558,8.0,2.0,4.0,Twins,1988
+897,79684,4.0,1.0,4.0,Paper Man,2009
+898,79274,4.0,1.0,4.0,Batman: Under the Red Hood,2010
+899,47640,4.0,1.0,4.0,Beerfest,2006
+900,6987,4.000000000000001,1.0000000000000002,4.0,"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das)",1920
+901,147,12.000000000000002,3.0000000000000004,4.0,"Basketball Diaries, The",1995
+902,50442,4.0,1.0,4.0,Alpha Dog,2007
+903,78105,4.0,1.0,4.0,Prince of Persia: The Sands of Time,2010
+904,534,8.0,2.0,4.0,Shadowlands,1993
+905,1411,4.0,1.0,4.0,Hamlet,1996
+906,1409,4.0,1.0,4.0,Michael,1996
+907,1387,4.0,1.0,4.0,Jaws,1975
+908,1488,4.0,1.0,4.0,"Devil's Own, The",1997
+909,52950,4.0,1.0,4.0,Day Watch (Dnevnoy dozor),2006
+910,52281,4.0,1.0,4.0,Grindhouse,2007
+911,51662,16.0,4.0,4.0,300,2007
+912,4218,4.000000000000001,1.0000000000000002,4.0,River's Edge,1986
+913,515,20.0,5.0,4.0,"Remains of the Day, The",1993
+914,766,4.0,1.0,4.0,I Shot Andy Warhol,1996
+915,753,4.0,1.0,4.0,"Month by the Lake, A",1995
+916,4506,4.0,1.0,4.0,Frantic,1988
+917,4499,8.0,2.0,4.0,Dirty Rotten Scoundrels,1988
+918,4489,8.0,2.0,4.0,Coming to America,1988
+919,306,4.0,1.0,4.0,Three Colors: Red (Trois couleurs: Rouge),1994
+920,302,4.000000000000001,1.0000000000000002,4.0,"Queen Margot (Reine Margot, La)",1994
+921,4280,4.0,1.0,4.0,"World According to Garp, The",1982
+922,4273,4.0,1.0,4.0,Under the Sand,2000
+923,4251,4.000000000000001,1.0000000000000002,4.0,Chopper,2000
+924,4235,8.000000000000002,2.0000000000000004,4.0,Amores Perros (Love's a Bitch),2000
+925,1367,4.0,1.0,4.0,101 Dalmatians,1996
+926,1366,4.0,1.0,4.0,"Crucible, The",1996
+927,1359,4.0,1.0,4.0,Jingle All the Way,1996
+928,778,56.00000000000001,14.000000000000002,4.0,Trainspotting,1996
+929,6539,56.0,14.000000000000002,3.9999999999999996,Pirates of the Caribbean: The Curse of the Black Pearl,2003
+930,58559,48.0,12.000000000000002,3.9999999999999996,"Dark Knight, The",2008
+931,47,119.0,30.0,3.966666666666667,Seven (a.k.a. Se7en),1995
+932,1225,39.5,10.0,3.95,Amadeus,1984
+933,1197,39.5,10.0,3.95,"Princess Bride, The",1987
+934,1198,75.0,19.0,3.9473684210526314,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1981
+935,4848,35.50000000000001,9.000000000000002,3.9444444444444446,Mulholland Drive,2001
+936,4995,35.5,9.0,3.9444444444444446,"Beautiful Mind, A",2001
+937,353,31.500000000000004,8.0,3.9375000000000004,"Crow, The",1994
+938,1246,31.5,8.0,3.9375,Dead Poets Society,1989
+939,741,31.500000000000007,8.000000000000002,3.9375,Ghost in the Shell (Kôkaku kidôtai),1995
+940,1220,31.5,8.0,3.9375,"Blues Brothers, The",1980
+941,3578,59.0,15.000000000000002,3.9333333333333327,Gladiator,2000
+942,3703,27.5,7.0,3.9285714285714284,"Road Warrior, The (Mad Max 2)",1981
+943,224,27.5,7.0,3.9285714285714284,Don Juan DeMarco,1995
+944,1884,27.500000000000004,7.000000000000001,3.9285714285714284,Fear and Loathing in Las Vegas,1998
+945,2011,27.500000000000004,7.000000000000001,3.9285714285714284,Back to the Future Part II,1989
+946,8874,27.500000000000004,7.000000000000001,3.9285714285714284,Shaun of the Dead,2004
+947,1240,74.5,19.0,3.9210526315789473,"Terminator, The",1984
+948,1207,23.5,6.0,3.9166666666666665,To Kill a Mockingbird,1962
+949,2396,23.5,6.0,3.9166666666666665,Shakespeare in Love,1998
+950,2692,47.00000000000001,12.000000000000002,3.9166666666666665,Run Lola Run (Lola rennt),1998
+951,68954,23.500000000000004,6.000000000000001,3.9166666666666665,Up,2009
+952,8784,23.5,6.0,3.9166666666666665,Garden State,2004
+953,1639,23.5,6.0,3.9166666666666665,Chasing Amy,1997
+954,3147,43.0,11.0,3.909090909090909,"Green Mile, The",1999
+955,39,62.5,16.0,3.90625,Clueless,1995
+956,2997,62.5,16.0,3.90625,Being John Malkovich,1999
+957,2194,19.5,5.0,3.9,"Untouchables, The",1987
+958,151,19.5,5.0,3.9,Rob Roy,1995
+959,29,19.5,5.0,3.9,"City of Lost Children, The (Cité des enfants perdus, La)",1995
+960,3052,19.5,5.0,3.9,Dogma,1999
+961,5995,19.5,5.0,3.9,"Pianist, The",2002
+962,1345,19.5,5.0,3.9,Carrie,1976
+963,2134,19.5,5.0,3.9,Weird Science,1985
+964,70,19.5,5.0,3.9,From Dusk Till Dawn,1996
+965,7438,58.5,15.000000000000002,3.8999999999999995,Kill Bill: Vol. 2,2004
+966,1036,54.50000000000001,14.000000000000002,3.892857142857143,Die Hard,1988
+967,1704,54.5,14.000000000000002,3.8928571428571423,Good Will Hunting,1997
+968,161,35.0,9.0,3.888888888888889,Crimson Tide,1995
+969,919,35.0,9.0,3.888888888888889,"Wizard of Oz, The",1939
+970,6711,50.50000000000001,13.000000000000002,3.8846153846153846,Lost in Translation,2003
+971,3996,50.5,13.0,3.8846153846153846,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",2000
+972,5010,15.500000000000002,4.0,3.8750000000000004,Black Hawk Down,2001
+973,345,15.500000000000002,4.0,3.8750000000000004,"Adventures of Priscilla, Queen of the Desert, The",1994
+974,2395,15.500000000000002,4.0,3.8750000000000004,Rushmore,1998
+975,3175,15.500000000000002,4.0,3.8750000000000004,Galaxy Quest,1999
+976,81591,15.500000000000002,4.0,3.8750000000000004,Black Swan,2010
+977,1215,31.000000000000004,8.0,3.8750000000000004,Army of Darkness,1993
+978,555,31.0,8.0,3.875,True Romance,1993
+979,599,15.5,4.0,3.875,"Wild Bunch, The",1969
+980,4855,15.5,4.0,3.875,Dirty Harry,1971
+981,2712,31.0,8.0,3.875,Eyes Wide Shut,1999
+982,2968,15.5,4.0,3.875,Time Bandits,1981
+983,162,15.5,4.0,3.875,Crumb,1994
+984,3671,15.500000000000004,4.000000000000001,3.875,Blazing Saddles,1974
+985,3396,15.500000000000002,4.000000000000001,3.8749999999999996,"Muppet Movie, The",1979
+986,4886,42.5,11.0,3.8636363636363638,"Monsters, Inc.",2001
+987,4262,27.0,7.0,3.857142857142857,Scarface,1983
+988,348,27.0,7.0,3.857142857142857,Bullets Over Broadway,1994
+989,1214,54.00000000000001,14.000000000000002,3.857142857142857,Alien,1979
+990,1625,27.0,7.0,3.857142857142857,"Game, The",1997
+991,17,38.5,10.0,3.85,Sense and Sensibility,1995
+992,337,38.5,10.0,3.85,What's Eating Gilbert Grape,1993
+993,79132,38.5,10.0,3.85,Inception,2010
+994,474,50.0,13.0,3.8461538461538463,In the Line of Fire,1993
+995,589,111.5,29.0,3.8448275862068964,Terminator 2: Judgment Day,1991
+996,30810,11.500000000000002,3.0000000000000004,3.8333333333333335,"Life Aquatic with Steve Zissou, The",2004
+997,2023,11.500000000000002,3.0000000000000004,3.8333333333333335,"Godfather: Part III, The",1990
+998,7147,11.5,3.0,3.8333333333333335,Big Fish,2003
+999,80463,11.500000000000002,3.0000000000000004,3.8333333333333335,"Social Network, The",2010
+1000,7254,11.500000000000002,3.0000000000000004,3.8333333333333335,The Butterfly Effect,2004
+1001,2728,11.5,3.0,3.8333333333333335,Spartacus,1960
+1002,76251,11.5,3.0,3.8333333333333335,Kick-Ass,2010
+1003,2871,11.5,3.0,3.8333333333333335,Deliverance,1972
+1004,708,23.0,6.0,3.8333333333333335,"Truth About Cats & Dogs, The",1996
+1005,628,11.5,3.0,3.8333333333333335,Primal Fear,1996
+1006,8783,11.5,3.0,3.8333333333333335,"Village, The",2004
+1007,1224,11.5,3.0,3.8333333333333335,Henry V,1989
+1008,2581,11.5,3.0,3.8333333333333335,Never Been Kissed,1999
+1009,538,11.5,3.0,3.8333333333333335,Six Degrees of Separation,1993
+1010,56174,11.5,3.0,3.8333333333333335,I Am Legend,2007
+1011,1276,11.500000000000002,3.0000000000000004,3.8333333333333335,Cool Hand Luke,1967
+1012,551,46.0,12.0,3.8333333333333335,"Nightmare Before Christmas, The",1993
+1013,54286,11.5,3.0,3.8333333333333335,"Bourne Ultimatum, The",2007
+1014,3386,11.5,3.0,3.8333333333333335,JFK,1991
+1015,1394,23.0,6.000000000000001,3.8333333333333326,Raising Arizona,1987
+1016,457,111.0,29.0,3.8275862068965516,"Fugitive, The",1993
+1017,6874,53.5,14.0,3.8214285714285716,Kill Bill: Vol. 1,2003
+1018,265,30.5,8.0,3.8125,Like Water for Chocolate (Como agua para chocolate),1992
+1019,1333,19.0,5.0,3.8,"Birds, The",1963
+1020,1584,38.0,10.0,3.8,Contact,1997
+1021,920,19.0,5.0,3.8,Gone with the Wind,1939
+1022,30707,19.0,5.0,3.8,Million Dollar Baby,2004
+1023,2145,19.0,5.0,3.8,Pretty in Pink,1986
+1024,63082,19.000000000000004,5.000000000000001,3.8,Slumdog Millionaire,2008
+1025,45722,19.0,5.0,3.8,Pirates of the Caribbean: Dead Man's Chest,2006
+1026,1250,19.0,5.0,3.8,"Bridge on the River Kwai, The",1957
+1027,1234,19.0,5.0,3.8,"Sting, The",1973
+1028,2115,19.000000000000004,5.000000000000001,3.8,Indiana Jones and the Temple of Doom,1984
+1029,3948,19.0,5.0,3.8,Meet the Parents,2000
+1030,1641,19.0,5.0,3.8,"Full Monty, The",1997
+1031,104,38.0,10.0,3.8,Happy Gilmore,1996
+1032,594,45.5,12.0,3.7916666666666665,Snow White and the Seven Dwarfs,1937
+1033,1291,53.00000000000001,14.000000000000002,3.7857142857142856,Indiana Jones and the Last Crusade,1989
+1034,553,34.0,9.0,3.7777777777777777,Tombstone,1993
+1035,5989,34.0,9.0,3.7777777777777777,Catch Me If You Can,2002
+1036,1748,34.00000000000001,9.000000000000002,3.7777777777777777,Dark City,1998
+1037,223,41.5,11.0,3.772727272727273,Clerks,1994
+1038,141,41.5,11.0,3.772727272727273,"Birdcage, The",1996
+1039,2762,90.5,24.0,3.7708333333333335,"Sixth Sense, The",1999
+1040,912,49.0,13.0,3.769230769230769,Casablanca,1942
+1041,3897,30.000000000000004,8.0,3.7500000000000004,Almost Famous,2000
+1042,46723,7.500000000000001,2.0,3.7500000000000004,Babel,2006
+1043,31410,7.500000000000001,2.0,3.7500000000000004,"Downfall (Untergang, Der)",2004
+1044,1965,15.000000000000002,4.0,3.7500000000000004,Repo Man,1984
+1045,94959,7.500000000000001,2.0,3.7500000000000004,Moonrise Kingdom,2012
+1046,76093,7.500000000000001,2.0,3.7500000000000004,How to Train Your Dragon,2010
+1047,72011,7.500000000000001,2.0,3.7500000000000004,Up in the Air,2009
+1048,3468,7.500000000000001,2.0,3.7500000000000004,"Hustler, The",1961
+1049,1916,7.500000000000001,2.0,3.7500000000000004,Buffalo '66 (a.k.a. Buffalo 66),1998
+1050,6242,15.000000000000002,4.0,3.7500000000000004,Ringu (Ring),1998
+1051,62511,7.500000000000001,2.0,3.7500000000000004,"Synecdoche, New York",2008
+1052,107,7.500000000000001,2.0,3.7500000000000004,Muppet Treasure Island,1996
+1053,73017,15.000000000000002,4.0,3.7500000000000004,Sherlock Holmes,2009
+1054,4776,15.000000000000002,4.0,3.7500000000000004,Training Day,2001
+1055,54995,7.500000000000001,2.0,3.7500000000000004,Planet Terror,2007
+1056,5388,7.500000000000001,2.0,3.7500000000000004,Insomnia,2002
+1057,8371,7.500000000000001,2.0,3.7500000000000004,"Chronicles of Riddick, The",2004
+1058,68157,15.000000000000002,4.0,3.7500000000000004,Inglourious Basterds,2009
+1059,55442,7.500000000000001,2.0,3.7500000000000004,Persepolis,2007
+1060,1590,7.500000000000001,2.0,3.7500000000000004,Event Horizon,1997
+1061,48738,7.500000000000001,2.0,3.7500000000000004,"Last King of Scotland, The",2006
+1062,898,7.500000000000001,2.0,3.7500000000000004,"Philadelphia Story, The",1940
+1063,1059,7.500000000000001,2.0,3.7500000000000004,William Shakespeare's Romeo + Juliet,1996
+1064,41285,7.500000000000001,2.0,3.7500000000000004,Match Point,2005
+1065,106782,7.500000000000002,2.0000000000000004,3.75,"Wolf of Wall Street, The",2013
+1066,4326,7.5,2.0,3.75,Mississippi Burning,1988
+1067,6870,15.0,4.0,3.75,Mystic River,2003
+1068,66097,15.0,4.0,3.75,Coraline,2009
+1069,915,7.5,2.0,3.75,Sabrina,1954
+1070,39292,22.500000000000004,6.000000000000001,3.75,"Good Night, and Good Luck.",2005
+1071,2403,7.5,2.0,3.75,First Blood (Rambo: First Blood),1982
+1072,2268,15.0,4.0,3.75,"Few Good Men, A",1992
+1073,1183,22.5,6.0,3.75,"English Patient, The",1996
+1074,1120,7.5,2.0,3.75,"People vs. Larry Flynt, The",1996
+1075,43936,7.5,2.0,3.75,16 Blocks,2006
+1076,6807,22.500000000000004,6.000000000000001,3.75,Monty Python's The Meaning of Life,1983
+1077,6283,7.5,2.0,3.75,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira),2001
+1078,1047,15.0,4.0,3.75,"Long Kiss Goodnight, The",1996
+1079,8798,15.0,4.0,3.75,Collateral,2004
+1080,55290,7.5,2.0,3.75,Gone Baby Gone,2007
+1081,1673,22.5,6.0,3.75,Boogie Nights,1997
+1082,922,7.5,2.0,3.75,Sunset Blvd. (a.k.a. Sunset Boulevard),1950
+1083,94070,7.500000000000002,2.0000000000000004,3.75,"Best Exotic Marigold Hotel, The",2011
+1084,67408,7.5,2.0,3.75,Monsters vs. Aliens,2009
+1085,4718,15.0,4.0,3.75,American Pie 2,2001
+1086,14,15.0,4.0,3.75,Nixon,1995
+1087,97752,7.500000000000002,2.0000000000000004,3.75,Cloud Atlas,2012
+1088,21,52.5,14.0,3.75,Get Shorty,1995
+1089,2001,15.0,4.0,3.75,Lethal Weapon 2,1989
+1090,3264,7.5,2.0,3.75,Buffy the Vampire Slayer,1992
+1091,3107,15.0,4.0,3.75,Backdraft,1991
+1092,42718,7.5,2.0,3.75,District 13 (Banlieue 13),2004
+1093,3039,15.0,4.0,3.75,Trading Places,1983
+1094,98961,7.500000000000002,2.0000000000000004,3.75,Zero Dark Thirty,2012
+1095,3408,22.5,6.0,3.75,Erin Brockovich,2000
+1096,1032,22.5,6.0,3.75,Alice in Wonderland,1951
+1097,89804,7.500000000000002,2.0000000000000004,3.75,"Ides of March, The",2011
+1098,203,22.5,6.0,3.75,"To Wong Foo, Thanks for Everything! Julie Newmar",1995
+1099,372,22.5,6.0,3.75,Reality Bites,1994
+1100,60074,7.5,2.0,3.75,Hancock,2008
+1101,3949,30.000000000000004,8.000000000000002,3.7499999999999996,Requiem for a Dream,2000
+1102,1376,22.5,6.000000000000001,3.7499999999999996,Star Trek IV: The Voyage Home,1986
+1103,1200,56.0,15.0,3.7333333333333334,Aliens,1986
+1104,2028,56.0,15.0,3.7333333333333334,Saving Private Ryan,1998
+1105,4370,26.0,7.0,3.7142857142857144,A.I. Artificial Intelligence,2001
+1106,333,26.0,7.0,3.7142857142857144,Tommy Boy,1995
+1107,2291,44.5,12.0,3.7083333333333335,Edward Scissorhands,1990
+1108,5445,44.5,12.0,3.7083333333333335,Minority Report,2002
+1109,1610,37.0,10.0,3.7,"Hunt for Red October, The",1990
+1110,1252,37.0,10.0,3.7,Chinatown,1974
+1111,1293,18.5,5.0,3.7,Gandhi,1982
+1112,3198,18.5,5.0,3.7,Papillon,1973
+1113,2076,18.5,5.0,3.7,Blue Velvet,1986
+1114,356,144.0,39.0,3.6923076923076925,Forrest Gump,1994
+1115,6,48.0,13.0,3.6923076923076925,Heat,1995
+1116,2706,29.5,8.0,3.6875,American Pie,1999
+1117,1101,29.5,8.0,3.6875,Top Gun,1986
+1118,1249,29.5,8.0,3.6875,"Femme Nikita, La (Nikita)",1990
+1119,110,117.5,32.0,3.671875,Braveheart,1995
+1120,32587,44.0,12.0,3.6666666666666665,Sin City,2005
+1121,2723,11.0,3.0,3.6666666666666665,Mystery Men,1999
+1122,195,11.0,3.0,3.6666666666666665,Something to Talk About,1995
+1123,6953,22.0,6.0,3.6666666666666665,21 Grams,2003
+1124,53125,11.0,3.0,3.6666666666666665,Pirates of the Caribbean: At World's End,2007
+1125,2791,33.00000000000001,9.000000000000002,3.6666666666666665,Airplane!,1980
+1126,1301,11.000000000000002,3.0000000000000004,3.6666666666666665,Forbidden Planet,1956
+1127,50872,11.0,3.0,3.6666666666666665,Ratatouille,2007
+1128,4571,11.0,3.0,3.6666666666666665,Bill & Ted's Excellent Adventure,1989
+1129,81847,11.0,3.0,3.6666666666666665,Tangled,2010
+1130,2313,11.000000000000002,3.0000000000000004,3.6666666666666665,"Elephant Man, The",1980
+1131,2353,22.000000000000004,6.000000000000001,3.6666666666666665,Enemy of the State,1998
+1132,1408,22.0,6.0,3.6666666666666665,"Last of the Mohicans, The",1992
+1133,281,11.0,3.0,3.6666666666666665,Nobody's Fool,1994
+1134,673,11.0,3.0,3.6666666666666665,Space Jam,1996
+1135,2478,11.0,3.0,3.6666666666666665,¡Three Amigos!,1986
+1136,2788,11.000000000000002,3.0000000000000004,3.6666666666666665,Monty Python's And Now for Something Completely Different,1971
+1137,7143,22.0,6.0,3.6666666666666665,"Last Samurai, The",2003
+1138,3683,11.0,3.0,3.6666666666666665,Blood Simple,1984
+1139,8464,11.0,3.0,3.6666666666666665,Super Size Me,2004
+1140,2797,22.0,6.0,3.6666666666666665,Big,1988
+1141,783,11.0,3.0,3.6666666666666665,"Hunchback of Notre Dame, The",1996
+1142,164,11.0,3.0,3.6666666666666665,Devil in a Blue Dress,1995
+1143,5135,11.0,3.0,3.6666666666666665,Monsoon Wedding,2001
+1144,1348,11.0,3.0000000000000004,3.666666666666666,"Nosferatu (Nosferatu, eine Symphonie des Grauens)",1922
+1145,46578,22.0,6.000000000000001,3.666666666666666,Little Miss Sunshine,2006
+1146,7981,11.000000000000002,3.000000000000001,3.666666666666666,Infernal Affairs (Mou gaan dou),2002
+1147,1961,36.5,10.0,3.65,Rain Man,1988
+1148,3418,25.500000000000004,7.000000000000001,3.642857142857143,Thelma & Louise,1991
+1149,431,25.5,7.0,3.642857142857143,Carlito's Way,1993
+1150,1729,25.5,7.000000000000001,3.6428571428571423,Jackie Brown,1997
+1151,1393,40.0,11.0,3.6363636363636362,Jerry Maguire,1996
+1152,1653,14.500000000000002,4.0,3.6250000000000004,Gattaca,1997
+1153,44665,14.500000000000002,4.0,3.6250000000000004,Lucky Number Slevin,2006
+1154,1627,14.500000000000002,4.0,3.6250000000000004,U Turn,1997
+1155,2139,14.500000000000002,4.0,3.6250000000000004,"Secret of NIMH, The",1982
+1156,1282,14.500000000000002,4.0,3.6250000000000004,Fantasia,1940
+1157,1285,14.500000000000002,4.0,3.6250000000000004,Heathers,1989
+1158,4034,14.500000000000002,4.0,3.6250000000000004,Traffic,2000
+1159,1084,14.5,4.0,3.625,Bonnie and Clyde,1967
+1160,1272,14.5,4.0,3.625,Patton,1970
+1161,410,29.0,8.0,3.625,Addams Family Values,1993
+1162,1097,58.0,16.0,3.625,E.T. the Extra-Terrestrial,1982
+1163,3421,14.5,4.0,3.625,Animal House,1978
+1164,54272,14.5,4.0,3.625,"Simpsons Movie, The",2007
+1165,4014,14.500000000000004,4.000000000000001,3.625,Chocolat,2000
+1166,44199,14.5,4.0,3.625,Inside Man,2006
+1167,8529,14.5,4.0,3.625,"Terminal, The",2004
+1168,1302,14.5,4.0,3.625,Field of Dreams,1989
+1169,34,61.5,17.0,3.6176470588235294,Babe,1995
+1170,2278,18.0,5.0,3.6,Ronin,1998
+1171,49272,18.0,5.0,3.6,Casino Royale,2006
+1172,2890,18.0,5.0,3.6,Three Kings,1999
+1173,3681,18.0,5.0,3.6,For a Few Dollars More (Per qualche dollaro in più),1965
+1174,7090,18.0,5.0,3.6,Hero (Ying xiong),2002
+1175,1079,18.0,5.0,3.6,"Fish Called Wanda, A",1988
+1176,2232,18.0,5.000000000000001,3.599999999999999,Cube,1997
+1177,1274,39.50000000000001,11.000000000000002,3.590909090909091,Akira,1988
+1178,1307,25.0,7.0,3.5714285714285716,When Harry Met Sally...,1989
+1179,1396,25.000000000000004,7.000000000000001,3.5714285714285716,Sneakers,1992
+1180,60069,28.500000000000004,8.0,3.5625000000000004,WALL·E,2008
+1181,908,28.500000000000004,8.0,3.5625000000000004,North by Northwest,1959
+1182,6365,32.0,9.0,3.5555555555555554,"Matrix Reloaded, The",2003
+1183,596,35.5,10.0,3.55,Pinocchio,1940
+1184,440,46.0,13.0,3.5384615384615383,Dave,1993
+1185,1923,46.0,13.0,3.5384615384615383,There's Something About Mary,1998
+1186,509,49.5,14.0,3.5357142857142856,"Piano, The",1993
+1187,2018,7.000000000000001,2.0,3.5000000000000004,Bambi,1942
+1188,5669,28.000000000000004,8.0,3.5000000000000004,Bowling for Columbine,2002
+1189,2926,7.000000000000001,2.0,3.5000000000000004,Hairspray,1988
+1190,2917,7.000000000000001,2.0,3.5000000000000004,Body Heat,1981
+1191,3269,7.000000000000001,2.0,3.5000000000000004,Forever Young,1992
+1192,78209,7.000000000000001,2.0,3.5000000000000004,Get Him to the Greek,2010
+1193,2700,28.000000000000004,8.0,3.5000000000000004,"South Park: Bigger, Longer and Uncut",1999
+1194,59784,7.000000000000001,2.0,3.5000000000000004,Kung Fu Panda,2008
+1195,7387,7.000000000000001,2.0,3.5000000000000004,Dawn of the Dead,1978
+1196,2872,7.000000000000001,2.0,3.5000000000000004,Excalibur,1981
+1197,6541,7.000000000000001,2.0,3.5000000000000004,"League of Extraordinary Gentlemen, The (a.k.a. LXG)",2003
+1198,77561,7.000000000000001,2.0,3.5000000000000004,Iron Man 2,2010
+1199,1242,7.000000000000001,2.0,3.5000000000000004,Glory,1989
+1200,3535,7.000000000000001,2.0,3.5000000000000004,American Psycho,2000
+1201,3704,7.000000000000001,2.0,3.5000000000000004,Mad Max Beyond Thunderdome,1985
+1202,3706,7.000000000000001,2.0,3.5000000000000004,Angel Heart,1987
+1203,2539,7.000000000000001,2.0,3.5000000000000004,Analyze This,1999
+1204,80469,7.000000000000001,2.0,3.5000000000000004,Superman/Batman: Apocalypse,2010
+1205,81562,7.000000000000001,2.0,3.5000000000000004,127 Hours,2010
+1206,4367,7.000000000000001,2.0,3.5000000000000004,Lara Croft: Tomb Raider,2001
+1207,2424,7.000000000000001,2.0,3.5000000000000004,You've Got Mail,1998
+1208,4306,59.50000000000001,17.0,3.5000000000000004,Shrek,2001
+1209,6440,7.000000000000001,2.0,3.5000000000000004,Barton Fink,1991
+1210,1370,14.000000000000002,4.0,3.5000000000000004,Die Hard 2,1990
+1211,1287,3.500000000000001,1.0000000000000002,3.5,Ben-Hur,1959
+1212,39446,7.0,2.0,3.5,Saw II,2005
+1213,38294,3.5,1.0,3.5,Beowulf & Grendel,2005
+1214,144,7.0,2.0,3.5,"Brothers McMullen, The",1995
+1215,7025,3.5,1.0,3.5,"Midnight Clear, A",1992
+1216,3994,17.5,5.0,3.5,Unbreakable,2000
+1217,4033,3.5,1.0,3.5,Thirteen Days,2000
+1218,4022,24.5,7.0,3.5,Cast Away,2000
+1219,105211,3.500000000000001,1.0000000000000002,3.5,Enough Said,2013
+1220,55253,3.500000000000001,1.0000000000000002,3.5,"Lust, Caution (Se, jie)",2007
+1221,54736,3.500000000000001,1.0000000000000002,3.5,"Kingdom, The",2007
+1222,103083,3.500000000000001,1.0000000000000002,3.5,"Reluctant Fundamentalist, The",2012
+1223,79796,3.5,1.0,3.5,Centurion,2010
+1224,3913,3.5,1.0,3.5,Barenaked in America,1999
+1225,82053,3.5,1.0,3.5,Casino Jack,2010
+1226,34150,7.0,2.0,3.5,Fantastic Four,2005
+1227,34437,3.500000000000001,1.0000000000000002,3.5,Broken Flowers,2005
+1228,1194,7.000000000000002,2.0000000000000004,3.5,Cheech and Chong's Up in Smoke,1978
+1229,327,17.5,5.0,3.5,Tank Girl,1995
+1230,81845,3.500000000000001,1.0000000000000002,3.5,"King's Speech, The",2010
+1231,31923,3.5,1.0,3.5,"Three Musketeers, The",1973
+1232,82499,3.5,1.0,3.5,How Do You Know,2010
+1233,542,7.0,2.0,3.5,Son in Law,1993
+1234,9004,3.500000000000001,1.0000000000000002,3.5,D.A.R.Y.L.,1985
+1235,25940,3.5,1.0,3.5,"Lady from Shanghai, The",1947
+1236,106916,3.500000000000001,1.0000000000000002,3.5,American Hustle,2013
+1237,292,59.5,17.0,3.5,Outbreak,1995
+1238,2702,3.5,1.0,3.5,Summer of Sam,1999
+1239,4544,3.5,1.0,3.5,Short Circuit 2,1988
+1240,2717,3.500000000000001,1.0000000000000002,3.5,Ghostbusters II,1989
+1241,2718,7.0,2.0,3.5,Drop Dead Gorgeous,1999
+1242,1298,17.5,5.0,3.5,Pink Floyd: The Wall,1982
+1243,6927,3.5,1.0,3.5,"Human Stain, The",2003
+1244,6765,3.500000000000001,1.0000000000000002,3.5,Under the Tuscan Sun,2003
+1245,46948,3.5,1.0,3.5,Monster House,2006
+1246,26249,3.5,1.0,3.5,They Call Me Trinity,1971
+1247,48982,3.5,1.0,3.5,Flushed Away,2006
+1248,8880,3.500000000000001,1.0000000000000002,3.5,Mask,1985
+1249,66354,3.5,1.0,3.5,Jesus Christ Superstar,2000
+1250,68159,7.000000000000002,2.0000000000000004,3.5,State of Play,2009
+1251,905,3.5,1.0,3.5,It Happened One Night,1934
+1252,910,14.0,4.0,3.5,Some Like It Hot,1959
+1253,77866,3.500000000000001,1.0000000000000002,3.5,Robin Hood,2010
+1254,83910,3.500000000000001,1.0000000000000002,3.5,"Dilemma, The",2011
+1255,85414,7.000000000000002,2.0000000000000004,3.5,Source Code,2011
+1256,4546,3.500000000000001,1.0000000000000002,3.5,"Vanishing, The (Spoorloos)",1988
+1257,1616,10.5,3.0,3.5,"Peacemaker, The",1997
+1258,4426,3.5,1.0,3.5,Kiss Me Deadly,1955
+1259,1617,42.0,12.0,3.5,L.A. Confidential,1997
+1260,1374,17.5,5.0,3.5,Star Trek II: The Wrath of Khan,1982
+1261,6213,3.5,1.0,3.5,Tears of the Sun,2003
+1262,3827,3.5,1.0,3.5,Space Cowboys,2000
+1263,26704,3.500000000000001,1.0000000000000002,3.5,State of Grace,1990
+1264,63,3.5,1.0,3.5,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996
+1265,6378,7.0,2.0,3.5,"Italian Job, The",2003
+1266,1562,3.5,1.0,3.5,Batman & Robin,1997
+1267,53464,3.5,1.0,3.5,Fantastic Four: Rise of the Silver Surfer,2007
+1268,9,7.0,2.0,3.5,Sudden Death,1995
+1269,911,3.5,1.0,3.5,Charade,1963
+1270,2567,7.0,2.0,3.5,EDtv,1999
+1271,8253,7.000000000000002,2.0000000000000004,3.5,Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro),1979
+1272,8370,7.0,2.0,3.5,"Blind Swordsman: Zatoichi, The (Zatôichi)",2003
+1273,7843,3.500000000000001,1.0000000000000002,3.5,Lammbock,2001
+1274,381,7.0,2.0,3.5,When a Man Loves a Woman,1994
+1275,441,7.0,2.0,3.5,Dazed and Confused,1993
+1276,53519,3.500000000000001,1.0000000000000002,3.5,Death Proof,2007
+1277,53972,3.5,1.0,3.5,Live Free or Die Hard,2007
+1278,4084,7.0,2.0,3.5,Beverly Hills Cop II,1987
+1279,2359,7.0,2.0,3.5,Waking Ned Devine (a.k.a. Waking Ned),1998
+1280,78218,3.5,1.0,3.5,Unthinkable,2010
+1281,78088,3.500000000000001,1.0000000000000002,3.5,Buried,2010
+1282,272,28.0,8.0,3.5,"Madness of King George, The",1994
+1283,900,3.5,1.0,3.5,"American in Paris, An",1951
+1284,4865,10.500000000000002,3.0000000000000004,3.5,From Hell,2001
+1285,49772,3.5,1.0,3.5,"Painted Veil, The",2006
+1286,955,3.5,1.0,3.5,Bringing Up Baby,1938
+1287,1299,10.5,3.0,3.5,"Killing Fields, The",1984
+1288,6873,3.500000000000001,1.0000000000000002,3.5,Intolerable Cruelty,2003
+1289,1358,7.0,2.0,3.5,Sling Blade,1996
+1290,1356,17.5,5.0,3.5,Star Trek: First Contact,1996
+1291,4159,7.0,2.0,3.5,3000 Miles to Graceland,2001
+1292,79057,3.5,1.0,3.5,Predators,2010
+1293,79139,3.5,1.0,3.5,"Sorcerer's Apprentice, The",2010
+1294,79251,3.500000000000001,1.0000000000000002,3.5,"Serbian Film, A (Srpski film)",2010
+1295,79553,3.500000000000001,1.0000000000000002,3.5,Ip Man 2,2010
+1296,4678,3.5,1.0,3.5,UHF,1989
+1297,4856,3.5,1.0,3.5,Destiny in Space,1994
+1298,125,7.0,2.0,3.5,Flirting With Disaster,1996
+1299,49615,3.500000000000001,1.0000000000000002,3.5,Triad Election (Election 2) (Hak se wui yi wo wai kwai),2006
+1300,4857,3.5,1.0,3.5,Fiddler on the Roof,1971
+1301,4890,7.0,2.0,3.5,Shallow Hal,2001
+1302,96832,3.500000000000001,1.0000000000000002,3.5,Holy Motors,2012
+1303,4701,3.5,1.0,3.5,Rush Hour 2,2001
+1304,237,14.0,4.0,3.5,Forget Paris,1995
+1305,247,10.5,3.0,3.5,Heavenly Creatures,1994
+1306,4978,3.500000000000001,1.0000000000000002,3.5,Lantana,2001
+1307,78574,3.500000000000001,1.0000000000000002,3.5,Winter's Bone,2010
+1308,973,3.5,1.0,3.5,Meet John Doe,1941
+1309,69640,3.5,1.0,3.5,Public Enemies,2009
+1310,41527,3.500000000000001,1.0000000000000002,3.5,Paradise Now,2005
+1311,41569,10.5,3.0,3.5,King Kong,2005
+1312,41571,3.5,1.0,3.5,Memoirs of a Geisha,2005
+1313,6966,3.500000000000001,1.0000000000000002,3.5,Darkman,1990
+1314,539,59.5,17.0,3.5,Sleepless in Seattle,1993
+1315,87430,3.5,1.0,3.5,Green Lantern,2011
+1316,926,3.5,1.0,3.5,All About Eve,1950
+1317,2599,7.0,2.0,3.5,Election,1999
+1318,2612,3.5,1.0,3.5,Mildred Pierce,1945
+1319,2616,10.5,3.0,3.5,Dick Tracy,1990
+1320,2420,7.0,2.0,3.5,"Karate Kid, The",1984
+1321,2618,3.500000000000001,1.0000000000000002,3.5,"Castle, The",1997
+1322,6062,3.500000000000001,1.0000000000000002,3.5,Lost in La Mancha,2002
+1323,6155,3.5,1.0,3.5,How to Lose a Guy in 10 Days,2003
+1324,33737,3.5,1.0,3.5,Daybreak,1993
+1325,1095,10.5,3.0,3.5,Glengarry Glen Ross,1992
+1326,2471,3.5,1.0,3.5,Crocodile Dundee II,1988
+1327,4357,3.5,1.0,3.5,How to Marry a Millionaire,1953
+1328,5981,3.5,1.0,3.5,"Day of the Triffids, The",1962
+1329,6005,3.5,1.0,3.5,Blue Collar Comedy Tour: The Movie,2003
+1330,87004,3.500000000000001,1.0000000000000002,3.5,Pina,2011
+1331,5643,3.5,1.0,3.5,Powaqqatsi,1988
+1332,5630,14.0,4.0,3.5,Red Dragon,2002
+1333,74685,3.5,1.0,3.5,"Crazies, The",2010
+1334,7360,3.5,1.0,3.5,Dawn of the Dead,2004
+1335,7347,3.5,1.0,3.5,Secret Window,2004
+1336,7817,3.5,1.0,3.5,Zardoz,1974
+1337,3253,17.5,5.0,3.5,Wayne's World,1992
+1338,1041,3.500000000000001,1.0000000000000002,3.5,Secrets & Lies,1996
+1339,426,7.0,2.0,3.5,Body Snatchers,1993
+1340,7481,3.500000000000001,1.0000000000000002,3.5,Enemy Mine,1985
+1341,37741,3.500000000000001,1.0000000000000002,3.5,Capote,2005
+1342,365,7.0,2.0,3.5,Little Buddha,1993
+1343,72395,3.5,1.0,3.5,Precious,2009
+1344,2110,3.5,1.0,3.5,Dead Men Don't Wear Plaid,1982
+1345,1950,3.5,1.0,3.5,In the Heat of the Night,1967
+1346,3196,3.5,1.0,3.5,Stalag 17,1953
+1347,3257,10.5,3.0,3.5,"Bodyguard, The",1992
+1348,3155,10.5,3.0,3.5,Anna and the King,1999
+1349,3469,3.5,1.0,3.5,Inherit the Wind,1960
+1350,3444,3.5,1.0,3.5,Bloodsport,1988
+1351,60408,3.500000000000001,1.0000000000000002,3.5,Welcome to the Sticks (Bienvenue chez les Ch'tis),2008
+1352,74154,3.5,1.0,3.5,When in Rome,2010
+1353,73929,3.5,1.0,3.5,Legion,2010
+1354,73881,3.500000000000001,1.0000000000000002,3.5,3 Idiots,2009
+1355,468,14.0,4.0,3.5,"Englishman Who Went Up a Hill But Came Down a Mountain, The",1995
+1356,1873,3.500000000000001,1.0000000000000002,3.5,"Misérables, Les",1998
+1357,3079,3.500000000000001,1.0000000000000002,3.5,Mansfield Park,1999
+1358,1944,3.5,1.0,3.5,From Here to Eternity,1953
+1359,6708,3.5,1.0,3.5,Matchstick Men,2003
+1360,6664,3.5,1.0,3.5,Commando,1985
+1361,5218,17.5,5.0,3.5,Ice Age,2002
+1362,5155,3.5,1.0,3.5,"Big Bird Cage, The",1972
+1363,1267,17.5,5.0,3.5,"Manchurian Candidate, The",1962
+1364,2022,14.0,4.0,3.5,"Last Temptation of Christ, The",1988
+1365,73268,3.5,1.0,3.5,Daybreakers,2010
+1366,2986,3.500000000000001,1.0000000000000002,3.5,RoboCop 2,1990
+1367,1846,3.500000000000001,1.0000000000000002,3.5,Nil By Mouth,1997
+1368,80489,3.500000000000001,1.0000000000000002,3.5,"Town, The",2010
+1369,62155,3.5,1.0,3.5,Nick and Norah's Infinite Playlist,2008
+1370,45447,10.5,3.0,3.5,"Da Vinci Code, The",2006
+1371,45208,3.5,1.0,3.5,RV,2006
+1372,45186,7.0,2.0,3.5,Mission: Impossible III,2006
+1373,5479,3.5,1.0,3.5,K-19: The Widowmaker,2002
+1374,42632,3.500000000000001,1.0000000000000002,3.5,Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi),2005
+1375,106920,3.500000000000001,1.0000000000000002,3.5,Her,2013
+1376,3081,17.500000000000004,5.000000000000001,3.5,Sleepy Hollow,1999
+1377,1344,14.0,4.0,3.5,Cape Fear,1962
+1378,102194,3.500000000000001,1.0000000000000002,3.5,Mud,2012
+1379,97921,3.500000000000001,1.0000000000000002,3.5,Silver Linings Playbook,2012
+1380,163,28.0,8.0,3.5,Desperado,1995
+1381,6567,3.500000000000001,1.0000000000000002,3.5,Buffalo Soldiers,2001
+1382,111443,3.500000000000001,1.0000000000000002,3.5,Chef,2014
+1383,27,7.0,2.0,3.5,Now and Then,1995
+1384,31420,3.500000000000001,1.0000000000000002,3.5,Assault on Precinct 13,2005
+1385,31049,3.500000000000001,1.0000000000000002,3.5,Out Cold,1989
+1386,6755,3.5,1.0,3.5,Bubba Ho-tep,2002
+1387,838,7.0,2.0,3.5,Emma,1996
+1388,832,14.0,4.0,3.5,Ransom,1996
+1389,3213,3.5,1.0,3.5,Batman: Mask of the Phantasm,1993
+1390,3053,3.5,1.0,3.5,"Messenger: The Story of Joan of Arc, The",1999
+1391,3020,10.5,3.0,3.5,Falling Down,1993
+1392,73000,3.5,1.0,3.5,Nine,2009
+1393,8645,7.000000000000002,2.0000000000000004,3.5,"Maria Full of Grace (Maria, Llena eres de gracia)",2004
+1394,8641,3.5,1.0,3.5,Anchorman: The Legend of Ron Burgundy,2004
+1395,81537,3.5,1.0,3.5,Due Date,2010
+1396,1888,7.0,2.0,3.5,Hope Floats,1998
+1397,74789,7.0,2.0,3.5,Alice in Wonderland,2010
+1398,74698,3.5,1.0,3.5,Tooth Fairy,2010
+1399,72224,3.5,1.0,3.5,Gentlemen Broncos,2009
+1400,72209,3.5,1.0,3.5,Astro Boy,2009
+1401,71156,3.5,1.0,3.5,"Men Who Stare at Goats, The",2009
+1402,2009,3.500000000000001,1.0000000000000002,3.5,Soylent Green,1973
+1403,73808,3.500000000000001,1.0000000000000002,3.5,"Chaser, The (Chugyeogja)",2008
+1404,73488,3.5,1.0,3.5,Blood: The Last Vampire,2009
+1405,8972,7.0,2.0,3.5,National Treasure,2004
+1406,46972,3.5,1.0,3.5,Night at the Museum,2006
+1407,83134,7.0,2.0,3.5,Tucker & Dale vs Evil,2010
+1408,280,7.0,2.0,3.5,Murder in the First,1995
+1409,277,7.0,2.0,3.5,Miracle on 34th Street,1994
+1410,4970,3.5,1.0,3.5,"Blue Angel, The (Blaue Engel, Der)",1930
+1411,1281,3.5,1.0,3.5,"Great Dictator, The",1940
+1412,1279,3.500000000000001,1.0000000000000002,3.5,Night on Earth,1991
+1413,1237,10.5,3.0,3.5,"Seventh Seal, The (Sjunde inseglet, Det)",1957
+1414,3339,3.5,1.0,3.5,Cross of Iron,1977
+1415,89492,3.500000000000001,1.0000000000000002,3.5,Moneyball,2011
+1416,3723,3.5,1.0,3.5,Hamlet,1990
+1417,3699,3.5,1.0,3.5,Starman,1984
+1418,7374,3.5,1.0,3.5,Home on the Range,2004
+1419,3543,10.5,3.0,3.5,Diner,1982
+1420,56788,3.5,1.0,3.5,Charlie Wilson's War,2007
+1421,3504,3.5,1.0,3.5,Network,1976
+1422,3676,14.000000000000004,4.000000000000001,3.5,Eraserhead,1977
+1423,1730,3.500000000000001,1.0000000000000002,3.5,Kundun,1997
+1424,43983,3.500000000000001,1.0000000000000002,3.5,Election (Hak se wui),2005
+1425,5900,3.5,1.0,3.5,Analyze That,2002
+1426,5876,3.5,1.0,3.5,"Quiet American, The",2002
+1427,5791,3.5,1.0,3.5,Frida,2002
+1428,1288,24.500000000000004,7.000000000000001,3.5,This Is Spinal Tap,1984
+1429,27266,3.500000000000001,1.0000000000000002,3.5,2046,2004
+1430,26819,3.500000000000001,1.0000000000000002,3.5,Fortress,1992
+1431,3798,3.5,1.0,3.5,What Lies Beneath,2000
+1432,47200,3.5,1.0,3.5,Crank,2006
+1433,1129,14.0,4.0,3.5,Escape from New York,1981
+1434,1127,14.000000000000004,4.000000000000001,3.5,"Abyss, The",1989
+1435,99145,3.500000000000001,1.0000000000000002,3.5,"Impossible, The (Imposible, Lo)",2012
+1436,2746,10.500000000000004,3.000000000000001,3.5,Little Shop of Horrors,1986
+1437,65982,3.5,1.0,3.5,Outlander,2008
+1438,2193,10.500000000000002,3.0000000000000004,3.5,Willow,1988
+1439,8614,3.5,1.0,3.5,Overboard,1987
+1440,1792,10.5,3.0,3.5,U.S. Marshals,1998
+1441,47491,10.5,3.0,3.5,Adam's Apples (Adams æbler),2005
+1442,3783,3.500000000000001,1.0000000000000002,3.5,Croupier,1998
+1443,1228,10.5,3.0,3.5,Raging Bull,1980
+1444,5421,3.500000000000001,1.0000000000000002,3.5,"Dangerous Lives of Altar Boys, The",2002
+1445,707,3.500000000000001,1.0000000000000002,3.5,Mulholland Falls,1996
+1446,748,7.0,2.0,3.5,"Arrival, The",1996
+1447,81788,3.5,1.0,3.5,"Next Three Days, The",2010
+1448,81641,3.5,1.0,3.5,Fair Game,2010
+1449,230,7.0,2.0,3.5,Dolores Claiborne,1995
+1450,27802,3.500000000000001,1.0000000000000002,3.5,Infernal Affairs 2 (Mou gaan dou II),2003
+1451,2794,7.0,2.0,3.5,European Vacation (aka National Lampoon's European Vacation),1985
+1452,31804,10.5,3.0,3.5,Night Watch (Nochnoy dozor),2004
+1453,8939,3.500000000000001,1.0000000000000002,3.5,"Final Cut, The",2004
+1454,1883,7.0,2.0,3.5,Bulworth,1998
+1455,57,7.0,2.0,3.5,Home for the Holidays,1995
+1456,42723,3.5,1.0,3.5,Hostel,2005
+1457,215,7.000000000000002,2.0000000000000004,3.5,Before Sunrise,1995
+1458,3391,3.5,1.0,3.5,Who's That Girl?,1987
+1459,3361,3.5,1.0,3.5,Bull Durham,1988
+1460,3341,3.5,1.0,3.5,Born Yesterday,1950
+1461,27800,3.500000000000001,1.0000000000000002,3.5,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003
+1462,63072,3.5,1.0,3.5,"Road, The",2009
+1463,8831,3.5,1.0,3.5,Suspect Zero,2004
+1464,2144,7.0,2.0,3.5,Sixteen Candles,1984
+1465,2143,3.5,1.0,3.5,Legend,1985
+1466,2140,10.500000000000002,3.0000000000000004,3.5,"Dark Crystal, The",1982
+1467,92259,7.000000000000002,2.0000000000000004,3.5,Intouchables,2011
+1468,7235,7.000000000000002,2.0000000000000004,3.5,Ichi the Killer (Koroshiya 1),2001
+1469,5573,3.5,1.0,3.5,Stealing Harvard,2002
+1470,7162,3.5,1.0,3.5,Cold Mountain,2003
+1471,371,7.0,2.0,3.5,"Paper, The",1994
+1472,36529,10.5,3.0,3.5,Lord of War,2005
+1473,36401,3.5,1.0,3.5,"Brothers Grimm, The",2005
+1474,2891,7.0,2.0,3.5,"Happy, Texas",1999
+1475,2944,10.5,3.0,3.5,"Dirty Dozen, The",1967
+1476,74868,3.5,1.0,3.5,Dorian Gray,2009
+1477,74818,3.5,1.0,3.5,44 Inch Chest,2009
+1478,74795,3.5,1.0,3.5,Green Zone,2010
+1479,7225,3.5,1.0,3.5,Pumping Iron,1977
+1480,45003,3.500000000000001,1.0000000000000002,3.5,Shutter,2004
+1481,1466,24.5,7.000000000000001,3.4999999999999996,Donnie Brasco,1997
+1482,3355,10.5,3.0000000000000004,3.4999999999999996,"Ninth Gate, The",1999
+1483,1094,17.5,5.000000000000001,3.4999999999999996,"Crying Game, The",1992
+1484,7323,17.5,5.000000000000001,3.4999999999999996,"Good bye, Lenin!",2003
+1485,5146,10.5,3.0000000000000004,3.4999999999999996,Vampire Hunter D: Bloodlust (Banpaia hantâ D),2000
+1486,97304,10.500000000000002,3.000000000000001,3.4999999999999996,Argo,2012
+1487,231,80.0,23.0,3.4782608695652173,Dumb & Dumber (Dumb and Dumber),1994
+1488,480,118.0,34.0,3.4705882352941178,Jurassic Park,1993
+1489,590,93.5,27.0,3.462962962962963,Dances with Wolves,1990
+1490,3751,34.5,10.0,3.45,Chicken Run,2000
+1491,300,34.5,10.0,3.45,Quiz Show,1994
+1492,8961,27.500000000000004,8.0,3.4375000000000004,"Incredibles, The",2004
+1493,8636,27.5,8.0,3.4375,Spider-Man 2,2004
+1494,466,27.5,8.0,3.4375,Hot Shots! Part Deux,1993
+1495,8360,27.5,8.0,3.4375,Shrek 2,2004
+1496,2916,27.500000000000004,8.000000000000002,3.4374999999999996,Total Recall,1990
+1497,2987,24.000000000000004,7.000000000000001,3.428571428571429,Who Framed Roger Rabbit?,1988
+1498,1247,24.000000000000004,7.000000000000001,3.428571428571429,"Graduate, The",1967
+1499,48516,24.0,7.000000000000001,3.428571428571428,"Departed, The",2006
+1500,4963,44.50000000000001,13.000000000000002,3.4230769230769234,Ocean's Eleven,2001
+1501,1407,20.500000000000004,6.000000000000001,3.416666666666667,Scream,1996
+1502,4720,20.500000000000004,6.000000000000001,3.416666666666667,"Others, The",2001
+1503,6934,20.5,6.0,3.4166666666666665,"Matrix Revolutions, The",2003
+1504,2355,41.0,12.0,3.4166666666666665,"Bug's Life, A",1998
+1505,16,41.0,12.0,3.4166666666666665,Casino,1995
+1506,2081,20.5,6.0,3.4166666666666665,"Little Mermaid, The",1989
+1507,923,20.5,6.000000000000001,3.416666666666666,Citizen Kane,1941
+1508,357,78.5,23.0,3.4130434782608696,Four Weddings and a Funeral,1994
+1509,588,92.0,27.0,3.4074074074074074,Aladdin,1992
+1510,6333,17.0,5.0,3.4,X2: X-Men United,2003
+1511,3702,17.0,5.0,3.4,Mad Max,1979
+1512,62,17.0,5.0,3.4,Mr. Holland's Opus,1995
+1513,1343,17.0,5.0,3.4,Cape Fear,1991
+1514,4223,17.0,5.0,3.4,Enemy at the Gates,2001
+1515,33493,17.0,5.0,3.4,Star Wars: Episode III - Revenge of the Sith,2005
+1516,5,17.0,5.0,3.4,Father of the Bride Part II,1995
+1517,40819,17.0,5.000000000000001,3.3999999999999995,Walk the Line,2005
+1518,150,81.5,24.0,3.3958333333333335,Apollo 13,1995
+1519,1580,64.5,19.0,3.3947368421052633,Men in Black (a.k.a. MIB),1997
+1520,3114,30.5,9.0,3.388888888888889,Toy Story 2,1999
+1521,733,57.5,17.0,3.3823529411764706,"Rock, The",1996
+1522,2109,13.500000000000002,4.0,3.3750000000000004,"Jerk, The",1979
+1523,5254,13.500000000000002,4.0,3.3750000000000004,Blade II,2002
+1524,899,13.500000000000002,4.0,3.3750000000000004,Singin' in the Rain,1952
+1525,2694,13.5,4.0,3.375,Big Daddy,1999
+1526,7373,13.5,4.0,3.375,Hellboy,2004
+1527,968,13.5,4.0,3.375,Night of the Living Dead,1968
+1528,1380,13.5,4.0,3.375,Grease,1978
+1529,7,13.5,4.0,3.375,Sabrina,1995
+1530,508,40.5,12.0,3.375,Philadelphia,1993
+1531,2628,50.5,15.0,3.3666666666666667,Star Wars: Episode I - The Phantom Menace,1999
+1532,1552,23.5,7.0,3.357142857142857,Con Air,1997
+1533,471,23.5,7.0,3.357142857142857,"Hudsucker Proxy, The",1994
+1534,4896,23.5,7.0,3.357142857142857,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),2001
+1535,349,47.0,14.0,3.357142857142857,Clear and Present Danger,1994
+1536,2716,47.0,14.0,3.357142857142857,Ghostbusters (a.k.a. Ghost Busters),1984
+1537,2012,23.5,7.000000000000001,3.3571428571428568,Back to the Future Part III,1990
+1538,377,93.5,28.0,3.3392857142857144,Speed,1994
+1539,661,10.0,3.0,3.3333333333333335,James and the Giant Peach,1996
+1540,317,20.0,6.0,3.3333333333333335,"Santa Clause, The",1994
+1541,477,10.0,3.0,3.3333333333333335,What's Love Got to Do with It?,1993
+1542,1711,10.0,3.0,3.3333333333333335,Midnight in the Garden of Good and Evil,1997
+1543,1254,10.000000000000002,3.0000000000000004,3.3333333333333335,"Treasure of the Sierra Madre, The",1948
+1544,3697,10.0,3.0,3.3333333333333335,Predator 2,1990
+1545,1295,10.0,3.0,3.3333333333333335,"Unbearable Lightness of Being, The",1988
+1546,3698,10.0,3.0,3.3333333333333335,"Running Man, The",1987
+1547,3753,10.0,3.0,3.3333333333333335,"Patriot, The",2000
+1548,20,10.0,3.0,3.3333333333333335,Money Train,1995
+1549,11,20.0,6.0,3.3333333333333335,"American President, The",1995
+1550,4239,10.000000000000002,3.0000000000000004,3.3333333333333335,Blow,2001
+1551,1339,10.0,3.0,3.3333333333333335,Dracula (Bram Stoker's Dracula),1992
+1552,6979,10.000000000000002,3.0000000000000004,3.3333333333333335,WarGames,1983
+1553,537,10.0,3.0,3.3333333333333335,Sirens,1994
+1554,262,10.0,3.0,3.3333333333333335,"Little Princess, A",1995
+1555,2527,10.000000000000002,3.0000000000000004,3.3333333333333335,Westworld,1973
+1556,2707,10.0,3.0,3.3333333333333335,Arlington Road,1999
+1557,2947,10.000000000000002,3.0000000000000004,3.3333333333333335,Goldfinger,1964
+1558,427,10.0,3.0,3.3333333333333335,Boxing Helena,1993
+1559,207,10.0,3.0,3.3333333333333335,"Walk in the Clouds, A",1995
+1560,1186,10.0,3.0,3.3333333333333335,"Sex, Lies, and Videotape",1989
+1561,22,10.0,3.0,3.3333333333333335,Copycat,1995
+1562,420,30.0,9.0,3.3333333333333335,Beverly Hills Cop III,1994
+1563,5449,10.0,3.0,3.3333333333333335,Mr. Deeds,2002
+1564,351,10.0,3.0,3.3333333333333335,"Corrina, Corrina",1994
+1565,216,20.0,6.0,3.3333333333333335,Billy Madison,1995
+1566,524,10.0,3.0,3.3333333333333335,Rudy,1993
+1567,342,20.0,6.0,3.3333333333333335,Muriel's Wedding,1994
+1568,743,10.0,3.0,3.3333333333333335,Spy Hard,1996
+1569,3252,10.0,3.0,3.3333333333333335,Scent of a Woman,1992
+1570,3006,10.0,3.0,3.3333333333333335,"Insider, The",1999
+1571,227,10.0,3.0,3.3333333333333335,Drop Zone,1994
+1572,2541,10.0,3.0,3.3333333333333335,Cruel Intentions,1999
+1573,442,40.0,12.0,3.3333333333333335,Demolition Man,1993
+1574,2321,20.000000000000004,6.000000000000001,3.3333333333333335,Pleasantville,1998
+1575,36517,10.000000000000002,3.000000000000001,3.333333333333333,"Constant Gardener, The",2005
+1576,1784,10.000000000000002,3.000000000000001,3.333333333333333,As Good as It Gets,1997
+1577,1967,10.000000000000002,3.000000000000001,3.333333333333333,Labyrinth,1986
+1578,2529,26.500000000000004,8.0,3.3125000000000004,Planet of the Apes,1968
+1579,2167,26.500000000000004,8.0,3.3125000000000004,Blade,1998
+1580,8644,26.5,8.0,3.3125,"I, Robot",2004
+1581,370,26.5,8.0,3.3125,Naked Gun 33 1/3: The Final Insult,1994
+1582,367,76.0,23.0,3.3043478260869565,"Mask, The",1994
+1583,3362,16.500000000000004,5.000000000000001,3.3000000000000003,Dog Day Afternoon,1975
+1584,786,16.5,5.0,3.3,Eraser,1996
+1585,288,49.5,15.0,3.3,Natural Born Killers,1994
+1586,40583,16.5,5.0,3.3,Syriana,2005
+1587,4025,16.5,5.0,3.3,Miss Congeniality,2000
+1588,5502,16.5,5.0,3.3,Signs,2002
+1589,368,39.5,12.0,3.2916666666666665,Maverick,1994
+1590,3527,23.0,7.000000000000001,3.285714285714285,Predator,1987
+1591,1,127.5,39.0,3.269230769230769,Toy Story,1995
+1592,26462,6.500000000000001,2.0,3.2500000000000004,Bad Boys,1983
+1593,1185,6.500000000000001,2.0,3.2500000000000004,My Left Foot,1989
+1594,8633,6.500000000000001,2.0,3.2500000000000004,"Last Starfighter, The",1984
+1595,902,6.500000000000001,2.0,3.2500000000000004,Breakfast at Tiffany's,1961
+1596,72226,13.000000000000002,4.0,3.2500000000000004,Fantastic Mr. Fox,2009
+1597,69122,13.000000000000002,4.0,3.2500000000000004,"Hangover, The",2009
+1598,1962,6.500000000000001,2.0,3.2500000000000004,Driving Miss Daisy,1989
+1599,1882,6.500000000000001,2.0,3.2500000000000004,Godzilla,1998
+1600,3328,6.500000000000001,2.0,3.2500000000000004,Ghost Dog: The Way of the Samurai,1999
+1601,1357,13.000000000000002,4.0,3.2500000000000004,Shine,1996
+1602,3740,6.500000000000001,2.0,3.2500000000000004,Big Trouble in Little China,1986
+1603,3893,6.500000000000001,2.0,3.2500000000000004,Nurse Betty,2000
+1604,1261,6.500000000000001,2.0,3.2500000000000004,Evil Dead II (Dead by Dawn),1987
+1605,1371,6.500000000000001,2.0,3.2500000000000004,Star Trek: The Motion Picture,1979
+1606,4447,13.000000000000002,4.0,3.2500000000000004,Legally Blonde,2001
+1607,4282,6.500000000000001,2.0,3.2500000000000004,Satyricon,1969
+1608,61323,6.500000000000001,2.0,3.2500000000000004,Burn After Reading,2008
+1609,4344,6.5,2.0,3.25,Swordfish,2001
+1610,2021,19.500000000000004,6.000000000000001,3.25,Dune,1984
+1611,5617,6.5,2.0,3.25,Secretary,2002
+1612,37729,19.5,6.0,3.25,Corpse Bride,2005
+1613,2881,6.5,2.0,3.25,Double Jeopardy,1999
+1614,2739,6.5,2.0,3.25,"Color Purple, The",1985
+1615,5872,6.5,2.0,3.25,Die Another Day,2002
+1616,2116,6.5,2.0,3.25,"Lord of the Rings, The",1978
+1617,198,19.5,6.0,3.25,Strange Days,1995
+1618,1960,6.5,2.0,3.25,"Last Emperor, The",1987
+1619,329,39.0,12.0,3.25,Star Trek: Generations,1994
+1620,60,13.0,4.0,3.25,"Indian in the Cupboard, The",1995
+1621,248,13.0,4.0,3.25,Houseguest,1994
+1622,852,6.5,2.0,3.25,Tin Cup,1996
+1623,56782,6.5,2.0,3.25,There Will Be Blood,2007
+1624,3863,6.5,2.0,3.25,"Cell, The",2000
+1625,4728,6.5,2.0,3.25,Rat Race,2001
+1626,1372,6.5,2.0,3.25,Star Trek VI: The Undiscovered Country,1991
+1627,4102,6.5,2.0,3.25,Eddie Murphy Raw,1987
+1628,4975,6.5,2.0,3.25,Vanilla Sky,2001
+1629,267,6.5,2.0,3.25,Major Payne,1995
+1630,481,6.500000000000002,2.0000000000000004,3.25,Kalifornia,1993
+1631,3869,6.5,2.0,3.25,"Naked Gun 2 1/2: The Smell of Fear, The",1991
+1632,2826,19.5,6.0,3.25,"13th Warrior, The",1999
+1633,2840,6.5,2.0,3.25,Stigmata,1999
+1634,2683,39.0,12.0,3.25,Austin Powers: The Spy Who Shagged Me,1999
+1635,2640,13.000000000000004,4.000000000000001,3.25,Superman,1978
+1636,799,6.5,2.0,3.25,"Frighteners, The",1996
+1637,27831,6.500000000000002,2.0000000000000004,3.25,Layer Cake,2004
+1638,60684,6.5,2.0,3.25,Watchmen,2009
+1639,1953,6.5,2.0,3.25,"French Connection, The",1971
+1640,1073,32.5,10.0,3.25,Willy Wonka & the Chocolate Factory,1971
+1641,2094,6.5,2.0,3.25,"Rocketeer, The",1991
+1642,3263,6.5,2.0,3.25,White Men Can't Jump,1992
+1643,5464,6.5,2.0,3.25,Road to Perdition,2002
+1644,96079,6.500000000000002,2.0000000000000004,3.25,Skyfall,2012
+1645,96610,6.500000000000002,2.0000000000000004,3.25,Looper,2012
+1646,8810,6.5,2.0,3.25,AVP: Alien vs. Predator,2004
+1647,2161,6.5,2.0,3.25,"NeverEnding Story, The",1984
+1648,1954,19.5,6.0,3.25,Rocky,1976
+1649,1517,48.5,15.0,3.2333333333333334,Austin Powers: International Man of Mystery,1997
+1650,350,29.0,9.0,3.2222222222222223,"Client, The",1994
+1651,2054,22.5,7.0,3.2142857142857144,"Honey, I Shrunk the Kids",1989
+1652,339,38.5,12.0,3.2083333333333335,While You Were Sleeping,1995
+1653,595,70.5,22.0,3.2045454545454546,Beauty and the Beast,1991
+1654,1304,16.0,5.0,3.2,Butch Cassidy and the Sundance Kid,1969
+1655,2671,16.0,5.0,3.2,Notting Hill,1999
+1656,3363,16.0,5.0,3.2,American Graffiti,1973
+1657,2770,16.0,5.0,3.2,Bowfinger,1999
+1658,1391,32.0,10.0,3.2,Mars Attacks!,1996
+1659,261,16.0,5.0,3.2,Little Women,1994
+1660,3623,16.0,5.0,3.2,Mission: Impossible II,2000
+1661,6502,16.0,5.0,3.2,28 Days Later,2002
+1662,1485,32.0,10.0,3.2,Liar Liar,1997
+1663,552,16.0,5.0,3.2,"Three Musketeers, The",1993
+1664,2657,16.0,5.000000000000001,3.1999999999999993,"Rocky Horror Picture Show, The",1975
+1665,1917,25.5,8.0,3.1875,Armageddon,1998
+1666,79008,9.500000000000002,3.0000000000000004,3.166666666666667,South Park: Imaginationland,2008
+1667,3745,9.500000000000002,3.0000000000000004,3.166666666666667,Titan A.E.,2000
+1668,86882,9.500000000000004,3.000000000000001,3.166666666666667,Midnight in Paris,2011
+1669,2407,9.5,3.0,3.1666666666666665,Cocoon,1985
+1670,1777,9.5,3.0,3.1666666666666665,"Wedding Singer, The",1998
+1671,1722,9.5,3.0,3.1666666666666665,Tomorrow Never Dies,1997
+1672,1831,9.5,3.0,3.1666666666666665,Lost in Space,1998
+1673,364,85.5,27.0,3.1666666666666665,"Lion King, The",1994
+1674,2857,9.5,3.0,3.1666666666666665,Yellow Submarine,1968
+1675,5991,19.0,6.0,3.1666666666666665,Chicago,2002
+1676,2722,9.5,3.0,3.1666666666666665,Deep Blue Sea,1999
+1677,5444,9.5,3.0,3.1666666666666665,Lilo & Stitch,2002
+1678,454,47.5,15.0,3.1666666666666665,"Firm, The",1993
+1679,1230,19.0,6.0,3.1666666666666665,Annie Hall,1977
+1680,2064,9.5,3.0,3.1666666666666665,Roger & Me,1989
+1681,2985,9.5,3.0,3.1666666666666665,RoboCop,1987
+1682,500,79.0,25.0,3.16,Mrs. Doubtfire,1993
+1683,3481,31.500000000000004,10.000000000000002,3.15,High Fidelity,2000
+1684,266,22.0,7.0,3.142857142857143,Legends of the Fall,1994
+1685,736,44.0,14.0,3.142857142857143,Twister,1996
+1686,1721,44.0,14.0,3.142857142857143,Titanic,1997
+1687,165,56.5,18.0,3.138888888888889,Die Hard: With a Vengeance,1995
+1688,380,103.5,33.0,3.1363636363636362,True Lies,1994
+1689,6377,34.5,11.0,3.1363636363636362,Finding Nemo,2003
+1690,592,87.5,28.0,3.125,Batman,1989
+1691,520,25.0,8.0,3.125,Robin Hood: Men in Tights,1993
+1692,175,12.5,4.0,3.125,Kids,1995
+1693,1028,12.5,4.0,3.125,Mary Poppins,1964
+1694,3157,12.5,4.0,3.125,Stuart Little,1999
+1695,382,12.5,4.0,3.125,Wolf,1994
+1696,2087,12.500000000000002,4.000000000000001,3.1249999999999996,Peter Pan,1953
+1697,2078,12.500000000000002,4.000000000000001,3.1249999999999996,"Jungle Book, The",1967
+1698,145,28.0,9.0,3.111111111111111,Bad Boys,1995
+1699,587,56.0,18.0,3.111111111111111,Ghost,1990
+1700,586,43.5,14.0,3.107142857142857,Home Alone,1990
+1701,2600,15.500000000000004,5.000000000000001,3.1,eXistenZ,1999
+1702,597,77.5,25.0,3.1,Pretty Woman,1990
+1703,5349,34.0,11.0,3.090909090909091,Spider-Man,2002
+1704,8368,18.5,6.0,3.0833333333333335,Harry Potter and the Prisoner of Azkaban,2004
+1705,5816,18.500000000000004,6.000000000000001,3.0833333333333335,Harry Potter and the Chamber of Secrets,2002
+1706,173,18.5,6.0,3.0833333333333335,Judge Dredd,1995
+1707,5459,18.500000000000004,6.000000000000001,3.0833333333333335,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),2002
+1708,45,18.5,6.0,3.0833333333333335,To Die For,1995
+1709,5679,18.5,6.000000000000001,3.083333333333333,"Ring, The",2002
+1710,1676,18.5,6.000000000000001,3.083333333333333,Starship Troopers,1997
+1711,253,58.0,19.0,3.0526315789473686,Interview with the Vampire: The Vampire Chronicles,1994
+1712,1573,33.5,11.0,3.0454545454545454,Face/Off,1997
+1713,95,39.5,13.0,3.0384615384615383,Broken Arrow,1996
+1714,316,69.5,23.0,3.0217391304347827,Stargate,1994
+1715,1093,6.000000000000001,2.0,3.0000000000000004,"Doors, The",1991
+1716,305,15.000000000000002,5.0,3.0000000000000004,Ready to Wear (Pret-A-Porter),1994
+1717,77667,6.000000000000001,2.0,3.0000000000000004,MacGruber,2010
+1718,3060,6.000000000000001,2.0,3.0000000000000004,"Commitments, The",1991
+1719,3062,6.000000000000001,2.0,3.0000000000000004,"Longest Day, The",1962
+1720,2336,6.000000000000001,2.0,3.0000000000000004,Elizabeth,1998
+1721,5266,6.000000000000001,2.0,3.0000000000000004,Panic Room,2002
+1722,3793,51.00000000000001,17.0,3.0000000000000004,X-Men,2000
+1723,6666,6.000000000000001,2.0,3.0000000000000004,"Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le)",1972
+1724,72407,6.0,2.0,3.0,"Twilight Saga: New Moon, The",2009
+1725,8640,3.0,1.0,3.0,King Arthur,2004
+1726,72701,3.0,1.0,3.0,Planet 51,2009
+1727,8984,3.0,1.0,3.0,Ocean's Twelve,2004
+1728,8965,3.0,1.0,3.0,"Polar Express, The",2004
+1729,72720,6.0,2.0,3.0,"Single Man, A",2009
+1730,8957,9.0,3.0,3.0,Saw,2004
+1731,72919,3.0,1.0,3.0,Did You Hear About the Morgans?,2009
+1732,2052,3.0,1.0,3.0,Hocus Pocus,1993
+1733,74532,3.0,1.0,3.0,Cop Out,2010
+1734,1854,3.0,1.0,3.0,Kissing a Fool,1998
+1735,1835,3.0,1.0,3.0,City of Angels,1998
+1736,1834,3.0,1.0,3.0,"Spanish Prisoner, The",1997
+1737,8910,3.000000000000001,1.0000000000000002,3.0,I Heart Huckabees,2004
+1738,30,3.0,1.0,3.0,Shanghai Triad (Yao a yao yao dao waipo qiao),1995
+1739,79,3.0,1.0,3.0,"Juror, The",1996
+1740,2053,3.0,1.0,3.0,"Honey, I Blew Up the Kid",1992
+1741,71,3.0,1.0,3.0,Fair Game,1995
+1742,69,3.0,1.0,3.0,Friday,1995
+1743,1875,3.0,1.0,3.0,Clockwatchers,1997
+1744,472,3.0,1.0,3.0,I'll Do Anything,1994
+1745,2082,3.0,1.0,3.0,"Mighty Ducks, The",1992
+1746,2080,3.000000000000001,1.0000000000000002,3.0,Lady and the Tramp,1955
+1747,2015,3.0,1.0,3.0,"Absent-Minded Professor, The",1961
+1748,73319,3.0,1.0,3.0,Leap Year,2010
+1749,74,3.0,1.0,3.0,Bed of Roses,1996
+1750,63992,3.0,1.0,3.0,Twilight,2008
+1751,63859,6.0,2.0,3.0,Bolt,2008
+1752,2727,3.0,1.0,3.0,Killer's Kiss,1955
+1753,2719,3.0,1.0,3.0,"Haunting, The",1999
+1754,2511,3.0,1.0,3.0,"Long Goodbye, The",1973
+1755,2648,6.0,2.0,3.0,Frankenstein,1931
+1756,2699,3.0,1.0,3.0,Arachnophobia,1990
+1757,8361,6.0,2.0,3.0,"Day After Tomorrow, The",2004
+1758,74452,3.0,1.0,3.0,"Wolfman, The",2010
+1759,68952,3.0,1.0,3.0,Drag Me to Hell,2009
+1760,2991,3.000000000000001,1.0000000000000002,3.0,Live and Let Die,1973
+1761,3016,3.000000000000001,1.0000000000000002,3.0,Creepshow,1982
+1762,3005,3.0,1.0,3.0,"Bone Collector, The",1999
+1763,376,6.0,2.0,3.0,"River Wild, The",1994
+1764,374,9.0,3.0,3.0,Richie Rich,1994
+1765,369,3.0,1.0,3.0,Mrs. Parker and the Vicious Circle,1994
+1766,37545,3.000000000000001,1.0000000000000002,3.0,Woyzeck,1979
+1767,36708,3.0,1.0,3.0,Family Guy Presents Stewie Griffin: The Untold Story,2005
+1768,69481,3.000000000000001,1.0000000000000002,3.0,"Hurt Locker, The",2008
+1769,68347,3.000000000000001,1.0000000000000002,3.0,Sin Nombre,2009
+1770,450,6.0,2.0,3.0,With Honors,1994
+1771,433,3.0,1.0,3.0,Clean Slate,1994
+1772,415,9.0,3.0,3.0,Another Stakeout,1993
+1773,2433,3.0,1.0,3.0,"Civil Action, A",1998
+1774,2391,3.0,1.0,3.0,"Simple Plan, A",1998
+1775,2387,3.0,1.0,3.0,Very Bad Things,1998
+1776,2289,3.0,1.0,3.0,"Player, The",1992
+1777,64575,3.000000000000001,1.0000000000000002,3.0,Doubt,2008
+1778,2356,3.0,1.0,3.0,Celebrity,1998
+1779,8622,15.0,5.0,3.0,Fahrenheit 9/11,2004
+1780,8528,3.0,1.0,3.0,Dodgeball: A True Underdog Story,2004
+1781,2126,3.0,1.0,3.0,Snake Eyes,1998
+1782,2120,3.0,1.0,3.0,Needful Things,1993
+1783,432,15.0,5.0,3.0,City Slickers II: The Legend of Curly's Gold,1994
+1784,2804,6.0,2.0,3.0,"Christmas Story, A",1983
+1785,2803,3.0,1.0,3.0,"Pelican Brief, The",1993
+1786,2798,3.0,1.0,3.0,Problem Child,1990
+1787,2269,3.0,1.0,3.0,Indecent Proposal,1993
+1788,612,3.0,1.0,3.0,"Pallbearer, The",1996
+1789,102445,3.000000000000001,1.0000000000000002,3.0,Star Trek Into Darkness,2013
+1790,660,3.0,1.0,3.0,August,1996
+1791,640,3.0,1.0,3.0,Diabolique,1996
+1792,637,3.0,1.0,3.0,Sgt. Bilko,1996
+1793,46,9.0,3.0,3.0,How to Make an American Quilt,1995
+1794,31705,3.000000000000001,1.0000000000000002,3.0,Beautiful Boxer,2003
+1795,30825,3.0,1.0,3.0,Meet the Fockers,2004
+1796,9005,3.0,1.0,3.0,Fire in the Sky,1993
+1797,585,21.0,7.0,3.0,"Brady Bunch Movie, The",1995
+1798,575,3.0,1.0,3.0,"Little Rascals, The",1994
+1799,562,9.0,3.0,3.0,Welcome to the Dollhouse,1995
+1800,1244,3.0,1.0,3.0,Manhattan,1979
+1801,1251,3.0,1.0,3.0,8 1/2 (8½),1963
+1802,533,3.0,1.0,3.0,"Shadow, The",1994
+1803,531,15.0,5.0,3.0,"Secret Garden, The",1993
+1804,528,3.0,1.0,3.0,"Scout, The",1994
+1805,761,3.0,1.0,3.0,"Phantom, The",1996
+1806,93855,3.000000000000001,1.0000000000000002,3.0,God Bless America,2011
+1807,93838,3.000000000000001,1.0000000000000002,3.0,The Raid: Redemption,2011
+1808,93721,3.000000000000001,1.0000000000000002,3.0,Jiro Dreams of Sushi,2011
+1809,193,21.0,7.0,3.0,Showgirls,1995
+1810,186,18.0,6.0,3.0,Nine Months,1995
+1811,5949,3.000000000000001,1.0000000000000002,3.0,Intact (Intacto),2001
+1812,6125,3.000000000000001,1.0000000000000002,3.0,"Secret Policeman's Other Ball, The",1982
+1813,6070,3.000000000000001,1.0000000000000002,3.0,Tokyo Decadence (Topâzu),1992
+1814,81784,3.0,1.0,3.0,Morning Glory,2010
+1815,95583,3.000000000000001,1.0000000000000002,3.0,Savages,2012
+1816,94864,3.000000000000001,1.0000000000000002,3.0,Prometheus,2012
+1817,6550,6.0,2.0,3.0,Johnny English,2003
+1818,42738,3.0,1.0,3.0,Underworld: Evolution,2006
+1819,6305,3.000000000000001,1.0000000000000002,3.0,Fahrenheit 451,1966
+1820,4,3.0,1.0,3.0,Waiting to Exhale,1995
+1821,757,3.000000000000001,1.0000000000000002,3.0,Ashes of Time (Dung che sai duk),1994
+1822,724,9.0,3.0,3.0,"Craft, The",1996
+1823,719,6.0,2.0,3.0,Multiplicity,1996
+1824,5784,3.0,1.0,3.0,Ghost Ship,2002
+1825,27722,3.000000000000001,1.0000000000000002,3.0,Last Life in the Universe (Ruang rak noi nid mahasan),2003
+1826,1260,3.000000000000001,1.0000000000000002,3.0,M,1931
+1827,77427,3.0,1.0,3.0,"Human Centipede, The (First Sequence)",2009
+1828,76060,3.0,1.0,3.0,"Slammin' Salmon, The",2009
+1829,1694,3.0,1.0,3.0,"Apostle, The",1997
+1830,1680,3.000000000000001,1.0000000000000002,3.0,Sliding Doors,1998
+1831,77798,3.0,1.0,3.0,"Nightmare on Elm Street, A",2010
+1832,1586,9.0,3.0,3.0,G.I. Jane,1997
+1833,518,6.0,2.0,3.0,"Road to Wellville, The",1994
+1834,68,3.0,1.0,3.0,French Twist (Gazon maudit),1995
+1835,35347,3.000000000000001,1.0000000000000002,3.0,Animal Farm,1954
+1836,1476,9.0,3.0,3.0,Private Parts,1997
+1837,1441,6.000000000000002,2.0000000000000004,3.0,Benny & Joon,1993
+1838,1431,3.0,1.0,3.0,Beverly Hills Ninja,1997
+1839,78264,3.0,1.0,3.0,"Back-up Plan, The",2010
+1840,2036,3.0,1.0,3.0,Blank Check,1994
+1841,1958,3.0,1.0,3.0,Terms of Endearment,1983
+1842,1907,12.0,4.0,3.0,Mulan,1998
+1843,1541,3.0,1.0,3.0,Addicted to Love,1997
+1844,1124,3.0,1.0,3.0,On Golden Pond,1981
+1845,1100,6.0,2.0,3.0,Days of Thunder,1990
+1846,27370,3.0,1.0,3.0,Late Night Shopping,2001
+1847,33679,3.0,1.0,3.0,Mr. & Mrs. Smith,2005
+1848,1078,3.0,1.0,3.0,Bananas,1971
+1849,1410,3.0,1.0,3.0,"Evening Star, The",1996
+1850,514,3.0,1.0,3.0,"Ref, The",1994
+1851,491,15.0,5.0,3.0,"Man Without a Face, The",1993
+1852,26688,3.000000000000001,1.0000000000000002,3.0,Hard to Kill,1990
+1853,482,3.0,1.0,3.0,Killing Zoe,1994
+1854,1337,3.000000000000001,1.0000000000000002,3.0,"Body Snatcher, The",1945
+1855,1375,6.0,2.0,3.0,Star Trek III: The Search for Spock,1984
+1856,1350,9.000000000000002,3.0000000000000004,3.0,"Omen, The",1976
+1857,1275,9.0,3.0,3.0,Highlander,1986
+1858,1268,3.0,1.0,3.0,Pump Up the Volume,1990
+1859,1292,12.0,4.0,3.0,Being There,1979
+1860,26729,3.000000000000001,1.0000000000000002,3.0,Hearts of Darkness: A Filmmakers Apocalypse,1991
+1861,26696,3.0,1.0,3.0,Lionheart,1990
+1862,490,3.0,1.0,3.0,Malice,1993
+1863,5049,3.000000000000001,1.0000000000000002,3.0,48 Hrs.,1982
+1864,5040,3.0,1.0,3.0,Conan the Destroyer,1984
+1865,5267,3.0,1.0,3.0,"Rookie, The",2002
+1866,229,3.0,1.0,3.0,Death and the Maiden,1994
+1867,274,3.0,1.0,3.0,Man of the House,1995
+1868,47254,3.0,1.0,3.0,Chaos,2005
+1869,6857,3.000000000000001,1.0000000000000002,3.0,Ninja Scroll (Jûbei ninpûchô),1995
+1870,6810,3.0,1.0,3.0,Sleeping with the Enemy,1991
+1871,2937,3.0,1.0,3.0,"Palm Beach Story, The",1942
+1872,6902,3.000000000000001,1.0000000000000002,3.0,Interstate 60,2002
+1873,4974,3.0,1.0,3.0,Not Another Teen Movie,2001
+1874,236,18.0,6.0,3.0,French Kiss,1995
+1875,234,12.0,4.0,3.0,Exit to Eden,1994
+1876,232,3.0,1.0,3.0,Eat Drink Man Woman (Yin shi nan nu),1994
+1877,44849,3.000000000000001,1.0000000000000002,3.0,Renaissance,2006
+1878,5628,3.000000000000001,1.0000000000000002,3.0,Wasabi,2001
+1879,174,3.0,1.0,3.0,Jury Duty,1995
+1880,218,3.0,1.0,3.0,Boys on the Side,1995
+1881,6787,3.0,1.0,3.0,All the President's Men,1976
+1882,168,15.0,5.0,3.0,First Knight,1995
+1883,6972,3.000000000000001,1.0000000000000002,3.0,"Watermelon Woman, The",1996
+1884,4091,3.0,1.0,3.0,Can't Buy Me Love,1987
+1885,4079,3.0,1.0,3.0,Amazon Women on the Moon,1987
+1886,53460,3.000000000000001,1.0000000000000002,3.0,Surf's Up,2007
+1887,4898,3.0,1.0,3.0,Novocaine,2001
+1888,4623,3.000000000000001,1.0000000000000002,3.0,Major League,1989
+1889,4440,3.000000000000001,1.0000000000000002,3.0,"Big Boss, The (Fists of Fury) (Tang shan da xiong)",1971
+1890,46335,3.0,1.0,3.0,"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The)",2006
+1891,4361,6.0,2.0,3.0,Tootsie,1982
+1892,4343,9.000000000000002,3.0000000000000004,3.0,Evolution,2001
+1893,6887,3.0,1.0,3.0,Radio,2003
+1894,6879,3.0,1.0,3.0,Runaway Jury,2003
+1895,7022,6.0,2.0,3.0,Battle Royale (Batoru rowaiaru),2000
+1896,148,3.0,1.0,3.0,"Awfully Big Adventure, An",1995
+1897,140,3.0,1.0,3.0,Up Close and Personal,1996
+1898,50064,3.0,1.0,3.0,"Good German, The",2006
+1899,49824,3.0,1.0,3.0,Dreamgirls,2006
+1900,4686,3.0,1.0,3.0,Weekend at Bernie's II,1993
+1901,27822,3.0,1.0,3.0,Open Water,2003
+1902,52,9.0,3.0,3.0,Mighty Aphrodite,1995
+1903,98809,3.000000000000001,1.0000000000000002,3.0,"Hobbit: An Unexpected Journey, The",2012
+1904,5577,3.000000000000001,1.0000000000000002,3.0,Igby Goes Down,2002
+1905,1064,3.0,1.0,3.0,Aladdin and the King of Thieves,1996
+1906,6331,3.000000000000001,1.0000000000000002,3.0,Spellbound,2002
+1907,5999,3.000000000000001,1.0000000000000002,3.0,Heavy Metal 2000,2000
+1908,6003,3.0,1.0,3.0,Confessions of a Dangerous Mind,2002
+1909,217,3.0,1.0,3.0,"Babysitter, The",1995
+1910,6482,3.0,1.0,3.0,Dumb and Dumberer: When Harry Met Lloyd,2003
+1911,6287,3.0,1.0,3.0,Anger Management,2003
+1912,177,3.0,1.0,3.0,Lord of Illusions,1995
+1913,179,3.0,1.0,3.0,Mad Love,1995
+1914,181,3.0,1.0,3.0,Mighty Morphin Power Rangers: The Movie,1995
+1915,182,3.0,1.0,3.0,Moonlight and Valentino,1995
+1916,184,3.0,1.0,3.0,Nadja,1994
+1917,18,9.0,3.0,3.0,Four Rooms,1995
+1918,98154,3.000000000000001,1.0000000000000002,3.0,Lincoln,2012
+1919,6565,3.0,1.0,3.0,Seabiscuit,2003
+1920,45950,6.0,2.0,3.0,"Inconvenient Truth, An",2006
+1921,5523,3.000000000000001,1.0000000000000002,3.0,"Adventures of Pluto Nash, The",2002
+1922,6764,3.0,1.0,3.0,"Rundown, The",2003
+1923,6754,6.0,2.0,3.0,Underworld,2003
+1924,5110,3.0,1.0,3.0,Super Troopers,2001
+1925,5319,3.000000000000001,1.0000000000000002,3.0,Nine Queens (Nueve reinas),2000
+1926,5303,3.0,1.0,3.0,Joe Versus the Volcano,1990
+1927,762,9.0,3.0,3.0,Striptease,1996
+1928,27839,3.0,1.0,3.0,"Ring Two, The",2005
+1929,1033,3.000000000000001,1.0000000000000002,3.0,"Fox and the Hound, The",1981
+1930,1025,3.0,1.0,3.0,"Sword in the Stone, The",1963
+1931,1022,9.000000000000002,3.0000000000000004,3.0,Cinderella,1950
+1932,1010,3.0,1.0,3.0,"Love Bug, The",1969
+1933,1050,3.0,1.0,3.0,Looking for Richard,1996
+1934,948,6.0,2.0,3.0,Giant,1956
+1935,80166,3.0,1.0,3.0,"Switch, The",2010
+1936,848,3.0,1.0,3.0,"Spitfire Grill, The",1996
+1937,27884,3.000000000000001,1.0000000000000002,3.0,Word Wars,2004
+1938,1037,6.0,2.0,3.0,"Lawnmower Man, The",1992
+1939,361,12.0,4.0,3.0,It Could Happen to You,1994
+1940,56757,3.000000000000001,1.0000000000000002,3.0,Sweeney Todd: The Demon Barber of Fleet Street,2007
+1941,3509,3.0,1.0,3.0,Black and White,1999
+1942,3489,3.0,1.0,3.0,Hook,1991
+1943,3591,3.0,1.0,3.0,Mr. Mom,1983
+1944,3453,3.0,1.0,3.0,Here on Earth,2000
+1945,340,3.0,1.0,3.0,"War, The",1994
+1946,378,3.0,1.0,3.0,Speechless,1994
+1947,170,15.0,5.0,3.0,Hackers,1995
+1948,3285,3.000000000000001,1.0000000000000002,3.0,"Beach, The",2000
+1949,3274,3.0,1.0,3.0,Single White Female,1992
+1950,7367,3.000000000000001,1.0000000000000002,3.0,"Ladykillers, The",2004
+1951,7802,3.0,1.0,3.0,"Warriors, The",1979
+1952,108,3.0,1.0,3.0,Catwalk,1996
+1953,3248,9.0,3.0,3.0,Sister Act 2: Back in the Habit,1993
+1954,3246,6.0,2.0,3.0,Malcolm X,1992
+1955,3243,3.0,1.0,3.0,Encino Man,1992
+1956,55363,6.000000000000002,2.0000000000000004,3.0,"Assassination of Jesse James by the Coward Robert Ford, The",2007
+1957,3296,3.0,1.0,3.0,To Sir with Love,1967
+1958,34532,3.0,1.0,3.0,"Skeleton Key, The",2005
+1959,8132,3.0,1.0,3.0,Gladiator,1992
+1960,2883,3.0,1.0,3.0,Mumford,1999
+1961,2882,3.0,1.0,3.0,Jakob the Liar,1999
+1962,2865,3.0,1.0,3.0,Sugar Town,1999
+1963,2861,3.0,1.0,3.0,For Love of the Game,1999
+1964,98585,3.000000000000001,1.0000000000000002,3.0,Hitchcock,2012
+1965,3334,3.000000000000001,1.0000000000000002,3.0,Key Largo,1948
+1966,7458,3.0,1.0,3.0,Troy,2004
+1967,3168,15.000000000000004,5.000000000000001,3.0,Easy Rider,1969
+1968,3259,3.0,1.0,3.0,Far and Away,1992
+1969,3100,3.000000000000001,1.0000000000000002,3.0,"River Runs Through It, A",1992
+1970,62644,3.000000000000001,1.0000000000000002,3.0,"Wave, The (Welle, Die)",2008
+1971,3063,3.0,1.0,3.0,Poison Ivy,1992
+1972,3034,3.000000000000001,1.0000000000000002,3.0,Robin Hood,1973
+1973,100,3.0,1.0,3.0,City Hall,1996
+1974,99,3.0,1.0,3.0,Heidi Fleiss: Hollywood Madam,1995
+1975,89,6.0,2.0,3.0,Nick of Time,1995
+1976,3179,3.0,1.0,3.0,Angela's Ashes,1999
+1977,55269,3.000000000000001,1.0000000000000002,3.0,"Darjeeling Limited, The",2007
+1978,38097,3.000000000000001,1.0000000000000002,3.0,Dumplings (Gaau ji),2004
+1979,7089,3.0,1.0,3.0,Amarcord,1973
+1980,7051,3.000000000000001,1.0000000000000002,3.0,"What's New, Pussycat",1965
+1981,3825,3.0,1.0,3.0,Coyote Ugly,2000
+1982,55995,3.0,1.0,3.0,Beowulf,2007
+1983,55908,3.000000000000001,1.0000000000000002,3.0,"Man from Earth, The",2007
+1984,55765,3.0,1.0,3.0,American Gangster,2007
+1985,3755,3.0,1.0,3.0,"Perfect Storm, The",2000
+1986,49651,3.0,1.0,3.0,Rocky Balboa,2006
+1987,257,3.0,1.0,3.0,Just Cause,1995
+1988,52435,6.0,2.0,3.0,How the Grinch Stole Christmas!,1966
+1989,51939,3.0,1.0,3.0,TMNT (Teenage Mutant Ninja Turtles),2007
+1990,51077,3.0,1.0,3.0,Ghost Rider,2007
+1991,50912,3.0,1.0,3.0,"Paris, I Love You (Paris, je t'aime)",2006
+1992,4203,3.000000000000001,1.0000000000000002,3.0,Harley Davidson and the Marlboro Man,1991
+1993,123,3.000000000000001,1.0000000000000002,3.0,Chungking Express (Chung Hing sam lam),1994
+1994,122,12.0,4.0,3.0,Boomerang,1992
+1995,55577,3.0,1.0,3.0,Saw IV,2007
+1996,3873,3.0,1.0,3.0,Cat Ballou,1965
+1997,89085,3.000000000000001,1.0000000000000002,3.0,"Debt, The",2011
+1998,3731,3.0,1.0,3.0,Cutter's Way,1981
+1999,3680,3.0,1.0,3.0,"Decline of Western Civilization Part II: The Metal Years, The",1988
+2000,3638,9.000000000000002,3.0000000000000004,3.0,Moonraker,1979
+2001,91077,3.000000000000001,1.0000000000000002,3.0,"Descendants, The",2011
+2002,90439,3.000000000000001,1.0000000000000002,3.0,Margin Call,2011
+2003,7285,3.0,1.0,3.0,Thirteen,2003
+2004,289,6.0,2.0,3.0,Only You,1994
+2005,58803,3.0,1.0,3.0,21,2008
+2006,58299,3.000000000000001,1.0000000000000002,3.0,Horton Hears a Who!,2008
+2007,57528,3.0,1.0,3.0,Rambo (Rambo 4),2008
+2008,324,3.0,1.0,3.0,"Sum of Us, The",1994
+2009,322,3.0,1.0,3.0,Swimming with Sharks,1995
+2010,54259,3.0,1.0,3.0,Stardust,2007
+2011,4039,6.0,2.0,3.0,Annie,1982
+2012,55176,3.000000000000001,1.0000000000000002,3.0,In the Shadow of the Moon,2007
+2013,54648,3.0,1.0,3.0,Rush Hour 3,2007
+2014,59022,6.0,2.0,3.0,Harold & Kumar Escape from Guantanamo Bay,2008
+2015,780,75.0,25.000000000000004,2.9999999999999996,Independence Day (a.k.a. ID4),1996
+2016,153,56.5,19.0,2.973684210526316,Batman Forever,1995
+2017,344,65.0,22.0,2.9545454545454546,Ace Ventura: Pet Detective,1994
+2018,10,47.0,16.0,2.9375,GoldenEye,1995
+2019,2617,20.500000000000004,7.000000000000001,2.928571428571429,"Mummy, The",1999
+2020,3617,17.5,6.0,2.9166666666666665,Road Trip,2000
+2021,4105,14.500000000000002,5.0,2.9000000000000004,"Evil Dead, The",1981
+2022,3717,14.5,5.0,2.9,Gone in 60 Seconds,2000
+2023,1608,14.5,5.0,2.9,Air Force One,1997
+2024,2006,14.5,5.0,2.9,"Mask of Zorro, The",1998
+2025,8665,14.5,5.0,2.9,"Bourne Supremacy, The",2004
+2026,303,11.500000000000002,4.0,2.8750000000000004,"Quick and the Dead, The",1995
+2027,1377,11.5,4.0,2.875,Batman Returns,1992
+2028,1587,11.5,4.0,2.875,Conan the Barbarian,1982
+2029,849,11.5,4.0,2.875,Escape from L.A.,1996
+2030,648,62.5,22.0,2.840909090909091,Mission: Impossible,1996
+2031,1060,8.500000000000002,3.0000000000000004,2.8333333333333335,Swingers,1996
+2032,1320,8.5,3.0,2.8333333333333335,Alien³ (a.k.a. Alien 3),1992
+2033,1982,8.5,3.0,2.8333333333333335,Halloween,1978
+2034,2735,8.5,3.0,2.8333333333333335,"Golden Child, The",1986
+2035,1479,8.5,3.0,2.8333333333333335,"Saint, The",1997
+2036,1690,8.500000000000002,3.0000000000000004,2.8333333333333335,Alien: Resurrection,1997
+2037,1347,8.500000000000002,3.0000000000000004,2.8333333333333335,"Nightmare on Elm Street, A",1984
+2038,185,42.5,15.0,2.8333333333333335,"Net, The",1995
+2039,2710,25.5,9.0,2.8333333333333335,"Blair Witch Project, The",1999
+2040,180,8.5,3.0,2.8333333333333335,Mallrats,1995
+2041,30812,8.5,3.0,2.8333333333333335,"Aviator, The",2004
+2042,2763,8.5,3.0,2.8333333333333335,"Thomas Crown Affair, The",1999
+2043,2,48.0,17.0,2.823529411764706,Jumanji,1995
+2044,610,14.0,5.0,2.8,Heavy Metal,1981
+2045,5378,28.0,10.0,2.8,Star Wars: Episode II - Attack of the Clones,2002
+2046,282,14.0,5.0,2.8,Nell,1994
+2047,225,33.5,12.0,2.7916666666666665,Disclosure,1994
+2048,434,39.0,14.0,2.7857142857142856,Cliffhanger,1993
+2049,1912,5.500000000000001,2.0,2.7500000000000004,Out of Sight,1998
+2050,27803,5.500000000000001,2.0,2.7500000000000004,"Sea Inside, The (Mar adentro)",2004
+2051,1717,5.500000000000001,2.0,2.7500000000000004,Scream 2,1997
+2052,2005,5.500000000000001,2.0,2.7500000000000004,"Goonies, The",1985
+2053,49932,5.500000000000002,2.0000000000000004,2.7500000000000004,Inland Empire,2006
+2054,2470,11.000000000000002,4.0,2.7500000000000004,Crocodile Dundee,1986
+2055,489,5.500000000000001,2.0,2.7500000000000004,Made in America,1993
+2056,1994,11.000000000000002,4.0,2.7500000000000004,Poltergeist,1982
+2057,8865,5.500000000000001,2.0,2.7500000000000004,Sky Captain and the World of Tomorrow,2004
+2058,540,11.0,4.0,2.75,Sliver,1993
+2059,73015,5.5,2.0,2.75,It's Complicated,2009
+2060,5299,11.0,4.0,2.75,My Big Fat Greek Wedding,2002
+2061,2378,5.5,2.0,2.75,Police Academy,1984
+2062,2294,5.5,2.0,2.75,Antz,1998
+2063,2641,5.5,2.0,2.75,Superman II,1980
+2064,50068,5.5,2.0,2.75,Letters from Iwo Jima,2006
+2065,4069,5.5,2.0,2.75,"Wedding Planner, The",2001
+2066,31696,5.5,2.0,2.75,Constantine,2005
+2067,4056,5.5,2.0,2.75,"Pledge, The",2001
+2068,4015,5.5,2.0,2.75,"Dude, Where's My Car?",2000
+2069,4446,5.5,2.0,2.75,Final Fantasy: The Spirits Within,2001
+2070,233,11.0,4.0,2.75,Exotica,1994
+2071,160,11.0,4.0,2.75,Congo,1995
+2072,5025,5.5,2.0,2.75,Orange County,2002
+2073,1894,5.5,2.0,2.75,Six Days Seven Nights,1998
+2074,5294,5.5,2.0,2.75,Frailty,2001
+2075,5308,5.5,2.0,2.75,Three Men and a Baby,1987
+2076,78467,5.5,2.0,2.75,Jonah Hex,2010
+2077,276,11.0,4.0,2.75,Milk Money,1994
+2078,82095,5.5,2.0,2.75,Skyline,2010
+2079,41566,11.0,4.0,2.75,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The",2005
+2080,379,5.5,2.0,2.75,Timecop,1994
+2081,419,11.0,4.0,2.75,"Beverly Hillbillies, The",1993
+2082,1255,5.5,2.0,2.75,Bad Taste,1987
+2083,45431,5.5,2.0,2.75,Over the Hedge,2006
+2084,196,24.5,9.0,2.7222222222222223,Species,1995
+2085,252,19.0,7.0,2.7142857142857144,I.Q.,1994
+2086,158,13.5,5.0,2.7,Casper,1995
+2087,6537,13.5,5.0,2.7,Terminator 3: Rise of the Machines,2003
+2088,1909,13.5,5.0,2.7,"X-Files: Fight the Future, The",1998
+2089,784,8.0,3.0,2.6666666666666665,"Cable Guy, The",1996
+2090,616,16.0,6.0,2.6666666666666665,"Aristocats, The",1970
+2091,41997,8.000000000000002,3.000000000000001,2.6666666666666665,Munich,2005
+2092,6503,8.0,3.0,2.6666666666666665,Charlie's Angels: Full Throttle,2003
+2093,4901,8.000000000000002,3.000000000000001,2.6666666666666665,Spy Game,2001
+2094,2288,8.0,3.0,2.6666666666666665,"Thing, The",1982
+2095,4299,8.0,3.0,2.6666666666666665,"Knight's Tale, A",2001
+2096,3409,8.0,3.0,2.6666666666666665,Final Destination,2000
+2097,3608,8.0,3.0,2.6666666666666665,Pee-wee's Big Adventure,1985
+2098,4246,8.0,3.0,2.6666666666666665,Bridget Jones's Diary,2001
+2099,2605,8.000000000000002,3.000000000000001,2.6666666666666665,Entrapment,1999
+2100,172,24.0,9.0,2.6666666666666665,Johnny Mnemonic,1995
+2101,3108,8.0,3.0,2.6666666666666665,"Fisher King, The",1991
+2102,2664,8.0,3.0000000000000004,2.666666666666666,Invasion of the Body Snatchers,1956
+2103,5673,10.500000000000002,4.0,2.6250000000000004,Punch-Drunk Love,2002
+2104,48,10.5,4.0,2.625,Pocahontas,1995
+2105,485,21.0,8.0,2.625,Last Action Hero,1993
+2106,543,23.5,9.0,2.611111111111111,So I Married an Axe Murderer,1993
+2107,24,13.0,5.0,2.6,Powder,1995
+2108,355,13.0,5.0,2.6,"Flintstones, The",1994
+2109,1747,13.000000000000002,5.000000000000001,2.6,Wag the Dog,1997
+2110,315,15.5,6.0,2.5833333333333335,"Specialist, The",1994
+2111,413,20.5,8.0,2.5625,Airheads,1994
+2112,19,25.5,10.0,2.55,Ace Ventura: When Nature Calls,1995
+2113,1757,5.000000000000002,2.0000000000000004,2.5000000000000004,Fallen Angels (Duo luo tian shi),1995
+2114,72167,5.000000000000001,2.0,2.5000000000000004,"Boondock Saints II: All Saints Day, The",2009
+2115,1271,5.000000000000002,2.0000000000000004,2.5000000000000004,Fried Green Tomatoes,1991
+2116,1243,5.000000000000001,2.0,2.5000000000000004,Rosencrantz and Guildenstern Are Dead,1990
+2117,68358,5.000000000000002,2.0000000000000004,2.5000000000000004,Star Trek,2009
+2118,67508,7.500000000000001,3.0,2.5000000000000004,"Baader Meinhof Komplex, Der",2008
+2119,79134,2.5,1.0,2.5,Grown Ups,2010
+2120,79695,7.500000000000002,3.0000000000000004,2.5,"Expendables, The",2010
+2121,45517,2.5,1.0,2.5,Cars,2006
+2122,5480,2.5,1.0,2.5,Stuart Little 2,2002
+2123,80026,2.5,1.0,2.5,Tekken,2010
+2124,44759,2.5,1.0,2.5,Basic Instinct 2,2006
+2125,80917,2.5,1.0,2.5,Monsters,2010
+2126,80590,2.5000000000000004,1.0000000000000002,2.5,Wall Street: Money Never Sleeps,2010
+2127,82852,2.5,1.0,2.5,Little Fockers,2010
+2128,5959,2.5,1.0,2.5,Narc,2002
+2129,6564,2.5,1.0,2.5,Lara Croft Tomb Raider: The Cradle of Life,2003
+2130,801,5.0,2.0,2.5,Harriet the Spy,1996
+2131,5574,5.0,2.0,2.5,"Transporter, The",2002
+2132,44929,2.5,1.0,2.5,Candy,2006
+2133,7827,2.5000000000000004,1.0000000000000002,2.5,Cypher,2002
+2134,7035,2.5,1.0,2.5,Streets of Fire,1984
+2135,7123,2.5000000000000004,1.0000000000000002,2.5,Naked Lunch,1991
+2136,34048,5.0,2.0,2.5,War of the Worlds,2005
+2137,383,5.0,2.0,2.5,Wyatt Earp,1994
+2138,27728,2.5000000000000004,1.0000000000000002,2.5,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu),2004
+2139,27351,2.5000000000000004,1.0000000000000002,2.5,Spiral,2000
+2140,13,5.0,2.0,2.5,Balto,1995
+2141,325,2.5,1.0,2.5,National Lampoon's Senior Trip,1995
+2142,332,5.0,2.0,2.5,Village of the Damned,1995
+2143,8482,2.5000000000000004,1.0000000000000002,2.5,"Picture of Dorian Gray, The",1945
+2144,26743,2.5000000000000004,1.0000000000000002,2.5,Only Yesterday (Omohide poro poro),1991
+2145,27731,2.5000000000000004,1.0000000000000002,2.5,"Cat Returns, The (Neko no ongaeshi)",2002
+2146,34505,2.5000000000000004,1.0000000000000002,2.5,Whispering Corridors (Yeogo Goedam),1998
+2147,830,10.0,4.0,2.5,"First Wives Club, The",1996
+2148,802,5.0,2.0,2.5,Phenomenon,1996
+2149,6598,2.5,1.0,2.5,Step Into Liquid,2002
+2150,412,5.0,2.0,2.5,"Age of Innocence, The",1993
+2151,88163,2.5000000000000004,1.0000000000000002,2.5,"Crazy, Stupid, Love.",2011
+2152,8501,2.5,1.0,2.5,"Hitcher, The",1986
+2153,7646,2.5,1.0,2.5,Rose Red,2002
+2154,7587,2.5,1.0,2.5,"Samouraï, Le (Godson, The)",1967
+2155,7482,2.5,1.0,2.5,Enter the Dragon,1973
+2156,8154,2.5,1.0,2.5,"Dolce Vita, La",1960
+2157,6993,2.5,1.0,2.5,Hannah and Her Sisters,1986
+2158,7004,2.5,1.0,2.5,Kindergarten Cop,1990
+2159,42728,2.5,1.0,2.5,Tristan & Isolde,2006
+2160,473,2.5,1.0,2.5,In the Army Now,1994
+2161,83369,2.5000000000000004,1.0000000000000002,2.5,"Way Back, The",2010
+2162,38886,2.5000000000000004,1.0000000000000002,2.5,"Squid and the Whale, The",2005
+2163,6952,2.5,1.0,2.5,Gothika,2003
+2164,40815,5.0,2.0,2.5,Harry Potter and the Goblet of Fire,2005
+2165,2643,2.5000000000000004,1.0000000000000002,2.5,Superman IV: The Quest for Peace,1987
+2166,2513,2.5,1.0,2.5,Pet Sematary,1989
+2167,2505,2.5,1.0,2.5,8MM,1999
+2168,4166,2.5000000000000004,1.0000000000000002,2.5,Series 7: The Contenders,2001
+2169,4191,5.0,2.0,2.5,Alfie,1966
+2170,4215,2.5,1.0,2.5,Revenge of the Nerds II: Nerds in Paradise,1987
+2171,50800,2.5,1.0,2.5,"Messengers, The",2007
+2172,2335,7.5,3.0,2.5,"Waterboy, The",1998
+2173,2133,2.5,1.0,2.5,Adventures in Babysitting,1987
+2174,72764,2.5,1.0,2.5,Transylmania,2009
+2175,48783,2.5,1.0,2.5,Flags of Our Fathers,2006
+2176,4406,2.5000000000000004,1.0000000000000002,2.5,"Man Who Shot Liberty Valance, The",1962
+2177,2183,2.5,1.0,2.5,"Man Who Knew Too Much, The",1956
+2178,4638,7.5,3.0,2.5,Jurassic Park III,2001
+2179,4866,2.5,1.0,2.5,"Last Castle, The",2001
+2180,1876,7.5,3.0,2.5,Deep Impact,1998
+2181,1388,2.5,1.0,2.5,Jaws 2,1978
+2182,4744,2.5,1.0,2.5,Jeepers Creepers,2001
+2183,1805,2.5000000000000004,1.0000000000000002,2.5,Wild Things,1998
+2184,1702,2.5,1.0,2.5,Flubber,1997
+2185,46530,2.5,1.0,2.5,Superman Returns,2006
+2186,1405,5.0,2.0,2.5,Beavis and Butt-Head Do America,1996
+2187,1378,5.0,2.0,2.5,Young Guns,1988
+2188,46912,2.5000000000000004,1.0000000000000002,2.5,Memento Mori (Yeogo goedam II),1999
+2189,1665,5.0,2.0,2.5,Bean,1997
+2190,3247,5.0,2.0,2.5,Sister Act,1992
+2191,3174,5.0,2.0,2.5,Man on the Moon,1999
+2192,62081,2.5,1.0,2.5,Eagle Eye,2008
+2193,3101,10.0,4.0,2.5,Fatal Attraction,1987
+2194,3256,5.0,2.0,2.5,Patriot Games,1992
+2195,51709,2.5000000000000004,1.0000000000000002,2.5,"Host, The (Gwoemul)",2006
+2196,2701,7.500000000000001,3.0000000000000004,2.5,Wild Wild West,1999
+2197,3729,2.5000000000000004,1.0000000000000002,2.5,Shaft,1971
+2198,3646,5.0,2.0,2.5,Big Momma's House,2000
+2199,58295,2.5,1.0,2.5,"Bank Job, The",2008
+2200,3672,5.0,2.0,2.5,Benji,1974
+2201,3555,2.5,1.0,2.5,U-571,2000
+2202,4040,5.0,2.0,2.5,Don't Tell Mom the Babysitter's Dead,1991
+2203,4018,5.0,2.0,2.5,What Women Want,2000
+2204,52722,2.5,1.0,2.5,Spider-Man 3,2007
+2205,66130,2.5000000000000004,1.0000000000000002,2.5,Chocolate,2008
+2206,64900,2.5000000000000004,1.0000000000000002,2.5,"Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do)",1990
+2207,2907,7.5,3.0,2.5,Superstar,1999
+2208,3791,7.5,3.0,2.5,Footloose,1984
+2209,56339,2.5000000000000004,1.0000000000000002,2.5,"Orphanage, The (Orfanato, El)",2007
+2210,56152,2.5,1.0,2.5,Enchanted,2007
+2211,3871,2.5000000000000004,1.0000000000000002,2.5,Shane,1953
+2212,3785,5.0,2.0,2.5,Scary Movie,2000
+2213,171,5.0,2.0,2.5,Jeffrey,1995
+2214,132,5.0,2.0,2.5,Jade,1995
+2215,55276,2.5000000000000004,1.0000000000000002,2.5,Michael Clayton,2007
+2216,54331,2.5000000000000004,1.0000000000000002,2.5,You Kill Me,2007
+2217,3993,2.5,1.0,2.5,Quills,2000
+2218,4007,2.5,1.0,2.5,Wall Street,1987
+2219,3979,2.5000000000000004,1.0000000000000002,2.5,Little Nicky,2000
+2220,3927,2.5,1.0,2.5,Fantastic Voyage,1966
+2221,3826,5.0,2.0,2.5,Hollow Man,2000
+2222,33615,2.5000000000000004,1.0000000000000002,2.5,Madagascar,2005
+2223,27801,2.5000000000000004,1.0000000000000002,2.5,Ong-Bak: The Thai Warrior (Ong Bak),2003
+2224,31364,2.5000000000000004,1.0000000000000002,2.5,Memories of Murder (Salinui chueok),2003
+2225,30850,2.5,1.0,2.5,"Merchant of Venice, The",2004
+2226,33148,2.5,1.0,2.5,King's Ransom,2005
+2227,32456,2.5000000000000004,1.0000000000000002,2.5,"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)",1994
+2228,101864,2.5000000000000004,1.0000000000000002,2.5,Oblivion,2013
+2229,208,39.0,16.0,2.4375,Waterworld,1995
+2230,31,17.0,7.0,2.4285714285714284,Dangerous Minds,1995
+2231,4308,9.500000000000002,4.0,2.3750000000000004,Moulin Rouge,2001
+2232,2405,7.0,3.0,2.3333333333333335,"Jewel of the Nile, The",1985
+2233,1289,7.0,3.0,2.3333333333333335,Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance),1983
+2234,5507,7.0,3.0,2.3333333333333335,xXx,2002
+2235,338,7.0,3.0,2.3333333333333335,Virtuosity,1995
+2236,1688,7.0,3.0000000000000004,2.333333333333333,Anastasia,1997
+2237,4148,16.0,7.000000000000001,2.2857142857142856,Hannibal,2001
+2238,3441,4.500000000000002,2.0000000000000004,2.2500000000000004,Red Dawn,1984
+2239,2428,4.500000000000002,2.0000000000000004,2.2500000000000004,"Faculty, The",1998
+2240,3156,4.500000000000001,2.0,2.2500000000000004,Bicentennial Man,1999
+2241,68135,4.5,2.0,2.25,17 Again,2009
+2242,3082,4.5,2.0,2.25,"World Is Not Enough, The",1999
+2243,4121,4.5,2.0,2.25,Innerspace,1987
+2244,969,4.5,2.0,2.25,"African Queen, The",1951
+2245,1779,4.5,2.0,2.25,Sphere,1998
+2246,4643,4.5,2.0,2.25,Planet of the Apes,2001
+2247,3744,9.0,4.0,2.25,Shaft,2000
+2248,3087,4.5,2.0,2.25,Scrooged,1988
+2249,44022,4.5,2.0,2.25,Ice Age 2: The Meltdown,2006
+2250,2404,4.5,2.0,2.25,Rambo III,1988
+2251,50804,4.5,2.0,2.25,Hannibal Rising,2007
+2252,4874,4.5,2.0,2.25,K-PAX,2001
+2253,47044,4.5,2.0,2.25,Miami Vice,2006
+2254,273,11.0,5.0,2.2,Mary Shelley's Frankenstein (Frankenstein),1994
+2255,1918,6.5,3.0000000000000004,2.1666666666666665,Lethal Weapon 4,1998
+2256,53953,6.5,3.0,2.1666666666666665,1408,2007
+2257,256,17.0,8.0,2.125,Junior,1994
+2258,3977,16.5,8.0,2.0625,Charlie's Angels,2000
+2259,4019,2.0000000000000004,1.0000000000000002,2.0,Finding Forrester,2000
+2260,4100,2.0,1.0,2.0,Disorderlies,1987
+2261,2805,2.0000000000000004,1.0000000000000002,2.0,Mickey Blue Eyes,1999
+2262,3526,4.0,2.0,2.0,Parenthood,1989
+2263,59615,2.0,1.0,2.0,Indiana Jones and the Kingdom of the Crystal Skull,2008
+2264,444,2.0,1.0,2.0,Even Cowgirls Get the Blues,1993
+2265,4118,2.0,1.0,2.0,Hot Pursuit,1987
+2266,4126,2.0,1.0,2.0,Less Than Zero,1987
+2267,4111,2.0,1.0,2.0,Gardens of Stone,1987
+2268,65651,2.0,1.0,2.0,Fire and Ice,2008
+2269,61236,2.0000000000000004,1.0000000000000002,2.0,Waltz with Bashir (Vals im Bashir),2008
+2270,4133,2.0,1.0,2.0,Masters of the Universe,1987
+2271,2950,2.0000000000000004,1.0000000000000002,2.0,"Blue Lagoon, The",1980
+2272,532,8.0,4.0,2.0,Serial Mom,1994
+2273,42011,2.0,1.0,2.0,Fun with Dick and Jane,2005
+2274,88125,2.0,1.0,2.0,Harry Potter and the Deathly Hallows: Part 2,2011
+2275,6667,2.0,1.0,2.0,Waco: The Rules of Engagement,1997
+2276,6797,2.0000000000000004,1.0000000000000002,2.0,Bugsy,1991
+2277,435,18.0,9.0,2.0,Coneheads,1993
+2278,3892,2.0000000000000004,1.0000000000000002,2.0,Anatomy (Anatomie),2000
+2279,3424,2.0,1.0,2.0,Do the Right Thing,1989
+2280,3439,2.0,1.0,2.0,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991
+2281,2660,2.0000000000000004,1.0000000000000002,2.0,"Thing from Another World, The",1951
+2282,502,2.0,1.0,2.0,"Next Karate Kid, The",1994
+2283,516,4.0,2.0,2.0,Renaissance Man,1994
+2284,505,4.0,2.0,2.0,North,1994
+2285,51931,2.0000000000000004,1.0000000000000002,2.0,Reign Over Me,2007
+2286,4127,2.0,1.0,2.0,"Like Father, Like Son",1987
+2287,2724,4.0,2.0,2.0,Runaway Bride,1999
+2288,2751,2.0,1.0,2.0,From the Hip,1987
+2289,464,2.0,1.0,2.0,Hard Target,1993
+2290,66335,2.0000000000000004,1.0000000000000002,2.0,Afro Samurai: Resurrection,2009
+2291,60979,2.0000000000000004,1.0000000000000002,2.0,Batman: Gotham Knight,2008
+2292,60609,2.0000000000000004,1.0000000000000002,2.0,Death Note,2006
+2293,56251,2.0000000000000004,1.0000000000000002,2.0,Futurama: Bender's Big Score,2007
+2294,3510,2.0,1.0,2.0,Frequency,2000
+2295,58078,2.0000000000000004,1.0000000000000002,2.0,"Air I Breathe, The",2007
+2296,3536,2.0,1.0,2.0,Keeping the Faith,2000
+2297,3287,2.0000000000000004,1.0000000000000002,2.0,"Tigger Movie, The",2000
+2298,61160,2.0000000000000004,1.0000000000000002,2.0,Star Wars: The Clone Wars,2008
+2299,4080,2.0,1.0,2.0,Baby Boom,1987
+2300,4089,2.0,1.0,2.0,Born in East L.A.,1987
+2301,392,2.0,1.0,2.0,"Secret Adventures of Tom Thumb, The",1993
+2302,360,4.0,2.0,2.0,I Love Trouble,1994
+2303,8225,2.0000000000000004,1.0000000000000002,2.0,Night of the Living Dead,1990
+2304,8157,2.0000000000000004,1.0000000000000002,2.0,Jin Roh: The Wolf Brigade (Jin-Rô),1998
+2305,27879,2.0000000000000004,1.0000000000000002,2.0,DiG!,2004
+2306,7562,2.0,1.0,2.0,Dobermann,1997
+2307,7046,2.0000000000000004,1.0000000000000002,2.0,"Witches of Eastwick, The",1987
+2308,27604,2.0000000000000004,1.0000000000000002,2.0,Suicide Club (Jisatsu saakuru),2001
+2309,23,4.0,2.0,2.0,Assassins,1995
+2310,102033,2.0000000000000004,1.0000000000000002,2.0,Pain & Gain,2013
+2311,104913,2.0000000000000004,1.0000000000000002,2.0,Rush,2013
+2312,106487,2.0,1.0,2.0,"Hunger Games: Catching Fire, The",2013
+2313,118,2.0,1.0,2.0,If Lucy Fell,1996
+2314,3953,2.0,1.0,2.0,Dr. T and the Women,2000
+2315,3918,2.0,1.0,2.0,Hellbound: Hellraiser II,1988
+2316,91542,2.0000000000000004,1.0000000000000002,2.0,Sherlock Holmes: A Game of Shadows,2011
+2317,3955,2.0,1.0,2.0,"Ladies Man, The",2000
+2318,8985,4.0,2.0,2.0,Blade: Trinity,2004
+2319,95088,2.0000000000000004,1.0000000000000002,2.0,Safety Not Guaranteed,2012
+2320,1726,2.0,1.0,2.0,"Postman, The",1997
+2321,1683,2.0,1.0,2.0,"Wings of the Dove, The",1997
+2322,96861,2.0000000000000004,1.0000000000000002,2.0,Taken 2,2012
+2323,99114,2.0,1.0,2.0,Django Unchained,2012
+2324,1678,2.0000000000000004,1.0000000000000002,2.0,"Joy Luck Club, The",1993
+2325,97913,2.0000000000000004,1.0000000000000002,2.0,Wreck-It Ralph,2012
+2326,1283,2.0000000000000004,1.0000000000000002,2.0,High Noon,1952
+2327,4427,2.0,1.0,2.0,"Lion in Winter, The",1968
+2328,4628,2.0,1.0,2.0,New York Stories,1989
+2329,1518,6.0,3.0,2.0,Breakdown,1997
+2330,77820,2.0,1.0,2.0,Furry Vengeance,2010
+2331,1432,2.0000000000000004,1.0000000000000002,2.0,Metro,1997
+2332,5309,2.0,1.0,2.0,Three Men and a Little Lady,1990
+2333,5387,2.0,1.0,2.0,Enough,2002
+2334,39444,2.0,1.0,2.0,"Weather Man, The",2005
+2335,2662,2.0,1.0,2.0,"War of the Worlds, The",1953
+2336,2429,2.0,1.0,2.0,Mighty Joe Young,1998
+2337,2552,2.0,1.0,2.0,My Boyfriend's Back,1993
+2338,68791,4.0,2.0,2.0,Terminator Salvation,2009
+2339,606,2.0,1.0,2.0,Candyman: Farewell to the Flesh,1995
+2340,43928,2.0,1.0,2.0,Ultraviolet,2006
+2341,662,2.0,1.0,2.0,Fear,1996
+2342,2431,4.0,2.0,2.0,Patch Adams,1998
+2343,521,2.0,1.0,2.0,Romeo Is Bleeding,1993
+2344,4110,2.0,1.0,2.0,"Fourth Protocol, The",1987
+2345,4519,2.0000000000000004,1.0000000000000002,2.0,"Land Before Time, The",1988
+2346,4327,2.0,1.0,2.0,"Magnificent Seven, The",1960
+2347,4369,2.0000000000000004,1.0000000000000002,2.0,"Fast and the Furious, The",2001
+2348,2402,2.0,1.0,2.0,Rambo: First Blood Part II,1985
+2349,1911,2.0,1.0,2.0,Dr. Dolittle,1998
+2350,45442,2.0,1.0,2.0,Poseidon,2006
+2351,653,2.0000000000000004,1.0000000000000002,2.0,Dragonheart,1996
+2352,50153,2.0,1.0,2.0,Code Name: The Cleaner,2007
+2353,47937,2.0000000000000004,1.0000000000000002,2.0,Severance,2006
+2354,1969,2.0,1.0,2.0,"Nightmare on Elm Street 2: Freddy's Revenge, A",1985
+2355,987,2.0000000000000004,1.0000000000000002,2.0,Bliss,1997
+2356,1021,2.0,1.0,2.0,Angels in the Outfield,1994
+2357,72696,2.0,1.0,2.0,Old Dogs,2009
+2358,1920,6.0,3.0,2.0,Small Soldiers,1998
+2359,44972,2.0,1.0,2.0,Scary Movie 4,2006
+2360,5452,2.0,1.0,2.0,Look Who's Talking Now,1993
+2361,1892,2.0000000000000004,1.0000000000000002,2.0,"Perfect Murder, A",1998
+2362,49284,2.0,1.0,2.0,10 Items or Less,2006
+2363,48877,4.0,2.0,2.0,Saw III,2006
+2364,1760,4.0,2.0,2.0,Spice World,1997
+2365,2490,2.0,1.0,2.0,Payback,1999
+2366,2454,2.0,1.0,2.0,"Fly, The",1958
+2367,2410,2.0000000000000004,1.0000000000000002,2.0,Rocky III,1982
+2368,2500,2.0,1.0,2.0,Jawbreaker,1999
+2369,50189,2.0,1.0,2.0,American Pie Presents The Naked Mile (American Pie 5: The Naked Mile),2006
+2370,4161,2.0000000000000004,1.0000000000000002,2.0,"Mexican, The",2001
+2371,2687,2.0,1.0,2.0,Tarzan,1999
+2372,634,2.0,1.0,2.0,Theodore Rex,1995
+2373,6535,2.0,1.0,2.0,"Legally Blonde 2: Red, White & Blonde",2003
+2374,6239,2.0000000000000004,1.0000000000000002,2.0,Journey to the Center of the Earth,1959
+2375,6533,2.0000000000000004,1.0000000000000002,2.0,"What's Up, Doc?",1972
+2376,519,4.0,2.0,2.0,RoboCop 3,1993
+2377,1643,2.0000000000000004,1.0000000000000002,2.0,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown)",1997
+2378,4790,2.0000000000000004,1.0000000000000002,2.0,"Return of a Man Called Horse, The",1976
+2379,1772,2.0,1.0,2.0,Blues Brothers 2000,1998
+2380,5002,2.0000000000000004,1.0000000000000002,2.0,Fritz the Cat,1972
+2381,1334,4.0,2.0,2.0,"Blob, The",1958
+2382,1416,4.0,2.0,2.0,Evita,1996
+2383,45852,2.0,1.0,2.0,See No Evil,2006
+2384,100714,2.0000000000000004,1.0000000000000002,2.0,Before Midnight,2013
+2385,1030,2.0000000000000004,1.0000000000000002,2.0,Pete's Dragon,1977
+2386,4466,2.0000000000000004,1.0000000000000002,2.0,Above the Law,1988
+2387,44,13.5,7.0,1.9285714285714286,Mortal Kombat,1995
+2388,204,11.0,6.0,1.8333333333333333,Under Siege 2: Dark Territory,1995
+2389,455,11.0,6.0,1.8333333333333333,Free Willy,1993
+2390,45499,3.5000000000000004,2.0,1.7500000000000002,X-Men: The Last Stand,2006
+2391,1614,3.5,2.0,1.75,In & Out,1997
+2392,4310,7.0,4.0,1.75,Pearl Harbor,2001
+2393,5481,3.5,2.0,1.75,Austin Powers in Goldmember,2002
+2394,3,7.0,4.0,1.75,Grumpier Old Men,1995
+2395,1023,3.5,2.0,1.75,Winnie the Pooh and the Blustery Day,1968
+2396,3354,3.5,2.0,1.75,Mission to Mars,2000
+2397,2953,5.0,3.0,1.6666666666666667,Home Alone 2: Lost in New York,1992
+2398,2085,5.000000000000001,3.0000000000000004,1.6666666666666667,101 Dalmatians (One Hundred and One Dalmatians),1961
+2399,7454,1.5000000000000004,1.0000000000000002,1.5,Van Helsing,2004
+2400,27772,1.5000000000000004,1.0000000000000002,1.5,Ju-on: The Grudge,2002
+2401,3764,1.5000000000000004,1.0000000000000002,1.5,F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion),1991
+2402,3440,3.0,2.0,1.5,Teenage Mutant Ninja Turtles III,1993
+2403,53121,3.0,2.0,1.5,Shrek the Third,2007
+2404,60522,1.5000000000000004,1.0000000000000002,1.5,"Machine Girl, The (Kataude mashin gâru)",2008
+2405,60161,1.5000000000000004,1.0000000000000002,1.5,Futurama: The Beast with a Billion Backs,2008
+2406,31427,1.5000000000000004,1.0000000000000002,1.5,Hide and Seek,2005
+2407,26403,1.5000000000000004,1.0000000000000002,1.5,"Hobbit, The",1977
+2408,59900,1.5,1.0,1.5,You Don't Mess with the Zohan,2008
+2409,68319,1.5000000000000004,1.0000000000000002,1.5,X-Men Origins: Wolverine,2009
+2410,64969,1.5,1.0,1.5,Yes Man,2008
+2411,63181,1.5000000000000004,1.0000000000000002,1.5,Tokyo Gore Police (Tôkyô zankoku keisatsu),2008
+2412,2877,1.5000000000000004,1.0000000000000002,1.5,Tommy,1975
+2413,6709,1.5000000000000004,1.0000000000000002,1.5,Once Upon a Time in Mexico,2003
+2414,62956,1.5000000000000004,1.0000000000000002,1.5,Futurama: Bender's Game,2008
+2415,62265,1.5000000000000004,1.0000000000000002,1.5,"Accidental Husband, The",2009
+2416,3173,1.5000000000000004,1.0000000000000002,1.5,Any Given Sunday,1999
+2417,5915,1.5000000000000004,1.0000000000000002,1.5,Victory (a.k.a. Escape to Victory),1981
+2418,1840,1.5,1.0,1.5,He Got Game,1998
+2419,2150,3.0,2.0,1.5,"Gods Must Be Crazy, The",1980
+2420,5548,1.5000000000000004,1.0000000000000002,1.5,Down and Out in Beverly Hills,1986
+2421,2411,1.5,1.0,1.5,Rocky IV,1985
+2422,5694,1.5,1.0,1.5,Staying Alive,1983
+2423,2384,1.5,1.0,1.5,Babe: Pig in the City,1998
+2424,50798,1.5,1.0,1.5,Epic Movie,2007
+2425,4275,1.5000000000000004,1.0000000000000002,1.5,Krull,1983
+2426,1499,4.5,3.0,1.5,Anaconda,1997
+2427,5055,1.5,1.0,1.5,Dragon: The Bruce Lee Story,1993
+2428,5419,1.5,1.0,1.5,Scooby-Doo,2002
+2429,1754,1.5,1.0,1.5,Fallen,1998
+2430,4844,1.5000000000000004,1.0000000000000002,1.5,Bandits,2001
+2431,46970,1.5,1.0,1.5,Talladega Nights: The Ballad of Ricky Bobby,2006
+2432,46965,3.0,2.0,1.5,Snakes on a Plane,2006
+2433,4816,4.500000000000001,3.0000000000000004,1.5,Zoolander,2001
+2434,5311,1.5000000000000004,1.0000000000000002,1.5,"Watcher in the Woods, The",1980
+2435,1515,1.5,1.0,1.5,Volcano,1997
+2436,1620,1.5,1.0,1.5,Kiss the Girls,1997
+2437,91485,1.5000000000000004,1.0000000000000002,1.5,"Expendables 2, The",2012
+2438,3968,1.5,1.0,1.5,Bedazzled,2000
+2439,3997,1.5,1.0,1.5,Dungeons & Dragons,2000
+2440,169,4.5,3.0,1.5,Free Willy 2: The Adventure Home,1995
+2441,3752,4.0,3.0,1.3333333333333333,"Me, Myself & Irene",2000
+2442,2381,2.5,2.0,1.25,Police Academy 4: Citizens on Patrol,1987
+2443,7369,2.5,2.0,1.25,Scooby-Doo 2: Monsters Unleashed,2004
+2444,3986,1.0000000000000002,1.0000000000000002,1.0,"6th Day, The",2000
+2445,1713,1.0,1.0,1.0,Mouse Hunt,1997
+2446,1644,1.0000000000000002,1.0000000000000002,1.0,I Know What You Did Last Summer,1997
+2447,5012,1.0000000000000002,1.0000000000000002,1.0,Yentl,1983
+2448,3988,1.0000000000000002,1.0000000000000002,1.0,How the Grinch Stole Christmas (a.k.a. The Grinch),2000
+2449,1427,1.0,1.0,1.0,Turbulence,1997
+2450,1556,1.0,1.0,1.0,Speed 2: Cruise Control,1997
+2451,47518,1.0,1.0,1.0,Accepted,2006
+2452,1126,1.0,1.0,1.0,Drop Dead Fred,1991
+2453,1955,1.0000000000000002,1.0000000000000002,1.0,Kramer vs. Kramer,1979
+2454,44397,1.0,1.0,1.0,"Hills Have Eyes, The",2006
+2455,2059,1.0000000000000002,1.0000000000000002,1.0,"Parent Trap, The",1998
+2456,45880,1.0,1.0,1.0,Marie Antoinette,2006
+2457,95510,1.0000000000000002,1.0000000000000002,1.0,"Amazing Spider-Man, The",2012
+2458,65,1.0,1.0,1.0,Bio-Dome,1996
+2459,33836,1.0,1.0,1.0,Bewitched,2005
+2460,3513,1.0,1.0,1.0,Rules of Engagement,2000
+2461,2942,1.0000000000000002,1.0000000000000002,1.0,Flashdance,1983
+2462,3401,1.0000000000000002,1.0000000000000002,1.0,Baby... Secret of the Lost Legend,1985
+2463,4132,1.0,1.0,1.0,Mannequin,1987
+2464,4094,1.0,1.0,1.0,Critical Condition,1987
+2465,2241,1.0000000000000002,1.0000000000000002,1.0,Class,1983
+2466,1970,1.0,1.0,1.0,"Nightmare on Elm Street 3: Dream Warriors, A",1987
+2467,627,1.0,1.0,1.0,"Last Supper, The",1995
+2468,4116,1.0,1.0,1.0,Hollywood Shuffle,1987
+2469,2366,1.0000000000000002,1.0000000000000002,1.0,King Kong,1933
+2470,2380,1.0000000000000002,1.0000000000000002,1.0,Police Academy 3: Back in Training,1986
+2471,4135,1.0,1.0,1.0,"Monster Squad, The",1987
+2472,4138,1.0,1.0,1.0,My Demon Lover,1987
+2473,2002,1.0,1.0,1.0,Lethal Weapon 3,1992
+2474,2363,1.0,1.0,1.0,Godzilla (Gojira),1954
+2475,546,1.0,1.0,1.0,Super Mario Bros.,1993
+2476,2526,1.0,1.0,1.0,Meteor,1979
+2477,7150,1.0,1.0,1.0,Stuck on You,2003
+2478,6872,1.0,1.0,1.0,"House of the Dead, The",2003
+2479,2709,1.0,1.0,1.0,Muppets From Space,1999
+2480,2792,1.0,1.0,1.0,Airplane II: The Sequel,1982
+2481,65230,1.0,1.0,1.0,Marley & Me,2008
+2482,51412,1.0000000000000002,1.0000000000000002,1.0,Next,2007
+2483,4129,1.0,1.0,1.0,Made in Heaven,1987
+2484,4125,1.0,1.0,1.0,Leonard Part 6,1987
+2485,4131,1.0,1.0,1.0,Making Mr. Right,1987
+2486,4130,1.0,1.0,1.0,Maid to Order,1987
+2487,4124,1.0,1.0,1.0,Jaws: The Revenge,1987
+2488,4123,1.0,1.0,1.0,Ishtar,1987
+2489,4134,1.0,1.0,1.0,Million Dollar Mystery,1987
+2490,1995,1.0,1.0,1.0,Poltergeist II: The Other Side,1986
+2491,8372,1.0,1.0,1.0,Garfield: The Movie,2004
+2492,60037,1.0,1.0,1.0,"Happening, The",2008
+2493,62999,1.0000000000000002,1.0000000000000002,1.0,Madagascar: Escape 2 Africa,2008
+2494,65088,1.0000000000000002,1.0000000000000002,1.0,Bedtime Stories,2008
+2495,3844,1.0000000000000002,1.0000000000000002,1.0,Steel Magnolias,1989
+2496,3250,1.0000000000000002,1.0000000000000002,1.0,Alive,1993
+2497,2450,1.5000000000000002,2.0,0.7500000000000001,Howard the Duck,1986
+2498,1381,1.5000000000000002,2.0,0.7500000000000001,Grease 2,1982
+2499,5292,0.5,1.0,0.5,Slap Shot,1977
+2500,66,0.5000000000000001,1.0000000000000002,0.5,Lawnmower Man 2: Beyond Cyberspace,1996
+2501,8387,0.5000000000000001,1.0000000000000002,0.5,Police Academy: Mission to Moscow,1994
+2502,55768,0.5000000000000001,1.0000000000000002,0.5,Bee Movie,2007
+2503,3998,0.5,1.0,0.5,Proof of Life,2000
+2504,1827,0.5,1.0,0.5,"Big One, The",1997
+2505,2297,0.5,1.0,0.5,What Dreams May Come,1998
+2506,2163,0.5000000000000001,1.0000000000000002,0.5,Attack of the Killer Tomatoes!,1978
+2507,6338,0.5,1.0,0.5,Daddy Day Care,2003
+2508,44004,0.5,1.0,0.5,Failure to Launch,2006
+2509,43904,0.5000000000000001,1.0000000000000002,0.5,When a Stranger Calls,2006
+2510,6615,0.5,1.0,0.5,Freddy vs. Jason,2003
+2511,50796,0.5000000000000001,1.0000000000000002,0.5,Blood and Chocolate,2007
+2512,2383,0.5000000000000001,1.0000000000000002,0.5,Police Academy 6: City Under Siege,1989
+2513,1992,0.5,1.0,0.5,Child's Play 2,1990
+2514,45062,0.5,1.0,0.5,"Sentinel, The",2006
+2515,4735,0.5000000000000001,1.0000000000000002,0.5,Ghosts of Mars,2001
+2516,2122,0.5,1.0,0.5,Children of the Corn,1984
+2517,6800,0.5000000000000001,1.0000000000000002,0.5,Cobra,1986
+2518,63393,0.5,1.0,0.5,Camp Rock,2008
+2519,3889,0.5000000000000001,1.0000000000000002,0.5,Highlander: Endgame (Highlander IV),2000
+2520,58103,0.5,1.0,0.5,Vantage Point,2008
+2521,7444,0.5,1.0,0.5,13 Going on 30,2004
+2522,33646,0.5,1.0,0.5,"Longest Yard, The",2005
